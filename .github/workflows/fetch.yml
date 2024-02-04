@@ -18,7 +18,7 @@ jobs:
       run: |        
         curl -s 'https://ags.pge.esriemcs.com/arcgis/rest/services/43/outages/MapServer/5/query?where=1%3D1&outFields=*&f=pjson' \
           | jq '.features | map({
-            attributes: (.attributes | del(.blueSkyNotificationSubscription)),
+            attributes: (.attributes | del(.blueSkyNotificationSubscription, .OBJECTID)),
             geometry_x: .geometry.x,
             geometry_y: .geometry.y
           } | .attributes + {geometry_x: .geometry_x, geometry_y: .geometry_y})' \
