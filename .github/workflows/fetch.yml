@@ -14,6 +14,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+        cache: 'pip'
+    - name: Install Python tools
+      run: pip install -r requirements.txt
     - name: Fetch
       run: |        
         curl -s 'https://ags.pge.esriemcs.com/arcgis/rest/services/43/outages/MapServer/5/query?where=1%3D1&outFields=*&f=pjson' \
@@ -22,13 +28,14 @@ jobs:
             geometry_x: .geometry.x,
             geometry_y: .geometry.y
           } | .attributes + {geometry_x: .geometry_x, geometry_y: .geometry_y})' \
-          > outages.json
-    - name: Commit and push
+          > outages-new.json
+    - name: Generate commit message, commit and push
       run: |-
+        commit_message=$(csv-diff outages.json outages-new.json --key F_OUTAGE_ID --format json)
+        mv outages-new.json outages.json
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
         git add -A
-        timestamp=$(date -u)
-        git commit -m "${timestamp}" || exit 0
+        git commit -m "${commit_message}" || exit 0
         git pull --rebase
         git push
