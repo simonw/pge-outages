@@ -30,7 +30,7 @@ jobs:
           } | .attributes + {geometry_x: .geometry_x, geometry_y: .geometry_y})' \
           > outages-new.json
         head -n 20 outages-new.json
-        head -n outages.json
+        head -n 20 outages.json
     - name: Generate commit message, commit and push
       run: |-
         commit_message=$(csv-diff outages.json outages-new.json --key F_OUTAGE_ID --format json)
