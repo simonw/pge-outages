@@ -33,11 +33,11 @@ jobs:
         head -n 20 outages.json
     - name: Generate commit message, commit and push
       run: |-
-        commit_message=$(csv-diff outages.json outages-new.json --key F_OUTAGE_ID --format json)
+        csv-diff outages.json outages-new.json --key F_OUTAGE_ID --format json > message.txt
         mv outages-new.json outages.json
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
-        git add -A
-        git commit -m "${commit_message}" || exit 0
+        git add outages.json
+        git commit -F message.txt || exit 0
         git pull --rebase
         git push
