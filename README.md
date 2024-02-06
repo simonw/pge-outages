@@ -8,6 +8,12 @@ The most recently tracked outages are in [outages.json](https://github.com/simon
 
 A previous version of this repository ran from from 2019 to 2022. That data can now be found in [simonw/pge-outages-pre-2024](https://github.com/simonw/pge-outages-pre-2024/)
 
+## Incomplete data warning
+
+This repository only archives outages that are reported for a single location.
+
+The outage map also includes polygon data, which is much more interesting... but has not proven practical to archive here, for [reasons explained in this issue comment](https://github.com/simonw/pge-outages/issues/4#issuecomment-1928758853). Short version: I'd have to constantly archive 100MB of data per snapshot because the polygons are so large!
+
 ## Browsing the latest data in Datasette Lite
 
 Use this URL to open the latest `outages.json` in [Datasette Lite](https://github.com/simonw/datasette-lite):
