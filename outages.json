@@ -754,5 +754,32 @@
     "fts_flag": "N",
     "geometry_x": -13481196.6512,
     "geometry_y": 4240860.157499999
+  },
+  {
+    "F_OUTAGE_ID": 2373095,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "314173138530",
+    "OUTAGE_CIRCUIT_ID": 24101102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.54103,
+    "OUTAGE_LONGITUDE": -122.51095,
+    "CITY": "Montara",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1707633660000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1707633668000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1707654600000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1707654600000,
+    "SPID": "6031047710",
+    "fts_flag": "N",
+    "geometry_x": -13637856.5706,
+    "geometry_y": 4514790.106399998
   }
 ]
