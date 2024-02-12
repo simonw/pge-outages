@@ -538,32 +538,5 @@
     "fts_flag": "N",
     "geometry_x": -13458074.4798,
     "geometry_y": 4224329.215999998
-  },
-  {
-    "F_OUTAGE_ID": 2373557,
-    "OUTAGE_EXTENT": "CUSTOMER",
-    "OUTAGE_DEVICE_ID": "315831328852",
-    "OUTAGE_CIRCUIT_ID": 82921113,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man Enroute",
-    "OUTAGE_CAUSE": "STORM",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 37.28361,
-    "OUTAGE_LONGITUDE": -121.93417,
-    "CITY": "Campbell",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1707712608000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1707713471000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": null,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": "7812099405",
-    "fts_flag": "N",
-    "geometry_x": -13573649.7147,
-    "geometry_y": 4478712.436999999
   }
 ]
