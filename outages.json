@@ -349,5 +349,32 @@
     "fts_flag": "N",
     "geometry_x": -13345395.778,
     "geometry_y": 4415800.392099999
+  },
+  {
+    "F_OUTAGE_ID": 2386631,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "418619524599",
+    "OUTAGE_CIRCUIT_ID": 254001103,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 36.00733,
+    "OUTAGE_LONGITUDE": -119.46775,
+    "CITY": "Corcoran",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1708747200000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1708747852000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1708756200000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1708756200000,
+    "SPID": "7134388005",
+    "fts_flag": "N",
+    "geometry_x": -13299089.0962,
+    "geometry_y": 4301630.015600003
   }
 ]
