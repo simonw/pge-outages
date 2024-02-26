@@ -79,32 +79,5 @@
     "fts_flag": "N",
     "geometry_x": -13437416.9219,
     "geometry_y": 4649382.996799998
-  },
-  {
-    "F_OUTAGE_ID": 2387657,
-    "OUTAGE_EXTENT": "CUSTOMER",
-    "OUTAGE_DEVICE_ID": "314894336392",
-    "OUTAGE_CIRCUIT_ID": 24181104,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "BRKN POLE EQUIPMNT",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 37.48626,
-    "OUTAGE_LONGITUDE": -122.26085,
-    "CITY": "San Carlos",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1708908286000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1708922131000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1708938000000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": "6432921905",
-    "fts_flag": "N",
-    "geometry_x": -13610015.566,
-    "geometry_y": 4507103.640299998
   }
 ]
