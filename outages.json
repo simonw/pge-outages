@@ -187,5 +187,32 @@
     "fts_flag": "N",
     "geometry_x": -13331953.9495,
     "geometry_y": 4340818.240400001
+  },
+  {
+    "F_OUTAGE_ID": 2388639,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "517158968373",
+    "OUTAGE_CIRCUIT_ID": 252771101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 35.3754,
+    "OUTAGE_LONGITUDE": -118.9533,
+    "CITY": "Bakersfield",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1709017460000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1709017735000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1709037000000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1709037000000,
+    "SPID": "6862478010",
+    "fts_flag": "N",
+    "geometry_x": -13241820.7842,
+    "geometry_y": 4215014.253300004
   }
 ]
