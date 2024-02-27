@@ -187,32 +187,5 @@
     "fts_flag": "N",
     "geometry_x": -13331953.9495,
     "geometry_y": 4340818.240400001
-  },
-  {
-    "F_OUTAGE_ID": 2388637,
-    "OUTAGE_EXTENT": "CUSTOMER",
-    "OUTAGE_DEVICE_ID": "217414836105",
-    "OUTAGE_CIRCUIT_ID": 42751113,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 38.65562,
-    "OUTAGE_LONGITUDE": -122.90547,
-    "CITY": "Healdsburg",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1709015899000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1709015955000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1709048700000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1709048700000,
-    "SPID": "3348977505",
-    "fts_flag": "N",
-    "geometry_x": -13681774.3361,
-    "geometry_y": 4672461.458800003
   }
 ]
