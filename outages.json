@@ -133,32 +133,5 @@
     "fts_flag": "N",
     "geometry_x": -13525374.9043,
     "geometry_y": 4570988.576899998
-  },
-  {
-    "F_OUTAGE_ID": 2390527,
-    "OUTAGE_EXTENT": "CUSTOMER",
-    "OUTAGE_DEVICE_ID": "222824833053",
-    "OUTAGE_CIRCUIT_ID": 153612103,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 38.57039,
-    "OUTAGE_LONGITUDE": -121.01361,
-    "CITY": "Shingle Springs",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1709181360000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1709181390000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1709189100000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1709189100000,
-    "SPID": "2685418399",
-    "fts_flag": "N",
-    "geometry_x": -13471173.4443,
-    "geometry_y": 4660319.125699997
   }
 ]
