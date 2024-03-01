@@ -349,5 +349,32 @@
     "fts_flag": "N",
     "geometry_x": -13322876.9582,
     "geometry_y": 4467914.069499999
+  },
+  {
+    "F_OUTAGE_ID": 2391752,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "320377536958",
+    "OUTAGE_CIRCUIT_ID": 252811102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.51569,
+    "OUTAGE_LONGITUDE": -120.36969,
+    "CITY": "Snelling",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1709267282000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1709267945000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1709290800000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1709290800000,
+    "SPID": "7542302105",
+    "fts_flag": "N",
+    "geometry_x": -13399492.5977,
+    "geometry_y": 4511233.169100001
   }
 ]
