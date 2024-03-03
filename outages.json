@@ -430,5 +430,32 @@
     "fts_flag": "N",
     "geometry_x": -13778623.4063,
     "geometry_y": 4895118.398400001
+  },
+  {
+    "F_OUTAGE_ID": 2395725,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "315372332938",
+    "OUTAGE_CIRCUIT_ID": 82031105,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.39362,
+    "OUTAGE_LONGITUDE": -122.09404,
+    "CITY": "Mountain View",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1709443260000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1709443485000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1709460000000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1709460000000,
+    "SPID": "9017014705",
+    "fts_flag": "N",
+    "geometry_x": -13591446.3617,
+    "geometry_y": 4494115.281999998
   }
 ]
