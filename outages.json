@@ -79,32 +79,5 @@
     "fts_flag": "N",
     "geometry_x": -13474095.5809,
     "geometry_y": 4721342.122699998
-  },
-  {
-    "F_OUTAGE_ID": 2400539,
-    "OUTAGE_EXTENT": "CUSTOMER",
-    "OUTAGE_DEVICE_ID": "314337943811",
-    "OUTAGE_CIRCUIT_ID": 22641108,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 37.68689,
-    "OUTAGE_LONGITUDE": -122.45773,
-    "CITY": "Daly City",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1709955840000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1709959710000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1709966700000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1709966700000,
-    "SPID": "5696268405",
-    "fts_flag": "N",
-    "geometry_x": -13631932.147300001,
-    "geometry_y": 4535287.809900001
   }
 ]
