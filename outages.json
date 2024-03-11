@@ -133,5 +133,32 @@
     "fts_flag": "N",
     "geometry_x": -13654555.6074,
     "geometry_y": 4718360.371799998
+  },
+  {
+    "F_OUTAGE_ID": 2401374,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "215126568185",
+    "OUTAGE_CIRCUIT_ID": 42761101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 39.52684,
+    "OUTAGE_LONGITUDE": -123.72826,
+    "CITY": "Fort Bragg",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1710140400000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1710140436000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1710176400000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1710176400000,
+    "SPID": "3678032105",
+    "fts_flag": "N",
+    "geometry_x": -13773366.8999,
+    "geometry_y": 4797420.3169
   }
 ]
