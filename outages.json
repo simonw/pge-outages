@@ -106,5 +106,32 @@
     "fts_flag": "N",
     "geometry_x": -13565207.2445,
     "geometry_y": 4828079.404600002
+  },
+  {
+    "F_OUTAGE_ID": 2401346,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "316782021329",
+    "OUTAGE_CIRCUIT_ID": 83242110,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.08066,
+    "OUTAGE_LONGITUDE": -121.60409,
+    "CITY": "San Martin",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1710121253000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1710121613000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1710153900000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1710153900000,
+    "SPID": "7847798205",
+    "fts_flag": "N",
+    "geometry_x": -13536905.3772,
+    "geometry_y": 4450355.722499996
   }
 ]
