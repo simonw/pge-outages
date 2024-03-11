@@ -133,5 +133,32 @@
     "fts_flag": "N",
     "geometry_x": -13612422.2933,
     "geometry_y": 4513667.027999997
+  },
+  {
+    "F_OUTAGE_ID": 2401349,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "316349353263",
+    "OUTAGE_CIRCUIT_ID": 13232101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.95595,
+    "OUTAGE_LONGITUDE": -121.76718,
+    "CITY": "Antioch",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1710126743000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1710127156000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1710162900000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1710162900000,
+    "SPID": "1685931205",
+    "fts_flag": "N",
+    "geometry_x": -13555060.4729,
+    "geometry_y": 4573204.892800003
   }
 ]
