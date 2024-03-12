@@ -106,32 +106,5 @@
     "fts_flag": "N",
     "geometry_x": -13670743.687800001,
     "geometry_y": 4641145.5638
-  },
-  {
-    "F_OUTAGE_ID": 2402323,
-    "OUTAGE_EXTENT": "CUSTOMER",
-    "OUTAGE_DEVICE_ID": "314310143520",
-    "OUTAGE_CIRCUIT_ID": 22641108,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 37.67878,
-    "OUTAGE_LONGITUDE": -122.46776,
-    "CITY": "Colma",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1710219087000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1710219953000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1710230400000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1710230400000,
-    "SPID": "6084267305",
-    "fts_flag": "N",
-    "geometry_x": -13633048.6818,
-    "geometry_y": 4534147.055
   }
 ]
