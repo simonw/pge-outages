@@ -403,32 +403,5 @@
     "fts_flag": "N",
     "geometry_x": -13245895.0775,
     "geometry_y": 4208441.1565999985
-  },
-  {
-    "F_OUTAGE_ID": 2405616,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "315474842779",
-    "OUTAGE_CIRCUIT_ID": 14091107,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": "STORM",
-    "EST_CUSTOMERS": 14,
-    "OUTAGE_LATITUDE": 37.66439,
-    "OUTAGE_LONGITUDE": -122.06457,
-    "CITY": "Hayward",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1710463283000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1710463308000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1710471600000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1710471600000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13588165.7763,
-    "geometry_y": 4532123.260399997
   }
 ]
