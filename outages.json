@@ -376,5 +376,32 @@
     "fts_flag": "N",
     "geometry_x": -13615829.783,
     "geometry_y": 4570812.138999999
+  },
+  {
+    "F_OUTAGE_ID": 2405654,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "221275752243",
+    "OUTAGE_CIRCUIT_ID": 152901104,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 39.10028,
+    "OUTAGE_LONGITUDE": -121.55157,
+    "CITY": "Olivehurst",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1710470393000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1710470398000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1710477900000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1710477900000,
+    "SPID": "2158169105",
+    "fts_flag": "N",
+    "geometry_x": -13531058.877500001,
+    "geometry_y": 4736046.018299997
   }
 ]
