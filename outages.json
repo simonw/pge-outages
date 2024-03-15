@@ -376,32 +376,5 @@
     "fts_flag": "N",
     "geometry_x": -13531058.877500001,
     "geometry_y": 4736046.018299997
-  },
-  {
-    "F_OUTAGE_ID": 2405658,
-    "OUTAGE_EXTENT": "CUSTOMER",
-    "OUTAGE_DEVICE_ID": "317924448224",
-    "OUTAGE_CIRCUIT_ID": 162611705,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 37.82204,
-    "OUTAGE_LONGITUDE": -121.21925,
-    "CITY": "Manteca",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1710472660000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1710472664000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1710488700000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1710488700000,
-    "SPID": "9380697605",
-    "fts_flag": "N",
-    "geometry_x": -13494065.1843,
-    "geometry_y": 4554316.446699999
   }
 ]
