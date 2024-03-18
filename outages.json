@@ -160,5 +160,32 @@
     "fts_flag": "N",
     "geometry_x": -13340574.5309,
     "geometry_y": 4410160.740599997
+  },
+  {
+    "F_OUTAGE_ID": 2407911,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "515620259789",
+    "OUTAGE_CIRCUIT_ID": 252081104,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 35.13384,
+    "OUTAGE_LONGITUDE": -119.46595,
+    "CITY": "Taft Heights",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1710722855000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1710723281000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1710740700000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1710740700000,
+    "SPID": "7774897210",
+    "fts_flag": "N",
+    "geometry_x": -13298888.721099999,
+    "geometry_y": 4182084.3730999976
   }
 ]
