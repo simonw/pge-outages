@@ -133,32 +133,5 @@
     "fts_flag": "N",
     "geometry_x": -13566490.758200001,
     "geometry_y": 4353899.762400001
-  },
-  {
-    "F_OUTAGE_ID": 2407928,
-    "OUTAGE_EXTENT": "CUSTOMER",
-    "OUTAGE_DEVICE_ID": "100000003813",
-    "OUTAGE_CIRCUIT_ID": 192341102,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 40.74358,
-    "OUTAGE_LONGITUDE": -124.19701,
-    "CITY": "Humboldt Hill",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1710733697000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1710735561000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1710743400000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1710743400000,
-    "SPID": "1019675650",
-    "fts_flag": "N",
-    "geometry_x": -13825547.9112,
-    "geometry_y": 4974593.0273
   }
 ]
