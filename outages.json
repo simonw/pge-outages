@@ -133,32 +133,5 @@
     "fts_flag": "N",
     "geometry_x": -13297789.9978,
     "geometry_y": 4183554.5561000034
-  },
-  {
-    "F_OUTAGE_ID": 2410656,
-    "OUTAGE_EXTENT": "CUSTOMER",
-    "OUTAGE_DEVICE_ID": "315232744233",
-    "OUTAGE_CIRCUIT_ID": 13111108,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 37.70326,
-    "OUTAGE_LONGITUDE": -122.14895,
-    "CITY": "San Leandro",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1710977423000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1710989282000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1710994500000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1710994500000,
-    "SPID": "2118983505",
-    "fts_flag": "N",
-    "geometry_x": -13597558.914900001,
-    "geometry_y": 4537590.798799999
   }
 ]
