@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13626599.9437,
     "geometry_y": 4545402.521300003
+  },
+  {
+    "F_OUTAGE_ID": 2419812,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "221314633327",
+    "OUTAGE_CIRCUIT_ID": 63131108,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 38.5806,
+    "OUTAGE_LONGITUDE": -121.54106,
+    "CITY": "West Sacramento",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1711951648000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1711951649000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1711986300000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1711986300000,
+    "SPID": "5140872405",
+    "fts_flag": "N",
+    "geometry_x": -13529888.909699999,
+    "geometry_y": 4661772.938199997
   }
 ]
