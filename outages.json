@@ -160,5 +160,32 @@
     "fts_flag": "N",
     "geometry_x": -13591641.1708,
     "geometry_y": 4530503.382399999
+  },
+  {
+    "F_OUTAGE_ID": 2420608,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "516894769956",
+    "OUTAGE_CIRCUIT_ID": 252721109,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 35.41769,
+    "OUTAGE_LONGITUDE": -119.0429,
+    "CITY": "Oildale",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1712029812000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1712030008000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1712042100000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1712042100000,
+    "SPID": "7188463110",
+    "fts_flag": "N",
+    "geometry_x": -13251795.0106,
+    "geometry_y": 4220789.421099998
   }
 ]
