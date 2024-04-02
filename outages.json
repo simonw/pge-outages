@@ -214,5 +214,32 @@
     "fts_flag": "N",
     "geometry_x": -13627512.763500001,
     "geometry_y": 4528446.555699997
+  },
+  {
+    "F_OUTAGE_ID": 2420577,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "317904559329",
+    "OUTAGE_CIRCUIT_ID": 163682101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 38.12687,
+    "OUTAGE_LONGITUDE": -121.23002,
+    "CITY": "Lodi",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1712018950000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1712018955000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1712044800000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1712044800000,
+    "SPID": "9778244105",
+    "fts_flag": "N",
+    "geometry_x": -13495264.0953,
+    "geometry_y": 4597363.8244
   }
 ]
