@@ -187,5 +187,32 @@
     "fts_flag": "N",
     "geometry_x": -13576087.611499999,
     "geometry_y": 4573429.3741
+  },
+  {
+    "F_OUTAGE_ID": 2420575,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "314449742018",
+    "OUTAGE_CIRCUIT_ID": 22571110,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.63824,
+    "OUTAGE_LONGITUDE": -122.41803,
+    "CITY": "San Bruno",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1712017439000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1712017441000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1712030400000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1712030400000,
+    "SPID": "3055641145",
+    "fts_flag": "N",
+    "geometry_x": -13627512.763500001,
+    "geometry_y": 4528446.555699997
   }
 ]
