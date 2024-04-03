@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13320824.2268,
     "geometry_y": 4407674.180600002
+  },
+  {
+    "F_OUTAGE_ID": 2421460,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "218393722623",
+    "OUTAGE_CIRCUIT_ID": 43371102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 38.28688,
+    "OUTAGE_LONGITUDE": -122.55973,
+    "CITY": "Sonoma",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1712126668000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1712126671000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1712134800000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1712134800000,
+    "SPID": "4269755805",
+    "fts_flag": "N",
+    "geometry_x": -13643286.735399999,
+    "geometry_y": 4620031.980700001
   }
 ]
