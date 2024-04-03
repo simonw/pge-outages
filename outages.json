@@ -106,5 +106,32 @@
     "fts_flag": "N",
     "geometry_x": -13246891.387,
     "geometry_y": 4217107.384599999
+  },
+  {
+    "F_OUTAGE_ID": 2421450,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "216157463362",
+    "OUTAGE_CIRCUIT_ID": 42661104,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 39.39743,
+    "OUTAGE_LONGITUDE": -123.36097,
+    "CITY": "Willits",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1712117264000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1712117268000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1712137500000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1712137500000,
+    "SPID": "4132519605",
+    "fts_flag": "N",
+    "geometry_x": -13732480.3642,
+    "geometry_y": 4778760.955499999
   }
 ]
