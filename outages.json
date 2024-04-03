@@ -160,32 +160,5 @@
     "fts_flag": "N",
     "geometry_x": -13613429.7347,
     "geometry_y": 4513047.9826000035
-  },
-  {
-    "F_OUTAGE_ID": 2421427,
-    "OUTAGE_EXTENT": "CUSTOMER",
-    "OUTAGE_DEVICE_ID": "315370443045",
-    "OUTAGE_CIRCUIT_ID": 14381108,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man Enroute",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 37.67123,
-    "OUTAGE_LONGITUDE": -122.10068,
-    "CITY": "Cherryland",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1712099553000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1712100080000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1712108700000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1712108700000,
-    "SPID": "2318378505",
-    "fts_flag": "N",
-    "geometry_x": -13592185.5231,
-    "geometry_y": 4533085.181900002
   }
 ]
