@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13694789.811,
     "geometry_y": 4627948.750699997
+  },
+  {
+    "F_OUTAGE_ID": 2422199,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "217307951715",
+    "OUTAGE_CIRCUIT_ID": 43211101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 39.08263,
+    "OUTAGE_LONGITUDE": -122.9497,
+    "CITY": "Lakeport",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1712210681000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1712210684000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1712224800000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1712224800000,
+    "SPID": "4616462605",
+    "fts_flag": "N",
+    "geometry_x": -13686697.997200001,
+    "geometry_y": 4733514.531900004
   }
 ]
