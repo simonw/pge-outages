@@ -997,5 +997,32 @@
     "fts_flag": "N",
     "geometry_x": -13519781.0999,
     "geometry_y": 4493881.291199997
+  },
+  {
+    "F_OUTAGE_ID": 2425001,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "418886943877",
+    "OUTAGE_CIRCUIT_ID": 254091102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "STORM",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 36.53786,
+    "OUTAGE_LONGITUDE": -119.3794,
+    "CITY": "Dinuba",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1712363905000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1712363909000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": "6964091605",
+    "fts_flag": "N",
+    "geometry_x": -13289254.0192,
+    "geometry_y": 4374884.711599998
   }
 ]
