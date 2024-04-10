@@ -106,5 +106,32 @@
     "fts_flag": "N",
     "geometry_x": -13629109.085,
     "geometry_y": 4503160.8486
+  },
+  {
+    "F_OUTAGE_ID": 2427499,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "314288342672",
+    "OUTAGE_CIRCUIT_ID": 22861104,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.65568,
+    "OUTAGE_LONGITUDE": -122.47454,
+    "CITY": "Pacifica",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1712729835000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1712729840000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1712746800000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1712746800000,
+    "SPID": "5596017410",
+    "fts_flag": "N",
+    "geometry_x": -13633803.4279,
+    "geometry_y": 4530898.485699996
   }
 ]
