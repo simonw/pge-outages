@@ -106,5 +106,32 @@
     "fts_flag": "N",
     "geometry_x": -13327564.622000001,
     "geometry_y": 4420456.4690999985
+  },
+  {
+    "F_OUTAGE_ID": 2428241,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "220876618078",
+    "OUTAGE_CIRCUIT_ID": 62462225,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 38.16228,
+    "OUTAGE_LONGITUDE": -121.6958,
+    "CITY": "Rio Vista",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1712821176000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1712821180000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1712844000000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1712844000000,
+    "SPID": "4119621805",
+    "fts_flag": "N",
+    "geometry_x": -13547114.4877,
+    "geometry_y": 4602375.967
   }
 ]
