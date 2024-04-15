@@ -214,5 +214,32 @@
     "fts_flag": "N",
     "geometry_x": -13634672.8332,
     "geometry_y": 4522088.8407000005
+  },
+  {
+    "F_OUTAGE_ID": 2431559,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "316399254908",
+    "OUTAGE_CIRCUIT_ID": 13652107,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 38.00135,
+    "OUTAGE_LONGITUDE": -121.75083,
+    "CITY": "Oakley",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1713162392000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1713162396000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1713169800000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1713169800000,
+    "SPID": "1597748505",
+    "fts_flag": "N",
+    "geometry_x": -13553240.3993,
+    "geometry_y": 4579616.524300002
   }
 ]
