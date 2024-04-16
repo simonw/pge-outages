@@ -187,5 +187,32 @@
     "fts_flag": "N",
     "geometry_x": -13634810.8693,
     "geometry_y": 4543752.422899999
+  },
+  {
+    "F_OUTAGE_ID": 2432355,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "314791751734",
+    "OUTAGE_CIRCUIT_ID": 12650402,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.90702,
+    "OUTAGE_LONGITUDE": -122.30643,
+    "CITY": "Richmond",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1713247433000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1713247436000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1713258000000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1713258000000,
+    "SPID": "3145474805",
+    "fts_flag": "N",
+    "geometry_x": -13615089.508299999,
+    "geometry_y": 4566299.1712
   }
 ]
