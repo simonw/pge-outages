@@ -106,5 +106,32 @@
     "fts_flag": "N",
     "geometry_x": -13646018.515700001,
     "geometry_y": 4663506.1071000025
+  },
+  {
+    "F_OUTAGE_ID": 2433946,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "314835650741",
+    "OUTAGE_CIRCUIT_ID": 12060406,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.88001,
+    "OUTAGE_LONGITUDE": -122.29051,
+    "CITY": "Berkeley",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1713425450000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1713425451000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1713434400000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1713434400000,
+    "SPID": "3584288305",
+    "fts_flag": "N",
+    "geometry_x": -13613317.302000001,
+    "geometry_y": 4562489.0898
   }
 ]
