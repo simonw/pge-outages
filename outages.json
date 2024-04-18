@@ -241,5 +241,32 @@
     "fts_flag": "N",
     "geometry_x": -13501113.934500001,
     "geometry_y": 4571461.445299998
+  },
+  {
+    "F_OUTAGE_ID": 2433873,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "315574020341",
+    "OUTAGE_CIRCUIT_ID": 83622104,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.04876,
+    "OUTAGE_LONGITUDE": -122.0162,
+    "CITY": "Scotts Valley",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1713402012000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1713402018000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1713438900000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1713438900000,
+    "SPID": "9356015405",
+    "fts_flag": "N",
+    "geometry_x": -13582781.252500001,
+    "geometry_y": 4445905.483499996
   }
 ]
