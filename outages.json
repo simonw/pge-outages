@@ -160,5 +160,32 @@
     "fts_flag": "N",
     "geometry_x": -13589634.080400001,
     "geometry_y": 4536185.310199998
+  },
+  {
+    "F_OUTAGE_ID": 2436167,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "100000028530",
+    "OUTAGE_CIRCUIT_ID": 252052119,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 36.81302,
+    "OUTAGE_LONGITUDE": -119.80215,
+    "CITY": "Fresno",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1713770201000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1713770203000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1713789000000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1713789000000,
+    "SPID": "3481705242",
+    "fts_flag": "N",
+    "geometry_x": -13336314.3339,
+    "geometry_y": 4413076.134099998
   }
 ]
