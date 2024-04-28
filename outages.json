@@ -187,5 +187,32 @@
     "fts_flag": "N",
     "geometry_x": -13330418.8537,
     "geometry_y": 4404194.804899998
+  },
+  {
+    "F_OUTAGE_ID": 2440974,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "315476843327",
+    "OUTAGE_CIRCUIT_ID": 14091107,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.67944,
+    "OUTAGE_LONGITUDE": -122.06412,
+    "CITY": "Fairview",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1714295404000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1714295409000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1714331700000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1714331700000,
+    "SPID": "2626180305",
+    "fts_flag": "N",
+    "geometry_x": -13588115.682500001,
+    "geometry_y": 4534239.886100002
   }
 ]
