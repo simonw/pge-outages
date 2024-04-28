@@ -295,5 +295,32 @@
     "fts_flag": "N",
     "geometry_x": -13634059.4628,
     "geometry_y": 4529756.804499999
+  },
+  {
+    "F_OUTAGE_ID": 2440867,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "316506752620",
+    "OUTAGE_CIRCUIT_ID": 14592108,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.93897,
+    "OUTAGE_LONGITUDE": -121.71244,
+    "CITY": "Brentwood",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1714258302000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1714258306000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1714266000000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1714266000000,
+    "SPID": "1622496405",
+    "fts_flag": "N",
+    "geometry_x": -13548966.844,
+    "geometry_y": 4570807.9045
   }
 ]
