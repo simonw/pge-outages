@@ -322,5 +322,32 @@
     "fts_flag": "N",
     "geometry_x": -13587093.7696,
     "geometry_y": 4511541.931900002
+  },
+  {
+    "F_OUTAGE_ID": 2442115,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "315124747433",
+    "OUTAGE_CIRCUIT_ID": 12091116,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.79056,
+    "OUTAGE_LONGITUDE": -122.18833,
+    "CITY": "Oakland",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1714437211000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1714437377000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1714448700000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1714448700000,
+    "SPID": "2727269210",
+    "fts_flag": "N",
+    "geometry_x": -13601942.6765,
+    "geometry_y": 4549881.0682
   }
 ]
