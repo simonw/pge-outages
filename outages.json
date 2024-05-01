@@ -106,32 +106,5 @@
     "fts_flag": "N",
     "geometry_x": -13606482.2853,
     "geometry_y": 4505479.2157000005
-  },
-  {
-    "F_OUTAGE_ID": 2443050,
-    "OUTAGE_EXTENT": "CUSTOMER",
-    "OUTAGE_DEVICE_ID": "317916252777",
-    "OUTAGE_CIRCUIT_ID": 163481109,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 37.94725,
-    "OUTAGE_LONGITUDE": -121.22372,
-    "CITY": "Stockton",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1714532153000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1714532156000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1714541400000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1714541400000,
-    "SPID": "9883081505",
-    "fts_flag": "N",
-    "geometry_x": -13494562.782499999,
-    "geometry_y": 4571976.684699997
   }
 ]
