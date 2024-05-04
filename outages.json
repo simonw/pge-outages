@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13295739.4927,
     "geometry_y": 4250475.1162
+  },
+  {
+    "F_OUTAGE_ID": 2445951,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "100000082513",
+    "OUTAGE_CIRCUIT_ID": 257010001,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.60402,
+    "OUTAGE_LONGITUDE": -119.96678,
+    "CITY": "Midpines",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1714839410000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1714839411000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1714847400000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1714847400000,
+    "SPID": "7552662405",
+    "fts_flag": "N",
+    "geometry_x": -13354640.8617,
+    "geometry_y": 4523637.1586000025
   }
 ]
