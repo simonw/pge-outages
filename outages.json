@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13566295.949099999,
     "geometry_y": 4481606.187700003
+  },
+  {
+    "F_OUTAGE_ID": 2446277,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "013471122-2100958511",
+    "OUTAGE_CIRCUIT_ID": 13471122,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 37.92511,
+    "OUTAGE_LONGITUDE": -122.38341,
+    "CITY": "Richmond",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1714887794000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1714888023000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1714913100000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1714913100000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13623658.8827,
+    "geometry_y": 4568851.762800001
   }
 ]
