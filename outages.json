@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13381898.5522,
     "geometry_y": 4331757.829300001
+  },
+  {
+    "F_OUTAGE_ID": 2447136,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "512898979040",
+    "OUTAGE_CIRCUIT_ID": 182561101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 35.64814,
+    "OUTAGE_LONGITUDE": -120.39081,
+    "CITY": "Shandon",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1714993894000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1714993896000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1715020200000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1715020200000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13401843.6654,
+    "geometry_y": 4252313.3653
   }
 ]
