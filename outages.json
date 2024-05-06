@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13306567.5396,
     "geometry_y": 4225613.715000004
-  },
-  {
-    "F_OUTAGE_ID": 2447191,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "100000005935",
-    "OUTAGE_CIRCUIT_ID": 252151103,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 35.85491,
-    "OUTAGE_LONGITUDE": -119.57419,
-    "CITY": "Kettleman City",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1714998341000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1715000167000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1715034600000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1715034600000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13310937.9428,
-    "geometry_y": 4280675.533299997
   }
 ]
