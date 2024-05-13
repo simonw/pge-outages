@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13234795.4111,
     "geometry_y": 4168109.6728999987
+  },
+  {
+    "F_OUTAGE_ID": 2452489,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "220954429902",
+    "OUTAGE_CIRCUIT_ID": 62041112,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 38.48715,
+    "OUTAGE_LONGITUDE": -121.66765,
+    "CITY": "Dixon",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1715591085000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1715591402000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1715614200000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13543980.844,
+    "geometry_y": 4648474.194300003
   }
 ]
