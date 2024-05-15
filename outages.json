@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13584410.9699,
     "geometry_y": 4571313.230499998
+  },
+  {
+    "F_OUTAGE_ID": 2453967,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "253671101-2101719685",
+    "OUTAGE_CIRCUIT_ID": 253671101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 36.57437,
+    "OUTAGE_LONGITUDE": -120.47882,
+    "CITY": "Mendota",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1715700060000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1715726266000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1715727600000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1715727600000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13411640.8938,
+    "geometry_y": 4379944.349100001
   }
 ]
