@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13478614.039,
     "geometry_y": 4701385.963100001
+  },
+  {
+    "F_OUTAGE_ID": 2461738,
+    "OUTAGE_EXTENT": "DEVICETAP LINE",
+    "OUTAGE_DEVICE_ID": "Line Cut-222087",
+    "OUTAGE_CIRCUIT_ID": 14652109,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting Crew",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 37.96312,
+    "OUTAGE_LONGITUDE": -122.0131,
+    "CITY": "Concord",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1715761862000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1715955543000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1715794200000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13582436.1621,
+    "geometry_y": 4574217.215000004
   }
 ]
