@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13417807.9936,
     "geometry_y": 4587527.787699997
+  },
+  {
+    "F_OUTAGE_ID": 2461384,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "417945847908",
+    "OUTAGE_CIRCUIT_ID": 254251102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 36.64716,
+    "OUTAGE_LONGITUDE": -119.70117,
+    "CITY": "Fowler",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1715934823000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1715934884000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1715945400000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13325073.2918,
+    "geometry_y": 4390038.894900002
   }
 ]
