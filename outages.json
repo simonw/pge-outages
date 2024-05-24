@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13537042.3002,
     "geometry_y": 4762654.213600002
-  },
-  {
-    "F_OUTAGE_ID": 2466470,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "LineCut - 175458",
-    "OUTAGE_CIRCUIT_ID": 153612104,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 38.71108,
-    "OUTAGE_LONGITUDE": -121.03441,
-    "CITY": "El Dorado Hills",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1716540345000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1716554107000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1716562800000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13473488.8897,
-    "geometry_y": 4680370.354599997
   }
 ]
