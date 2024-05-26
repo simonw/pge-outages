@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13470299.5863,
     "geometry_y": 4473409.7579
-  },
-  {
-    "F_OUTAGE_ID": 2467765,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "014671101-2100903521",
-    "OUTAGE_CIRCUIT_ID": 14671101,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting Crew",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 37.90606,
-    "OUTAGE_LONGITUDE": -122.17953,
-    "CITY": "Orinda",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1716714015000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1716717009000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1716738300000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1716738300000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13600963.065000001,
-    "geometry_y": 4566163.727899998
   }
 ]
