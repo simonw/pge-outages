@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13548907.844700001,
     "geometry_y": 4364551.129799999
-  },
-  {
-    "F_OUTAGE_ID": 2468796,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "100000003719",
-    "OUTAGE_CIRCUIT_ID": 252301105,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 36.47469,
-    "OUTAGE_LONGITUDE": -119.7716,
-    "CITY": "Laton",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1716892418000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1716908847000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1716915780000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13332913.5235,
-    "geometry_y": 4366136.110600002
   }
 ]
