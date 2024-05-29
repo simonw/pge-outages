@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13380302.230700001,
     "geometry_y": 4507250.945100002
+  },
+  {
+    "F_OUTAGE_ID": 2470110,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "221573062814",
+    "OUTAGE_CIRCUIT_ID": 103191101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 39.38894,
+    "OUTAGE_LONGITUDE": -121.44701,
+    "CITY": "Oroville",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1716997378000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1716997380000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1717016400000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1717016400000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13519419.3116,
+    "geometry_y": 4777538.011200003
   }
 ]
