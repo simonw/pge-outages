@@ -25,5 +25,32 @@
     "fts_flag": "Y",
     "geometry_x": -13240948.0394,
     "geometry_y": 4401384.620800003
+  },
+  {
+    "F_OUTAGE_ID": 2470088,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "320872336150",
+    "OUTAGE_CIRCUIT_ID": 252192101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.48731,
+    "OUTAGE_LONGITUDE": -120.1973,
+    "CITY": "Catheys Valley",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1716996273000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1716996277000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1717003800000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1717003800000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13380302.230700001,
+    "geometry_y": 4507250.945100002
   }
 ]
