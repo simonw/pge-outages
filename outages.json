@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13570526.0898,
     "geometry_y": 4582387.181199998
+  },
+  {
+    "F_OUTAGE_ID": 2470614,
+    "OUTAGE_EXTENT": "DEVICETAP LINE",
+    "OUTAGE_DEVICE_ID": "024101101-2100867076",
+    "OUTAGE_CIRCUIT_ID": 24101101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting Crew",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 13,
+    "OUTAGE_LATITUDE": 37.48838,
+    "OUTAGE_LONGITUDE": -122.42005,
+    "CITY": "Half Moon Bay",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1717056866000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1717059973000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1717081200000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13627737.628899999,
+    "geometry_y": 4507401.057899997
   }
 ]
