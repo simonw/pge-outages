@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13358788.6259,
     "geometry_y": 4360027.262500003
+  },
+  {
+    "F_OUTAGE_ID": 2474944,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "LineCut - 174247",
+    "OUTAGE_CIRCUIT_ID": 254582101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 60,
+    "OUTAGE_LATITUDE": 35.44466,
+    "OUTAGE_LONGITUDE": -119.11902,
+    "CITY": "Shafter",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1717495620000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1717496467000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1717516800000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1717516800000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13260268.6502,
+    "geometry_y": 4224474.056199998
   }
 ]
