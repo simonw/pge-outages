@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13509190.1636,
     "geometry_y": 4581251.136399999
-  },
-  {
-    "F_OUTAGE_ID": 2476852,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "192341102-2100962144",
-    "OUTAGE_CIRCUIT_ID": 192341102,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "REPLCE TXFMR",
-    "EST_CUSTOMERS": 58,
-    "OUTAGE_LATITUDE": 40.73515,
-    "OUTAGE_LONGITUDE": -124.20205,
-    "CITY": "Humboldt Hill",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1717613100000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1717637529000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1717642800000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13826108.9615,
-    "geometry_y": 4973354.489
   }
 ]
