@@ -25,5 +25,32 @@
     "fts_flag": "Y",
     "geometry_x": -13631599.302000001,
     "geometry_y": 4620694.315499999
+  },
+  {
+    "F_OUTAGE_ID": 2479430,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "04204-2101604794",
+    "OUTAGE_CIRCUIT_ID": 4204,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "PATROLLING",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 38.06757,
+    "OUTAGE_LONGITUDE": -122.1956,
+    "CITY": "Benicia",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1717767960000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1717775969000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1717794000000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1717794000000,
+    "SPID": null,
+    "fts_flag": "Y",
+    "geometry_x": -13602751.9692,
+    "geometry_y": 4588975.590099998
   }
 ]
