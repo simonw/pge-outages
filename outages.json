@@ -52,32 +52,5 @@
     "fts_flag": "N",
     "geometry_x": -13335613.0211,
     "geometry_y": 4399320.864299998
-  },
-  {
-    "F_OUTAGE_ID": 2478452,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "013652110-2101109223",
-    "OUTAGE_CIRCUIT_ID": 13652110,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 37.99302,
-    "OUTAGE_LONGITUDE": -121.77166,
-    "CITY": "Antioch",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1717700317000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1717702887000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1717725600000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1717725600000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13555559.1843,
-    "geometry_y": 4578439.819899999
   }
 ]
