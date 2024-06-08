@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13330601.4177,
     "geometry_y": 4424655.224799998
+  },
+  {
+    "F_OUTAGE_ID": 2480138,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "043381101-2101552000",
+    "OUTAGE_CIRCUIT_ID": 43381101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "PATROLLING",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 38.9125,
+    "OUTAGE_LONGITUDE": -123.6801,
+    "CITY": "Point Arena",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1717848720000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1717851660000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1717863300000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1717863300000,
+    "SPID": null,
+    "fts_flag": "Y",
+    "geometry_x": -13768005.7533,
+    "geometry_y": 4709145.687100001
   }
 ]
