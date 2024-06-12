@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13562339.6544,
     "geometry_y": 4824012.327799998
-  },
-  {
-    "F_OUTAGE_ID": 2483539,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "082021106-2101853478",
-    "OUTAGE_CIRCUIT_ID": 82021106,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 37.13721,
-    "OUTAGE_LONGITUDE": -121.96745,
-    "CITY": "Los Gatos",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1718185500000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1718194128000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1718203500000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1718203500000,
-    "SPID": null,
-    "fts_flag": "Y",
-    "geometry_x": -13577354.4274,
-    "geometry_y": 4458249.387500003
   }
 ]
