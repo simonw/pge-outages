@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13534596.6109,
     "geometry_y": 4742012.2190999985
-  },
-  {
-    "F_OUTAGE_ID": 2484354,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "042651106-2101051057",
-    "OUTAGE_CIRCUIT_ID": 42651106,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 38.13627,
-    "OUTAGE_LONGITUDE": -122.25232,
-    "CITY": "Vallejo",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1718269020000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1718271445000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1718279100000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1718279100000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13609066.0107,
-    "geometry_y": 4598694.1193
   }
 ]
