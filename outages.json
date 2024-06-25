@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13310978.0178,
     "geometry_y": 4393521.984300002
-  },
-  {
-    "F_OUTAGE_ID": 2495119,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "100000153167",
-    "OUTAGE_CIRCUIT_ID": 42991106,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 38.03097,
-    "OUTAGE_LONGITUDE": -122.55316,
-    "CITY": "Lucas Valley-Marinwood",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1719305760000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1719305762000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1719322200000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1719322200000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13642555.3663,
-    "geometry_y": 4583801.759499997
   }
 ]
