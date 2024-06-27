@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13413765.982900001,
     "geometry_y": 4147699.543700002
-  },
-  {
-    "F_OUTAGE_ID": 2497672,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "224465860317",
-    "OUTAGE_CIRCUIT_ID": 152291101,
-    "CREW_ETA": "6/27/2024 1:08:00 PM",
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 39.3118,
-    "OUTAGE_LONGITUDE": -120.42216,
-    "CITY": "Norden",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1719487698000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1719493888000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1719503100000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1719503100000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13405333.531399999,
-    "geometry_y": 4766433.1686
   }
 ]
