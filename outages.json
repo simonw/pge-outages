@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13628604.8077,
     "geometry_y": 4659914.771899998
+  },
+  {
+    "F_OUTAGE_ID": 2497620,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "512514551187",
+    "OUTAGE_CIRCUIT_ID": 182571102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 34.88084,
+    "OUTAGE_LONGITUDE": -120.49791,
+    "CITY": "Santa Maria",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1719484080000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1719484151000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1719504000000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1719504000000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13413765.982900001,
+    "geometry_y": 4147699.543700002
   }
 ]
