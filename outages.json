@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13628604.8077,
     "geometry_y": 4659914.771899998
+  },
+  {
+    "F_OUTAGE_ID": 2497193,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "042011110-2101642026",
+    "OUTAGE_CIRCUIT_ID": 42011110,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 37.97087,
+    "OUTAGE_LONGITUDE": -122.52659,
+    "CITY": "San Rafael",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1719431827000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1719438950000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1719444600000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1719444600000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13639597.6074,
+    "geometry_y": 4575311.537699997
   }
 ]
