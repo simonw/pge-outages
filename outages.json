@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13368598.0995,
     "geometry_y": 4129204.212099999
-  },
-  {
-    "F_OUTAGE_ID": 2506817,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "315882052801",
-    "OUTAGE_CIRCUIT_ID": 12022218,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": "STORM",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 37.94156,
-    "OUTAGE_LONGITUDE": -121.92898,
-    "CITY": "Clayton",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1720211958000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1720211962000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": null,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13573071.9665,
-    "geometry_y": 4571173.487099998
   }
 ]
