@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13464596.6887,
     "geometry_y": 4885901.3418999985
+  },
+  {
+    "F_OUTAGE_ID": 2513748,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "100000119430",
+    "OUTAGE_CIRCUIT_ID": 252711104,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 36.68308,
+    "OUTAGE_LONGITUDE": -120.13798,
+    "CITY": "Kerman",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1720699068000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1720699071000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1720714500000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1720714500000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13373698.7585,
+    "geometry_y": 4395023.809900001
   }
 ]
