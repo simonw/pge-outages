@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13465008.5709,
     "geometry_y": 4886626.507700004
-  },
-  {
-    "F_OUTAGE_ID": 2519649,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "013921103-2101123779",
-    "OUTAGE_CIRCUIT_ID": 13921103,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 38.0116,
-    "OUTAGE_LONGITUDE": -122.28719,
-    "CITY": "Hercules",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1721226788000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1721228298000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1721236500000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1721236500000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13612947.7213,
-    "geometry_y": 4581064.633500002
   }
 ]
