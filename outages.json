@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13577167.4106,
     "geometry_y": 4547314.822300002
+  },
+  {
+    "F_OUTAGE_ID": 2519328,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "LineCut - 177263",
+    "OUTAGE_CIRCUIT_ID": 102812101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 3,
+    "OUTAGE_LATITUDE": 40.14219,
+    "OUTAGE_LONGITUDE": -120.95823,
+    "CITY": "Greenville",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1721204400000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1721210416000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1721215800000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1721215800000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13465008.5709,
+    "geometry_y": 4886626.507700004
   }
 ]
