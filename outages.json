@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13328216.9542,
     "geometry_y": 4440443.593900003
+  },
+  {
+    "F_OUTAGE_ID": 2519293,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "100000190780",
+    "OUTAGE_CIRCUIT_ID": 14232105,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "PATROLLING",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.77234,
+    "OUTAGE_LONGITUDE": -121.96577,
+    "CITY": "San Ramon",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1721208401000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1721208977000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1721221200000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1721221200000,
+    "SPID": "5475059293",
+    "fts_flag": "N",
+    "geometry_x": -13577167.4106,
+    "geometry_y": 4547314.822300002
   }
 ]
