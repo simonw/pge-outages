@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13255326.0648,
     "geometry_y": 4205426.1586000025
+  },
+  {
+    "F_OUTAGE_ID": 2520854,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "014652107-2100996458",
+    "OUTAGE_CIRCUIT_ID": 14652107,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 37.97834,
+    "OUTAGE_LONGITUDE": -122.07509,
+    "CITY": "Pleasant Hill",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1721377450000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1721381452000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1721395800000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13589336.8573,
+    "geometry_y": 4576366.432999998
   }
 ]
