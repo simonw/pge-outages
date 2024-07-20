@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13611579.6048,
     "geometry_y": 4615554.1831
+  },
+  {
+    "F_OUTAGE_ID": 2521785,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "315630852382",
+    "OUTAGE_CIRCUIT_ID": 12022216,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.92889,
+    "OUTAGE_LONGITUDE": -122.01586,
+    "CITY": "Walnut Creek",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1721478093000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1721478094000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1721495700000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1721495700000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13582743.403900001,
+    "geometry_y": 4569385.219400004
   }
 ]
