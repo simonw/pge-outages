@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13625415.5043,
     "geometry_y": 4550636.1325
+  },
+  {
+    "F_OUTAGE_ID": 2529795,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "315678723856",
+    "OUTAGE_CIRCUIT_ID": 83622106,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.14565,
+    "OUTAGE_LONGITUDE": -121.98357,
+    "CITY": "Lexington Hills",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1722279328000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1722279333000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1722302100000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1722302100000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13579148.8975,
+    "geometry_y": 4459428.010600001
   }
 ]
