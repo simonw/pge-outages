@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13326795.4043,
     "geometry_y": 4412308.628300004
-  },
-  {
-    "F_OUTAGE_ID": 2532069,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "254082111-2100031224",
-    "OUTAGE_CIRCUIT_ID": 254082111,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 36.80827,
-    "OUTAGE_LONGITUDE": -119.71857,
-    "CITY": "Clovis",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1722520488000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1722522082000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1722537900000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1722537900000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13327010.2509,
-    "geometry_y": 4412415.686499998
   }
 ]
