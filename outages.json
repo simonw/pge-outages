@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13523486.9258,
     "geometry_y": 4796906.543300003
+  },
+  {
+    "F_OUTAGE_ID": 2532985,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "417068634245",
+    "OUTAGE_CIRCUIT_ID": 253441107,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 36.26968,
+    "OUTAGE_LONGITUDE": -119.99427,
+    "CITY": "Huron",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1722596794000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1722597024000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1722607200000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1722607200000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13357701.0345,
+    "geometry_y": 4337792.655000001
   }
 ]
