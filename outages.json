@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13411419.368,
     "geometry_y": 4479891.950099997
+  },
+  {
+    "F_OUTAGE_ID": 2533382,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "014652105-2100903723",
+    "OUTAGE_CIRCUIT_ID": 14652105,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "EMERG REPAIRS",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 37.98398,
+    "OUTAGE_LONGITUDE": -122.03665,
+    "CITY": "Concord",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1722635262000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1722642985000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1722651300000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1722651300000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13585057.7361,
+    "geometry_y": 4577162.971299998
   }
 ]
