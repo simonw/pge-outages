@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13365304.1557,
     "geometry_y": 4436125.716300003
+  },
+  {
+    "F_OUTAGE_ID": 2535970,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "083622105-2100489701",
+    "OUTAGE_CIRCUIT_ID": 83622105,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "PATROLLING",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 37.06334,
+    "OUTAGE_LONGITUDE": -122.07985,
+    "CITY": "Ben Lomond",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1722954780000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1722961414000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1722983400000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1722983400000,
+    "SPID": null,
+    "fts_flag": "Y",
+    "geometry_x": -13589866.7381,
+    "geometry_y": 4447939.247699998
   }
 ]
