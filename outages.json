@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13529696.327,
     "geometry_y": 4916567.816500001
+  },
+  {
+    "F_OUTAGE_ID": 2541372,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "100000142267",
+    "OUTAGE_CIRCUIT_ID": 252661103,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 36.24858,
+    "OUTAGE_LONGITUDE": -119.58291,
+    "CITY": "Hanford",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1723557011000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1723557013000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1723586400000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1723586400000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13311908.6488,
+    "geometry_y": 4334879.726099998
   }
 ]
