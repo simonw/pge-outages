@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13594003.3704,
     "geometry_y": 4727918.824100003
+  },
+  {
+    "F_OUTAGE_ID": 2542016,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "192251101-2101075586",
+    "OUTAGE_CIRCUIT_ID": 192251101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 40.45392,
+    "OUTAGE_LONGITUDE": -124.04755,
+    "CITY": "Scotia",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1723630800000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1723631652000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1723644000000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13808910.100200001,
+    "geometry_y": 4932125.617799997
   }
 ]
