@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13458389.5139,
     "geometry_y": 4678053.8081
+  },
+  {
+    "F_OUTAGE_ID": 2542806,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "100000123150",
+    "OUTAGE_CIRCUIT_ID": 252661102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 36.23273,
+    "OUTAGE_LONGITUDE": -119.63713,
+    "CITY": "Hanford",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1723712530000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1723712838000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1723719600000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13317944.3916,
+    "geometry_y": 4332692.095399998
   }
 ]
