@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13568534.5841,
     "geometry_y": 4497188.470399998
-  },
-  {
-    "F_OUTAGE_ID": 2546635,
-    "OUTAGE_EXTENT": "CUSTOMER",
-    "OUTAGE_DEVICE_ID": "314291046473",
-    "OUTAGE_CIRCUIT_ID": 22280405,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man Enroute",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 37.75977,
-    "OUTAGE_LONGITUDE": -122.47569,
-    "CITY": "San Francisco",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1724166811000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1724166816000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1724186700000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1724186700000,
-    "SPID": "5718153305",
-    "fts_flag": "N",
-    "geometry_x": -13633931.4454,
-    "geometry_y": 4545544.7348000035
   }
 ]
