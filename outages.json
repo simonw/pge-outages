@@ -52,32 +52,5 @@
     "fts_flag": "N",
     "geometry_x": -13607140.1835,
     "geometry_y": 4552453.582900003
-  },
-  {
-    "F_OUTAGE_ID": 2548051,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "252891114-2100889428",
-    "OUTAGE_CIRCUIT_ID": 252891114,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 36.34866,
-    "OUTAGE_LONGITUDE": -120.2648,
-    "CITY": "Coalinga",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1724322400000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1724329971000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1724337900000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1724330700000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13387816.2964,
-    "geometry_y": 4348703.115500003
   }
 ]
