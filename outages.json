@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13364866.6701,
     "geometry_y": 4271607.5911
+  },
+  {
+    "F_OUTAGE_ID": 2548980,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "219896939820",
+    "OUTAGE_CIRCUIT_ID": 63171105,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 38.75979,
+    "OUTAGE_LONGITUDE": -122.0374,
+    "CITY": "Capay",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1724402138000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1724402457000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1724427000000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13585141.2257,
+    "geometry_y": 4687321.726300001
   }
 ]
