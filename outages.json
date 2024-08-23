@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13585141.2257,
     "geometry_y": 4687321.726300001
+  },
+  {
+    "F_OUTAGE_ID": 2549082,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "100000041460",
+    "OUTAGE_CIRCUIT_ID": 255292108,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "PATROLLING",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 36.99884,
+    "OUTAGE_LONGITUDE": -119.71765,
+    "CITY": "Friant",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1724407297000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1724407423000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13326907.837000001,
+    "geometry_y": 4438945.099399999
   }
 ]
