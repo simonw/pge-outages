@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13627414.8024,
     "geometry_y": 4545648.932099998
+  },
+  {
+    "F_OUTAGE_ID": 2550682,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "042681102-2101045938",
+    "OUTAGE_CIRCUIT_ID": 42681102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 118,
+    "OUTAGE_LATITUDE": 39.60029,
+    "OUTAGE_LONGITUDE": -123.45479,
+    "CITY": "Laytonville",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1724561460000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1724561802000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1724607000000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13742924.3588,
+    "geometry_y": 4808026.390900001
   }
 ]
