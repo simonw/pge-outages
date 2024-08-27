@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13449338.1261,
     "geometry_y": 4681493.156099997
+  },
+  {
+    "F_OUTAGE_ID": 2552776,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "LineCut - 225420",
+    "OUTAGE_CIRCUIT_ID": 22470401,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 37.71129,
+    "OUTAGE_LONGITUDE": -122.44621,
+    "CITY": "San Francisco",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1724767260000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1724770348000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1724778000000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1724778000000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13630649.7468,
+    "geometry_y": 4538720.673299998
   }
 ]
