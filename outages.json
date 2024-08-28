@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13571454.4943,
     "geometry_y": 4508907.916500002
+  },
+  {
+    "F_OUTAGE_ID": 2553763,
+    "OUTAGE_EXTENT": "DEVICETAP LINE",
+    "OUTAGE_DEVICE_ID": "Line Cut-178823",
+    "OUTAGE_CIRCUIT_ID": 43141102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 16,
+    "OUTAGE_LATITUDE": 38.79521,
+    "OUTAGE_LONGITUDE": -122.54904,
+    "CITY": "Hidden Valley Lake",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1724843100000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1724843611000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1724853600000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13642096.73,
+    "geometry_y": 4692379.470700003
   }
 ]
