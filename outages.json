@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13591614.4541,
     "geometry_y": 4527084.464900002
+  },
+  {
+    "F_OUTAGE_ID": 2553870,
+    "OUTAGE_EXTENT": "DEVICETAP LINE",
+    "OUTAGE_DEVICE_ID": "Line Cut-177163",
+    "OUTAGE_CIRCUIT_ID": 252192105,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.61282,
+    "OUTAGE_LONGITUDE": -120.1327,
+    "CITY": "Coulterville",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1724853600000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1724850825000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1724860800000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13373110.9916,
+    "geometry_y": 4524873.729599997
   }
 ]
