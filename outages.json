@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13406109.4283,
     "geometry_y": 4144196.353699997
+  },
+  {
+    "F_OUTAGE_ID": 2554890,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "216836948011",
+    "OUTAGE_CIRCUIT_ID": 42251101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 38.98023,
+    "OUTAGE_LONGITUDE": -123.11334,
+    "CITY": "Hopland",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1724927669000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1724927674000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13704914.3187,
+    "geometry_y": 4718840.085199997
   }
 ]
