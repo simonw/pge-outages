@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13571591.4173,
     "geometry_y": 4509316.236699998
+  },
+  {
+    "F_OUTAGE_ID": 2553765,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "012232102-2100500167",
+    "OUTAGE_CIRCUIT_ID": 12232102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 37.49853,
+    "OUTAGE_LONGITUDE": -121.91861,
+    "CITY": "Fremont",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1724838600000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1724875990000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1724875200000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1724875200000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13571917.5834,
+    "geometry_y": 4508825.131800003
   }
 ]
