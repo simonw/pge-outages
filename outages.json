@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13677723.4198,
     "geometry_y": 4594910.304200001
-  },
-  {
-    "F_OUTAGE_ID": 2559076,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "014402105-2100552793",
-    "OUTAGE_CIRCUIT_ID": 14402105,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 37.6798,
-    "OUTAGE_LONGITUDE": -121.71907,
-    "CITY": "Livermore",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1725439099000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1725465747000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1725465600000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13549704.8922,
-    "geometry_y": 4534290.521600001
   }
 ]
