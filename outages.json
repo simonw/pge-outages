@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13677723.4198,
     "geometry_y": 4594910.304200001
-  },
-  {
-    "F_OUTAGE_ID": 2558989,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "042281105-2101687469",
-    "OUTAGE_CIRCUIT_ID": 42281105,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 37,
-    "OUTAGE_LATITUDE": 39.34386,
-    "OUTAGE_LONGITUDE": -123.1234,
-    "CITY": "Potter Valley",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1725436860000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1725470111000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1725471900000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13706034.192699999,
-    "geometry_y": 4771046.941200003
   }
 ]
