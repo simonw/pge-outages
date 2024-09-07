@@ -25,32 +25,5 @@
     "fts_flag": "Y",
     "geometry_x": -13609402.1956,
     "geometry_y": 4505104.707900003
-  },
-  {
-    "F_OUTAGE_ID": 2561867,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "252931106-2100015495",
-    "OUTAGE_CIRCUIT_ID": 252931106,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 4,
-    "OUTAGE_LATITUDE": 34.99449,
-    "OUTAGE_LONGITUDE": -118.93533,
-    "CITY": "Arvin",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1725698820000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1725708157000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1725712200000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1725712200000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13239820.3729,
-    "geometry_y": 4163132.382299997
   }
 ]
