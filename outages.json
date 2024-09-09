@@ -25,5 +25,32 @@
     "fts_flag": "Y",
     "geometry_x": -13604714.5318,
     "geometry_y": 4479481.973899998
+  },
+  {
+    "F_OUTAGE_ID": 2562986,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "LineCut - 177589",
+    "OUTAGE_CIRCUIT_ID": 254421101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 37.35135,
+    "OUTAGE_LONGITUDE": -119.72309,
+    "CITY": "Ahwahnee",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1725867606000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1725869397000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1725876000000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1725876000000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13327513.415,
+    "geometry_y": 4488194.257200003
   }
 ]
