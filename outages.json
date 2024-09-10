@@ -25,32 +25,5 @@
     "fts_flag": "Y",
     "geometry_x": -13628767.3342,
     "geometry_y": 4666706.904299997
-  },
-  {
-    "F_OUTAGE_ID": 2564555,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "013180401-2100977498",
-    "OUTAGE_CIRCUIT_ID": 13180401,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 194,
-    "OUTAGE_LATITUDE": 37.81579,
-    "OUTAGE_LONGITUDE": -122.21441,
-    "CITY": "Piedmont",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1725970892000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1725971219000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": null,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13604845.888799999,
-    "geometry_y": 4553435.701700002
   }
 ]
