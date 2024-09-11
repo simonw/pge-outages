@@ -25,5 +25,32 @@
     "fts_flag": "Y",
     "geometry_x": -13628767.3342,
     "geometry_y": 4666706.904299997
+  },
+  {
+    "F_OUTAGE_ID": 2564850,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "043141101-2100924285",
+    "OUTAGE_CIRCUIT_ID": 43141101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "PATROLLING",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 38.82658,
+    "OUTAGE_LONGITUDE": -122.727,
+    "CITY": "Cobb",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1725997680000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1726006246000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1726026300000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1726026300000,
+    "SPID": null,
+    "fts_flag": "Y",
+    "geometry_x": -13661907.1466,
+    "geometry_y": 4696861.000799999
   }
 ]
