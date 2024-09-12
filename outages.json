@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13608126.4742,
     "geometry_y": 4559354.3323
-  },
-  {
-    "F_OUTAGE_ID": 2566503,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "LineCut - 177768",
-    "OUTAGE_CIRCUIT_ID": 252801116,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 13,
-    "OUTAGE_LATITUDE": 37.26227,
-    "OUTAGE_LONGITUDE": -120.43461,
-    "CITY": "Merced",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1726135550000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1726139860000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1726151400000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13406719.4591,
-    "geometry_y": 4475727.166100003
   }
 ]
