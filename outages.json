@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13608126.4742,
     "geometry_y": 4559354.3323
-  },
-  {
-    "F_OUTAGE_ID": 2566123,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "043292103-2101003933",
-    "OUTAGE_CIRCUIT_ID": 43292103,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 38.3542,
-    "OUTAGE_LONGITUDE": -122.33275,
-    "CITY": "Napa",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1726113060000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1726122685000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1726149600000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1726149600000,
-    "SPID": null,
-    "fts_flag": "Y",
-    "geometry_x": -13618019.4373,
-    "geometry_y": 4629583.939900003
   }
 ]
