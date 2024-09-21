@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13344579.8061,
     "geometry_y": 4412396.221299998
-  },
-  {
-    "F_OUTAGE_ID": 2573749,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "16216-2101689463",
-    "OUTAGE_CIRCUIT_ID": 16216,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 23,
-    "OUTAGE_LATITUDE": 38.33108,
-    "OUTAGE_LONGITUDE": -120.67255,
-    "CITY": "Jackson",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1726860840000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1726909763000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1726912800000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1726877700000,
-    "SPID": null,
-    "fts_flag": "Y",
-    "geometry_x": -13433206.8187,
-    "geometry_y": 4626302.468800001
   }
 ]
