@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13344579.8061,
     "geometry_y": 4412396.221299998
-  },
-  {
-    "F_OUTAGE_ID": 2573949,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "062061103-2100984556",
-    "OUTAGE_CIRCUIT_ID": 62061103,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "EMERG REPAIRS",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 38.41516,
-    "OUTAGE_LONGITUDE": -121.77681,
-    "CITY": "Dixon",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1726910304000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1726913886000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1726937100000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1726937100000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13556132.479600001,
-    "geometry_y": 4638241.150399998
   }
 ]
