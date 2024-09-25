@@ -52,32 +52,5 @@
     "fts_flag": "N",
     "geometry_x": -13617115.5231,
     "geometry_y": 4518411.450999998
-  },
-  {
-    "F_OUTAGE_ID": 2576873,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "012022214-2101084896",
-    "OUTAGE_CIRCUIT_ID": 12022214,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 37.9688,
-    "OUTAGE_LONGITUDE": -122.00545,
-    "CITY": "Concord",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1727213176000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1727215001000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1727236800000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13581584.568,
-    "geometry_y": 4575019.236400001
   }
 ]
