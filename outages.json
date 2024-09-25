@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13563522.9806,
     "geometry_y": 4489119.941500001
+  },
+  {
+    "F_OUTAGE_ID": 2576779,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "024011104-2101696313",
+    "OUTAGE_CIRCUIT_ID": 24011104,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting Crew",
+    "OUTAGE_CAUSE": "PATROLLING",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 37.56682,
+    "OUTAGE_LONGITUDE": -122.32463,
+    "CITY": "San Mateo",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1727202511000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1727207811000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1727234100000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1727234100000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13617115.5231,
+    "geometry_y": 4518411.450999998
   }
 ]
