@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13554519.4602,
     "geometry_y": 4575413.209700003
+  },
+  {
+    "F_OUTAGE_ID": 2578994,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "01465-2101029579",
+    "OUTAGE_CIRCUIT_ID": 1465,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "PATROLLING",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 38.02042,
+    "OUTAGE_LONGITUDE": -122.06207,
+    "CITY": "Martinez",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1727417160000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1727426107000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1727443800000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1727443800000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13587887.4776,
+    "geometry_y": 4582310.875799999
   }
 ]
