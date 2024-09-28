@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13585763.501699999,
     "geometry_y": 4486022.510200001
+  },
+  {
+    "F_OUTAGE_ID": 2579857,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "252971102-2100097235",
+    "OUTAGE_CIRCUIT_ID": 252971102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 9,
+    "OUTAGE_LATITUDE": 35.19712,
+    "OUTAGE_LONGITUDE": -118.83642,
+    "CITY": "Arvin",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1727510640000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1727510730000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1727524800000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13228809.7621,
+    "geometry_y": 4190701.3354
   }
 ]
