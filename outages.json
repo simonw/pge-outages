@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13244489.112399999,
     "geometry_y": 4215546.7148
+  },
+  {
+    "F_OUTAGE_ID": 2582159,
+    "OUTAGE_EXTENT": "DEVICETAP LINE",
+    "OUTAGE_DEVICE_ID": "Line Cut-180512",
+    "OUTAGE_CIRCUIT_ID": 103381101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 2,
+    "OUTAGE_LATITUDE": 40.71916,
+    "OUTAGE_LONGITUDE": -122.62973,
+    "CITY": "French Gulch",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1727774135000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1727784017000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1727794800000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13651079.0997,
+    "geometry_y": 4971005.664099999
   }
 ]
