@@ -79,5 +79,32 @@
     "fts_flag": "N",
     "geometry_x": -13310779.8691,
     "geometry_y": 4228989.656499997
+  },
+  {
+    "F_OUTAGE_ID": 2583242,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "042711102-2101114234",
+    "OUTAGE_CIRCUIT_ID": 42711102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "PATROLLING",
+    "EST_CUSTOMERS": 14,
+    "OUTAGE_LATITUDE": 38.56453,
+    "OUTAGE_LONGITUDE": -122.55846,
+    "CITY": "Calistoga",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1727860560000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1727867534000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1727875800000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1727875800000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13643145.3596,
+    "geometry_y": 4659484.807599999
   }
 ]
