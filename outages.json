@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13366832.5723,
     "geometry_y": 4400286.0304000005
+  },
+  {
+    "F_OUTAGE_ID": 2583119,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "221129077912",
+    "OUTAGE_CIRCUIT_ID": 102831105,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 2,
+    "OUTAGE_LATITUDE": 39.80573,
+    "OUTAGE_LONGITUDE": -121.601,
+    "CITY": "Magalia",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1727857349000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1727857658000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1727884800000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13536561.4,
+    "geometry_y": 4837751.5222999975
   }
 ]
