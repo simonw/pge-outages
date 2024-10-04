@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13317878.713100001,
     "geometry_y": 4437986.174199998
-  },
-  {
-    "F_OUTAGE_ID": 2585008,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "024141102-2100650882",
-    "OUTAGE_CIRCUIT_ID": 24141102,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 37.49581,
-    "OUTAGE_LONGITUDE": -122.29733,
-    "CITY": "San Carlos",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1727970900000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1727973290000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1727992800000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1727992800000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13614076.501,
-    "geometry_y": 4508443.489100002
   }
 ]
