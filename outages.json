@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13530353.112,
     "geometry_y": 4663030.4177
-  },
-  {
-    "F_OUTAGE_ID": 2587316,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "013532107-2101047051",
-    "OUTAGE_CIRCUIT_ID": 13532107,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 37.92735,
-    "OUTAGE_LONGITUDE": -122.08637,
-    "CITY": "Pleasant Hill",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1728205320000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1728210203000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1728231300000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1728231300000,
-    "SPID": null,
-    "fts_flag": "Y",
-    "geometry_x": -13590592.5412,
-    "geometry_y": 4569167.881899998
   }
 ]
