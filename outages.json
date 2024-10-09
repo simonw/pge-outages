@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13575375.1668,
     "geometry_y": 4622092.875600003
-  },
-  {
-    "F_OUTAGE_ID": 2590720,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "162211101-2100105915",
-    "OUTAGE_CIRCUIT_ID": 162211101,
-    "CREW_ETA": "10/9/2024 1:41:00 PM",
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 83,
-    "OUTAGE_LATITUDE": 38.16998,
-    "OUTAGE_LONGITUDE": -120.66725,
-    "CITY": "San Andreas",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1728478980000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1728490579000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1728494100000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1728494100000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13432616.8254,
-    "geometry_y": 4603466.193000004
   }
 ]
