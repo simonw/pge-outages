@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13537220.4113,
     "geometry_y": 4837389.264200002
-  },
-  {
-    "F_OUTAGE_ID": 2591497,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "102701103-2101816371",
-    "OUTAGE_CIRCUIT_ID": 102701103,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 2,
-    "OUTAGE_LATITUDE": 39.67452,
-    "OUTAGE_LONGITUDE": -122.17812,
-    "CITY": "Orland",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1728556432000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1728557512000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1728585000000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1728585000000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13600806.1045,
-    "geometry_y": 4818756.529799998
   }
 ]
