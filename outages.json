@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13434479.2005,
     "geometry_y": 4253294.256399997
+  },
+  {
+    "F_OUTAGE_ID": 2592036,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "LineCut - 180982",
+    "OUTAGE_CIRCUIT_ID": 103261101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 40.41728,
+    "OUTAGE_LONGITUDE": -122.28638,
+    "CITY": "Anderson",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1728633117000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1728633183000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1728662400000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13612857.5526,
+    "geometry_y": 4926766.852399997
   }
 ]
