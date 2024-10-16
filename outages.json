@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13578665.771,
     "geometry_y": 4436504.749399997
+  },
+  {
+    "F_OUTAGE_ID": 2596256,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "014502108-2100495702",
+    "OUTAGE_CIRCUIT_ID": 14502108,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "PATROLLING",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 37.65704,
+    "OUTAGE_LONGITUDE": -121.90085,
+    "CITY": "Pleasanton",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1729082220000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1729089531000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1729110600000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1729110600000,
+    "SPID": null,
+    "fts_flag": "Y",
+    "geometry_x": -13569940.5493,
+    "geometry_y": 4531089.715400003
   }
 ]
