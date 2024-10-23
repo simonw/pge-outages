@@ -52,32 +52,5 @@
     "fts_flag": "N",
     "geometry_x": -13397004.607099999,
     "geometry_y": 4357744.602399997
-  },
-  {
-    "F_OUTAGE_ID": 2601843,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "LineCut - 185347",
-    "OUTAGE_CIRCUIT_ID": 182721104,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 34.63189,
-    "OUTAGE_LONGITUDE": -120.08036,
-    "CITY": "Santa Ynez",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1729670817000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1729670923000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": null,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13367284.5295,
-    "geometry_y": 4113968.3084999993
   }
 ]
