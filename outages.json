@@ -79,32 +79,5 @@
     "fts_flag": "N",
     "geometry_x": -13611118.7421,
     "geometry_y": 4552649.435599998
-  },
-  {
-    "F_OUTAGE_ID": 2601559,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "043311108-2101659112",
-    "OUTAGE_CIRCUIT_ID": 43311108,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 38.9869,
-    "OUTAGE_LONGITUDE": -122.74237,
-    "CITY": "Kelseyville",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1729613220000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1729623406000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1729630800000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1729630800000,
-    "SPID": null,
-    "fts_flag": "Y",
-    "geometry_x": -13663618.1272,
-    "geometry_y": 4719795.283699997
   }
 ]
