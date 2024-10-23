@@ -79,5 +79,32 @@
     "fts_flag": "N",
     "geometry_x": -13611118.7421,
     "geometry_y": 4552649.435599998
+  },
+  {
+    "F_OUTAGE_ID": 2601688,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "LineCut - 181378",
+    "OUTAGE_CIRCUIT_ID": 102601101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "EMERG REPAIRS",
+    "EST_CUSTOMERS": 3,
+    "OUTAGE_LATITUDE": 39.82371,
+    "OUTAGE_LONGITUDE": -122.32479,
+    "CITY": "Corning",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1729633680000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1729644157000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1729648800000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1729648800000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13617133.3342,
+    "geometry_y": 4840357.270000003
   }
 ]
