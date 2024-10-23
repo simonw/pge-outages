@@ -79,32 +79,5 @@
     "fts_flag": "N",
     "geometry_x": -13367284.5295,
     "geometry_y": 4113968.3084999993
-  },
-  {
-    "F_OUTAGE_ID": 2601923,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "043191101-2101897981",
-    "OUTAGE_CIRCUIT_ID": 43191101,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 39.04258,
-    "OUTAGE_LONGITUDE": -122.5876,
-    "CITY": "Clearlake Oaks",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1729672677000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1729673757000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1729690200000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1729690200000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13646389.2096,
-    "geometry_y": 4727772.628799997
   }
 ]
