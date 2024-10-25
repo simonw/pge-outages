@@ -52,32 +52,5 @@
     "fts_flag": "N",
     "geometry_x": -13397004.607099999,
     "geometry_y": 4357744.602399997
-  },
-  {
-    "F_OUTAGE_ID": 2602718,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "314556940709",
-    "OUTAGE_CIRCUIT_ID": 22691106,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "REPLCE TXFMR",
-    "EST_CUSTOMERS": 4,
-    "OUTAGE_LATITUDE": 37.60278,
-    "OUTAGE_LONGITUDE": -122.38021,
-    "CITY": "Millbrae",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1729756659000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1729798528000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1729810800000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1729792800000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13623302.6604,
-    "geometry_y": 4523462.926200002
   }
 ]
