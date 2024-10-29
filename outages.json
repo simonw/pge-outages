@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13612086.1085,
     "geometry_y": 4615528.666000001
+  },
+  {
+    "F_OUTAGE_ID": 2607159,
+    "OUTAGE_EXTENT": "DEVICETAP LINE",
+    "OUTAGE_DEVICE_ID": "Line Cut-179866",
+    "OUTAGE_CIRCUIT_ID": 252371102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 36.47662,
+    "OUTAGE_LONGITUDE": -120.01202,
+    "CITY": "Riverdale",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1730195820000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1730195850000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1730298600000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13359676.9555,
+    "geometry_y": 4366403.296400003
   }
 ]
