@@ -79,5 +79,32 @@
     "fts_flag": "N",
     "geometry_x": -13370895.7338,
     "geometry_y": 4337724.999899998
+  },
+  {
+    "F_OUTAGE_ID": 2607233,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "182031106-2100641472",
+    "OUTAGE_CIRCUIT_ID": 182031106,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "PATROLLING",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 36.21446,
+    "OUTAGE_LONGITUDE": -121.09277,
+    "CITY": "King City",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1730199900000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1730203597000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1730217600000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1730217600000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13479985.495099999,
+    "geometry_y": 4330171.004299998
   }
 ]
