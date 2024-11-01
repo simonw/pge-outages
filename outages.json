@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13612982.2304,
     "geometry_y": 4553924.682099998
-  },
-  {
-    "F_OUTAGE_ID": 2609306,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "082012102-2100871971",
-    "OUTAGE_CIRCUIT_ID": 82012102,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting Crew",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 37.32575,
-    "OUTAGE_LONGITUDE": -121.84953,
-    "CITY": "San Jose",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1730365733000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1730386569000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1730394000000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1730386800000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13564227.633000001,
-    "geometry_y": 4484609.9252
   }
 ]
