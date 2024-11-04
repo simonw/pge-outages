@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13624596.1929,
     "geometry_y": 4994192.529200003
+  },
+  {
+    "F_OUTAGE_ID": 2613039,
+    "OUTAGE_EXTENT": "DEVICETAP LINE",
+    "OUTAGE_DEVICE_ID": "254501103-2100882563",
+    "OUTAGE_CIRCUIT_ID": 254501103,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 35.59494,
+    "OUTAGE_LONGITUDE": -119.24153,
+    "CITY": "Mc Farland",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1730709060000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1730709369000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1730723400000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1730723400000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13273906.401,
+    "geometry_y": 4245027.931000002
   }
 ]
