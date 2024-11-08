@@ -25,5 +25,32 @@
     "fts_flag": "Y",
     "geometry_x": -13633904.7287,
     "geometry_y": 4576901.688699998
+  },
+  {
+    "F_OUTAGE_ID": 2618519,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "216836948011",
+    "OUTAGE_CIRCUIT_ID": 42251101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 38.98023,
+    "OUTAGE_LONGITUDE": -123.11334,
+    "CITY": "Hopland",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1731052968000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1731053327000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1731067200000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1731067200000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13704914.3187,
+    "geometry_y": 4718840.085199997
   }
 ]
