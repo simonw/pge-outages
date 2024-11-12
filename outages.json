@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13231647.2959,
     "geometry_y": 4204328.140100002
-  },
-  {
-    "F_OUTAGE_ID": 2621971,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "253391103-2100068881",
-    "OUTAGE_CIRCUIT_ID": 253391103,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew Enroute",
-    "OUTAGE_CAUSE": "DAMGE UG CABLE",
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 35.37524,
-    "OUTAGE_LONGITUDE": -119.10987,
-    "CITY": "Greenacres",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1731348240000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1731395927000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1731405600000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13259250.0769,
-    "geometry_y": 4214992.4092999995
   }
 ]
