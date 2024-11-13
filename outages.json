@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13416810.5709,
     "geometry_y": 4390115.2053999975
+  },
+  {
+    "F_OUTAGE_ID": 2624150,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "014452103-2100940627",
+    "OUTAGE_CIRCUIT_ID": 14452103,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 38.00788,
+    "OUTAGE_LONGITUDE": -121.87403,
+    "CITY": "Pittsburg",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1731506618000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1731509516000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1731510000000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1731510000000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13566954.9605,
+    "geometry_y": 4580539.0524
   }
 ]
