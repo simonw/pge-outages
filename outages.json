@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13416810.5709,
     "geometry_y": 4390115.2053999975
+  },
+  {
+    "F_OUTAGE_ID": 2623831,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "182222104-2100508914",
+    "OUTAGE_CIRCUIT_ID": 182222104,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 14,
+    "OUTAGE_LATITUDE": 36.57811,
+    "OUTAGE_LONGITUDE": -121.77344,
+    "CITY": "Monterey",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1731489636000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1731511472000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1731520800000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1731513600000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13555757.332899999,
+    "geometry_y": 4380462.7817
   }
 ]
