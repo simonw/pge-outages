@@ -79,5 +79,32 @@
     "fts_flag": "N",
     "geometry_x": -13555595.9197,
     "geometry_y": 4658935.276799999
+  },
+  {
+    "F_OUTAGE_ID": 2625546,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "04203-2101097259",
+    "OUTAGE_CIRCUIT_ID": 4203,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 37.89847,
+    "OUTAGE_LONGITUDE": -122.52461,
+    "CITY": "Mill Valley",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1731643440000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1731645550000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1731650400000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1731650400000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13639377.1948,
+    "geometry_y": 4565092.940899998
   }
 ]
