@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13664606.6442,
     "geometry_y": 4719988.625600003
+  },
+  {
+    "F_OUTAGE_ID": 2626100,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "043432103-2100898760",
+    "OUTAGE_CIRCUIT_ID": 43432103,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "PATROLLING",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 38.49355,
+    "OUTAGE_LONGITUDE": -122.4562,
+    "CITY": "Saint Helena",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1731671760000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1731674479000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1731686400000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1731686400000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13631761.828499999,
+    "geometry_y": 4649384.419
   }
 ]
