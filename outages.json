@@ -52,32 +52,5 @@
     "fts_flag": "N",
     "geometry_x": -13430924.7692,
     "geometry_y": 4398241.925800003
-  },
-  {
-    "F_OUTAGE_ID": 2625281,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "224339831203",
-    "OUTAGE_CIRCUIT_ID": 163201101,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 38.51306,
-    "OUTAGE_LONGITUDE": -120.48439,
-    "CITY": "Pioneer",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1731599001000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1731606289000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1731609900000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1731609900000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13412260.943300001,
-    "geometry_y": 4652159.681400001
   }
 ]
