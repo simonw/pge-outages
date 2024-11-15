@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13430924.7692,
     "geometry_y": 4398241.925800003
+  },
+  {
+    "F_OUTAGE_ID": 2625468,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "062041109-2100967117",
+    "OUTAGE_CIRCUIT_ID": 62041109,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 38.56067,
+    "OUTAGE_LONGITUDE": -121.77199,
+    "CITY": "Davis",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1731619140000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1731636894000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1731646800000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1731646800000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13555595.9197,
+    "geometry_y": 4658935.276799999
   }
 ]
