@@ -79,32 +79,5 @@
     "fts_flag": "N",
     "geometry_x": -13412260.943300001,
     "geometry_y": 4652159.681400001
-  },
-  {
-    "F_OUTAGE_ID": 2625291,
-    "OUTAGE_EXTENT": "CUSTOMER",
-    "OUTAGE_DEVICE_ID": "100000151409",
-    "OUTAGE_CIRCUIT_ID": 62061106,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 38.44328,
-    "OUTAGE_LONGITUDE": -121.8533,
-    "CITY": "Dixon",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1731599623000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1731601263000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1731624300000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1731624300000,
-    "SPID": "2917743230",
-    "fts_flag": "N",
-    "geometry_x": -13564647.307500001,
-    "geometry_y": 4642237.062799998
   }
 ]
