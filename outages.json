@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13233664.4051,
     "geometry_y": 4194354.130000003
-  },
-  {
-    "F_OUTAGE_ID": 2627501,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "100000201132",
-    "OUTAGE_CIRCUIT_ID": 107570001,
-    "CREW_ETA": "11/17/2024 2:43:00 PM",
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 40.43269,
-    "OUTAGE_LONGITUDE": -121.9813,
-    "CITY": "Shingletown",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1731850272000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1731854692000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1731861000000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1731861000000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13578896.202300001,
-    "geometry_y": 4929020.278700002
   }
 ]
