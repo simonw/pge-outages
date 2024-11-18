@@ -79,32 +79,5 @@
     "fts_flag": "N",
     "geometry_x": -13425094.9674,
     "geometry_y": 4382127.757799998
-  },
-  {
-    "F_OUTAGE_ID": 2628492,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "153082106-2101066940",
-    "OUTAGE_CIRCUIT_ID": 153082106,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 123,
-    "OUTAGE_LATITUDE": 38.83263,
-    "OUTAGE_LONGITUDE": -120.81746,
-    "CITY": "Placerville",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1731942280000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1731943788000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1731960900000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1731960900000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13449338.1261,
-    "geometry_y": 4697725.533200003
   }
 ]
