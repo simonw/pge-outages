@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13610011.1132,
     "geometry_y": 4601348.145000003
-  },
-  {
-    "F_OUTAGE_ID": 2628929,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "100000015629",
-    "OUTAGE_CIRCUIT_ID": 252721106,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 35.45575,
-    "OUTAGE_LONGITUDE": -118.91529,
-    "CITY": "Bakersfield",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1732004610000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1732004968000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1732014000000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1732014000000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13237589.530299999,
-    "geometry_y": 4225989.527599998
   }
 ]
