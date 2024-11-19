@@ -106,5 +106,32 @@
     "fts_flag": "N",
     "geometry_x": -13610011.1132,
     "geometry_y": 4601348.145000003
+  },
+  {
+    "F_OUTAGE_ID": 2628798,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "153761102-2101000831",
+    "OUTAGE_CIRCUIT_ID": 153761102,
+    "CREW_ETA": "11/19/2024 7:50:00 AM",
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "PATROLLING",
+    "EST_CUSTOMERS": 43,
+    "OUTAGE_LATITUDE": 38.74798,
+    "OUTAGE_LONGITUDE": -121.46979,
+    "CITY": "Elverta",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1731997957000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1732002671000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1732022100000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1732022100000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13521955.169599999,
+    "geometry_y": 4685635.893600002
   }
 ]
