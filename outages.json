@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13626270.438000001,
     "geometry_y": 4529555.757799998
+  },
+  {
+    "F_OUTAGE_ID": 2632305,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "042561105-2101694007",
+    "OUTAGE_CIRCUIT_ID": 42561105,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting Crew",
+    "OUTAGE_CAUSE": "EMERG REPAIRS",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 38.51075,
+    "OUTAGE_LONGITUDE": -122.8,
+    "CITY": "Santa Rosa",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1732173144000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1732219272000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1732226400000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13670033.4694,
+    "geometry_y": 4651831.048799999
   }
 ]
