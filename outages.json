@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13818638.3105,
     "geometry_y": 5034725.453900002
+  },
+  {
+    "F_OUTAGE_ID": 2637101,
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "100000012304",
+    "OUTAGE_CIRCUIT_ID": 253551105,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 35.81908,
+    "OUTAGE_LONGITUDE": -119.42007,
+    "CITY": "Earlimart",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1732461571000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1732461572000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": "3464259960",
+    "fts_flag": "N",
+    "geometry_x": -13293781.3829,
+    "geometry_y": 4275755.530100003
   }
 ]
