@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13569381.7254,
     "geometry_y": 4539282.138300002
+  },
+  {
+    "F_OUTAGE_ID": 2637405,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "221181754238",
+    "OUTAGE_CIRCUIT_ID": 152331105,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 39.15535,
+    "OUTAGE_LONGITUDE": -121.58414,
+    "CITY": "Marysville",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1732523412000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1732523774000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1732541400000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1732541400000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13534684.5533,
+    "geometry_y": 4743948.619400002
   }
 ]
