@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13575842.708700001,
     "geometry_y": 4496583.010600001
+  },
+  {
+    "F_OUTAGE_ID": 2640569,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "06246-2101540650",
+    "OUTAGE_CIRCUIT_ID": 6246,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "PATROLLING",
+    "EST_CUSTOMERS": 555,
+    "OUTAGE_LATITUDE": 38.2315,
+    "OUTAGE_LONGITUDE": -121.59052,
+    "CITY": "Walnut Grove",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1732960125000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1732972794000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1732977000000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1732969800000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13535394.7717,
+    "geometry_y": 4612180.814599998
   }
 ]
