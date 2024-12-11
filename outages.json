@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13649139.9142,
     "geometry_y": 4611254.0402999967
+  },
+  {
+    "F_OUTAGE_ID": 2649405,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "08216-2100472228",
+    "OUTAGE_CIRCUIT_ID": 8216,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "PATROLLING",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 37.360979999999998,
+    "OUTAGE_LONGITUDE": -122.09932000000001,
+    "CITY": "Loyola",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1733905328000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1733909738000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1733919300000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1733919300000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13592034.128600001,
+    "geometry_y": 4489542.8985000029
   }
 ]
