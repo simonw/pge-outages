@@ -52,32 +52,5 @@
     "fts_flag": "N",
     "geometry_x": -13582174.5613,
     "geometry_y": 4626860.1881999969
-  },
-  {
-    "F_OUTAGE_ID": 2664595,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "012091112-2101766665",
-    "OUTAGE_CIRCUIT_ID": 12091112,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 37.763190000000002,
-    "OUTAGE_LONGITUDE": -122.22084,
-    "CITY": "Oakland",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1734459000000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1734461655000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1734462000000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1734462000000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13605561.6731,
-    "geometry_y": 4546026.3039999977
   }
 ]
