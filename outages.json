@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13583563.828600001,
     "geometry_y": 4750025.7859999985
+  },
+  {
+    "F_OUTAGE_ID": 2666300,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "253601103-2100126616",
+    "OUTAGE_CIRCUIT_ID": 253601103,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 5,
+    "OUTAGE_LATITUDE": 36.313650000000003,
+    "OUTAGE_LONGITUDE": -119.72701000000001,
+    "CITY": "Lemoore",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1734650340000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1734650366000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13327949.7874,
+    "geometry_y": 4343865.3980000019
   }
 ]
