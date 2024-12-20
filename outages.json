@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13626175.816399999,
     "geometry_y": 4549892.3373999968
-  },
-  {
-    "F_OUTAGE_ID": 2665903,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "062021103-2101006302",
-    "OUTAGE_CIRCUIT_ID": 62021103,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 39.197670000000002,
-    "OUTAGE_LONGITUDE": -122.02323,
-    "CITY": "Colusa",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1734605821000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1734637769000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1734611400000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1734611400000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13583563.828600001,
-    "geometry_y": 4750025.7859999985
   }
 ]
