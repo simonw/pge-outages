@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13625321.995900001,
     "geometry_y": 4549307.7629999965
+  },
+  {
+    "F_OUTAGE_ID": 2669100,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "25337-2100105743",
+    "OUTAGE_CIRCUIT_ID": 25337,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "PATROLLING",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 35.388539999999999,
+    "OUTAGE_LONGITUDE": -119.00456,
+    "CITY": "Bakersfield",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1735035600000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1735038524000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1735044300000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1735044300000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13247527.021299999,
+    "geometry_y": 4216808.3414999992
   }
 ]
