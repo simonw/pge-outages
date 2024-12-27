@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13630253.4494,
     "geometry_y": 4647821.4421999976
+  },
+  {
+    "F_OUTAGE_ID": 2670684,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "013432207-2101510370",
+    "OUTAGE_CIRCUIT_ID": 13432207,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 7,
+    "OUTAGE_LATITUDE": 38.013190000000002,
+    "OUTAGE_LONGITUDE": -122.13617000000001,
+    "CITY": "Martinez",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1735291860000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1735301052000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1735311600000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1735311600000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13596136.251800001,
+    "geometry_y": 4581289.2850999981
   }
 ]
