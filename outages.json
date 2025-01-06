@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13391972.9661,
     "geometry_y": 4361777.6305000037
-  },
-  {
-    "F_OUTAGE_ID": 2676387,
-    "OUTAGE_EXTENT": "DEVICETAP LINE",
-    "OUTAGE_DEVICE_ID": "062462224-2101009623",
-    "OUTAGE_CIRCUIT_ID": 62462224,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 16,
-    "OUTAGE_LATITUDE": 38.161409999999997,
-    "OUTAGE_LONGITUDE": -121.61544000000001,
-    "CITY": "Isleton",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1736157060000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1736175147000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1736177400000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1736177400000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13538168.853399999,
-    "geometry_y": 4602252.7928000018
   }
 ]
