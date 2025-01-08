@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13389417.070599999,
     "geometry_y": 4355675.4096999988
+  },
+  {
+    "F_OUTAGE_ID": 2678370,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "252091106-2101659090",
+    "OUTAGE_CIRCUIT_ID": 252091106,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 9,
+    "OUTAGE_LATITUDE": 37.056429999999999,
+    "OUTAGE_LONGITUDE": -120.83557999999999,
+    "CITY": "Los Banos",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1736301708000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1736304247000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1736308800000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1736308800000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13451355.235300001,
+    "geometry_y": 4446975.3229999989
   }
 ]
