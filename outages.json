@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13392920.295,
     "geometry_y": 4353750.4223000035
+  },
+  {
+    "F_OUTAGE_ID": 2679499,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "02401-2100497920",
+    "OUTAGE_CIRCUIT_ID": 2401,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "PATROLLING",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 37.55171,
+    "OUTAGE_LONGITUDE": -122.29226,
+    "CITY": "San Mateo",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1736407560000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1736410833000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1736424900000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1736424900000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13613512.111200001,
+    "geometry_y": 4516289.6037999988
   }
 ]
