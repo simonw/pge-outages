@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13606444.436700001,
     "geometry_y": 4448388.4580999985
+  },
+  {
+    "F_OUTAGE_ID": 2680262,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "082931101-2100521798",
+    "OUTAGE_CIRCUIT_ID": 82931101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "PATROLLING",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 37.031379999999999,
+    "OUTAGE_LONGITUDE": -122.18792999999999,
+    "CITY": "Davenport",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1736457240000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1736461818000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1736473500000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1736473500000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13601898.148699999,
+    "geometry_y": 4443481.6576000005
   }
 ]
