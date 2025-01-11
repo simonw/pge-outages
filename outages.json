@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13590585.862,
     "geometry_y": 4562551.1458000019
-  },
-  {
-    "F_OUTAGE_ID": 2681026,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "315803553211",
-    "OUTAGE_CIRCUIT_ID": 12022218,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 37.952480000000001,
-    "OUTAGE_LONGITUDE": -121.95654,
-    "CITY": "Concord",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1736547322000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1736547327000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1736570700000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1736570700000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13576139.931699999,
-    "geometry_y": 4572715.003899999
   }
 ]
