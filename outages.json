@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13503026.4034,
     "geometry_y": 4552632.5273000002
+  },
+  {
+    "F_OUTAGE_ID": 2686151,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "043432103-2100997780",
+    "OUTAGE_CIRCUIT_ID": 43432103,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 38.44755,
+    "OUTAGE_LONGITUDE": -122.41233,
+    "CITY": "Napa",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1737105284000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1737121837000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1737126000000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1737126000000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13626878.2424,
+    "geometry_y": 4642843.9751000032
   }
 ]
