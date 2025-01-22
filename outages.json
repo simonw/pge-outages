@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13612126.183499999,
     "geometry_y": 4558891.8840000033
+  },
+  {
+    "F_OUTAGE_ID": 2688788,
+    "OUTAGE_EXTENT": "DEVICETAP LINE",
+    "OUTAGE_DEVICE_ID": "082951101-2100648489",
+    "OUTAGE_CIRCUIT_ID": 82951101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 43,
+    "OUTAGE_LATITUDE": 37.249549999999999,
+    "OUTAGE_LONGITUDE": -121.81706,
+    "CITY": "San Jose",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1737536400000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1737554547000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1737562500000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1737562500000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13560613.0891,
+    "geometry_y": 4473948.1567000002
   }
 ]
