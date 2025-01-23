@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13345452.550900001,
     "geometry_y": 4362411.4310000017
+  },
+  {
+    "F_OUTAGE_ID": 2689320,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "06364-2101063269",
+    "OUTAGE_CIRCUIT_ID": 6364,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "PATROLLING",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 38.285499999999999,
+    "OUTAGE_LONGITUDE": -121.97153,
+    "CITY": "Fairfield",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1737558900000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1737562235000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1737578700000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1737578700000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13577808.6109,
+    "geometry_y": 4619836.2666999996
   }
 ]
