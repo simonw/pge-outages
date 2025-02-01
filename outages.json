@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13565806.1434,
     "geometry_y": 4499330.2845999971
-  },
-  {
-    "F_OUTAGE_ID": 2696012,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "163682102-2100056123",
-    "OUTAGE_CIRCUIT_ID": 163682102,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "POLE FIRE",
-    "EST_CUSTOMERS": 34,
-    "OUTAGE_LATITUDE": 38.194290000000002,
-    "OUTAGE_LONGITUDE": -121.07689000000001,
-    "CITY": "Acampo",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1738399979000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1738414877000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1738423800000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1738414800000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13478217.741599999,
-    "geometry_y": 4606908.9486000016
   }
 ]
