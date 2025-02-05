@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13624609.551199999,
     "geometry_y": 4550612.1837000027
+  },
+  {
+    "F_OUTAGE_ID": 2700230,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "25391-2100030339",
+    "OUTAGE_CIRCUIT_ID": 25391,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "BRKN POLE EQUIPMNT",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 35.297089999999997,
+    "OUTAGE_LONGITUDE": -118.86188,
+    "CITY": "Bakersfield",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1738697340000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1738704761000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1738713600000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1738713600000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13231643.9563,
+    "geometry_y": 4204328.1401000023
   }
 ]
