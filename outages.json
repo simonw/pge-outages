@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13624609.551199999,
     "geometry_y": 4550612.1837000027
-  },
-  {
-    "F_OUTAGE_ID": 2699934,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "083871105-2100646671",
-    "OUTAGE_CIRCUIT_ID": 83871105,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "STORM",
-    "EST_CUSTOMERS": 93,
-    "OUTAGE_LATITUDE": 37.341639999999998,
-    "OUTAGE_LONGITUDE": -121.91439,
-    "CITY": "San Jose",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1738690716000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1738700670000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": null,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13571447.815200001,
-    "geometry_y": 4486834.5874999985
   }
 ]
