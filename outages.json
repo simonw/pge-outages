@@ -52,32 +52,5 @@
     "fts_flag": "N",
     "geometry_x": -13596381.1547,
     "geometry_y": 4450503.630900003
-  },
-  {
-    "F_OUTAGE_ID": 2700548,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "013921104-2100928175",
-    "OUTAGE_CIRCUIT_ID": 13921104,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": "STORM",
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 38.018340000000002,
-    "OUTAGE_LONGITUDE": -122.25434,
-    "CITY": "Rodeo",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1738716000000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1738722780000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1738730700000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1738730700000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13609290.8761,
-    "geometry_y": 4582016.9637999982
   }
 ]
