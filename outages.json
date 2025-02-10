@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13537093.507100001,
     "geometry_y": 4840803.7066999972
+  },
+  {
+    "F_OUTAGE_ID": 2705673,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "100000075336",
+    "OUTAGE_CIRCUIT_ID": 252161107,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 36.129399999999997,
+    "OUTAGE_LONGITUDE": -120.3259,
+    "CITY": "Coalinga",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1739182134000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1739182189000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13394617.917199999,
+    "geometry_y": 4318441.2515999973
   }
 ]
