@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13256888.990499999,
     "geometry_y": 4426419.0022
+  },
+  {
+    "F_OUTAGE_ID": 2710634,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "042841112-2101538722",
+    "OUTAGE_CIRCUIT_ID": 42841112,
+    "CREW_ETA": "2/14/2025 2:00:00 PM",
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "REPAIR WIRE DWN",
+    "EST_CUSTOMERS": 11,
+    "OUTAGE_LATITUDE": 38.813789999999997,
+    "OUTAGE_LONGITUDE": -123.57019,
+    "CITY": "Anchor Bay",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1739518914000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1739552525000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1739556000000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1739547000000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13755770.627999999,
+    "geometry_y": 4695033.5782999992
   }
 ]
