@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13619295.1587,
     "geometry_y": 4459883.2959999964
-  },
-  {
-    "F_OUTAGE_ID": 2711470,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "063681105-2101094133",
-    "OUTAGE_CIRCUIT_ID": 63681105,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 38.560549999999999,
-    "OUTAGE_LONGITUDE": -121.9713,
-    "CITY": "Winters",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1739605560000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1739613578000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1739615400000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1739615400000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13577783.007399999,
-    "geometry_y": 4658918.1934999973
   }
 ]
