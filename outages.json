@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13619295.1587,
     "geometry_y": 4459883.2959999964
+  },
+  {
+    "F_OUTAGE_ID": 2711596,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "15229-2101101631",
+    "OUTAGE_CIRCUIT_ID": 15229,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 38,
+    "OUTAGE_LATITUDE": 39.314,
+    "OUTAGE_LONGITUDE": -120.49612,
+    "CITY": "Norden",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1739613480000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1739617853000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1739650500000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1739650500000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13413566.721000001,
+    "geometry_y": 4766749.7041999996
   }
 ]
