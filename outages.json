@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13466243.104,
     "geometry_y": 4871779.9386000037
+  },
+  {
+    "F_OUTAGE_ID": 2713921,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "120913562250",
+    "OUTAGE_CIRCUIT_ID": 103732101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 41.041609999999999,
+    "OUTAGE_LONGITUDE": -121.67016,
+    "CITY": "Burney",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1739957382000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1739957384000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13544260.255899999,
+    "geometry_y": 5018481.0680000037
   }
 ]
