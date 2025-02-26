@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13566263.6665,
     "geometry_y": 4383741.6871000007
+  },
+  {
+    "F_OUTAGE_ID": 2718733,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "024021104-2101566033",
+    "OUTAGE_CIRCUIT_ID": 24021104,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 4,
+    "OUTAGE_LATITUDE": 37.473529999999997,
+    "OUTAGE_LONGITUDE": -122.15416,
+    "CITY": "East Palo Alto",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1740565620000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1740567775000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1740582000000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1740582000000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13598138.8895,
+    "geometry_y": 4505317.9091999978
   }
 ]
