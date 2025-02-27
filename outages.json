@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13642014.353599999,
     "geometry_y": 4590382.5842999965
+  },
+  {
+    "F_OUTAGE_ID": 2719291,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "100000042423",
+    "OUTAGE_CIRCUIT_ID": 24192101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.583329999999997,
+    "OUTAGE_LONGITUDE": -122.31547999999999,
+    "CITY": "San Mateo",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1740646101000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1740646105000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13616096.9497,
+    "geometry_y": 4520730.3875999972
   }
 ]
