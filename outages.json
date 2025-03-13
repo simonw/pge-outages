@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13538253.4562,
     "geometry_y": 4600350.1512999982
+  },
+  {
+    "F_OUTAGE_ID": 2731592,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "014452106-2101017184",
+    "OUTAGE_CIRCUIT_ID": 14452106,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "STORM",
+    "EST_CUSTOMERS": 115,
+    "OUTAGE_LATITUDE": 38.018549999999998,
+    "OUTAGE_LONGITUDE": -121.87251000000001,
+    "CITY": "Pittsburg",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1741826580000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1741826671000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13566785.754900001,
+    "geometry_y": 4582046.6372999996
   }
 ]
