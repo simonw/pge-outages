@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13538253.4562,
     "geometry_y": 4600350.1512999982
-  },
-  {
-    "F_OUTAGE_ID": 2731345,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "315537954263",
-    "OUTAGE_CIRCUIT_ID": 14302110,
-    "CREW_ETA": "3/12/2025 8:14:00 PM",
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "TREE CONTACT",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 37.979999999999997,
-    "OUTAGE_LONGITUDE": -122.0493,
-    "CITY": "Concord",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1741812662000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1741813671000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1741824900000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13586465.9277,
-    "geometry_y": 4576600.8687999994
   }
 ]
