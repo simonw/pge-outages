@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13602897.797699999,
     "geometry_y": 4831673.1274000034
-  },
-  {
-    "F_OUTAGE_ID": 2736379,
-    "OUTAGE_EXTENT": "CUSTOMER",
-    "OUTAGE_DEVICE_ID": "100000122848",
-    "OUTAGE_CIRCUIT_ID": 254272108,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 36.966200000000001,
-    "OUTAGE_LONGITUDE": -119.78766,
-    "CITY": "Madera",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1742152157000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1742153379000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1742172300000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1742172300000,
-    "SPID": "217616879",
-    "fts_flag": "N",
-    "geometry_x": -13334701.3145,
-    "geometry_y": 4434396.5496999994
   }
 ]
