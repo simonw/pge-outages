@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13544038.7301,
     "geometry_y": 4578105.0556000024
-  },
-  {
-    "F_OUTAGE_ID": 2749660,
-    "OUTAGE_EXTENT": "DEVICETAP LINE",
-    "OUTAGE_DEVICE_ID": "042481104-2101114993",
-    "OUTAGE_CIRCUIT_ID": 42481104,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 38,
-    "OUTAGE_LATITUDE": 38.114159999999998,
-    "OUTAGE_LONGITUDE": -122.51194,
-    "CITY": "Black Point-Green Point",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1743415143000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1743423412000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1743429600000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1743429600000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13637966.776900001,
-    "geometry_y": 4595565.3681999967
   }
 ]
