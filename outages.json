@@ -52,32 +52,5 @@
     "fts_flag": "N",
     "geometry_x": -13613372.9618,
     "geometry_y": 4580202.8074999973
-  },
-  {
-    "F_OUTAGE_ID": 2753221,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "321306023244",
-    "OUTAGE_CIRCUIT_ID": 255361104,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 37.137560000000001,
-    "OUTAGE_LONGITUDE": -120.05074,
-    "CITY": "Chowchilla",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1743697624000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1743697625000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1743733800000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1743733800000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13363987.246199999,
-    "geometry_y": 4458298.2613999993
   }
 ]
