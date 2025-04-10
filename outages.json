@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13580627.2204,
     "geometry_y": 4567794.809299998
-  },
-  {
-    "F_OUTAGE_ID": 2757530,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "511970176285",
-    "OUTAGE_CIRCUIT_ID": 183052110,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 35.56711,
-    "OUTAGE_LONGITUDE": -120.70056,
-    "CITY": "Templeton",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1744275625000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1744276003000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1744282800000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1744282800000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13436324.877700001,
-    "geometry_y": 4241218.701700002
   }
 ]
