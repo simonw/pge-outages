@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13646921.3167,
     "geometry_y": 4729743.576700002
-  },
-  {
-    "F_OUTAGE_ID": 2759020,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "152261105-2100939609",
-    "OUTAGE_CIRCUIT_ID": 152261105,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 70,
-    "OUTAGE_LATITUDE": 38.631329999999998,
-    "OUTAGE_LONGITUDE": -120.85424999999999,
-    "CITY": "El Dorado",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1744410360000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1744424358000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1744425000000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1744425000000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13453433.5702,
-    "geometry_y": 4668999.5019999966
   }
 ]
