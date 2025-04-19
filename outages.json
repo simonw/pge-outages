@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13626554.3027,
     "geometry_y": 4537717.4287
-  },
-  {
-    "F_OUTAGE_ID": 2764102,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "042481105-2100973901",
-    "OUTAGE_CIRCUIT_ID": 42481105,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 7,
-    "OUTAGE_LATITUDE": 38.076970000000003,
-    "OUTAGE_LONGITUDE": -122.54215000000001,
-    "CITY": "Novato",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1745055780000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1745056482000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1745082000000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1745082000000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13641329.738699999,
-    "geometry_y": 4590304.8057999983
   }
 ]
