@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13449374.8616,
     "geometry_y": 4445869.2195999995
+  },
+  {
+    "F_OUTAGE_ID": 2766021,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "013532223-2101554167",
+    "OUTAGE_CIRCUIT_ID": 13532223,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 202,
+    "OUTAGE_LATITUDE": 37.901319999999998,
+    "OUTAGE_LONGITUDE": -122.06276,
+    "CITY": "Walnut Creek",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1745317283000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1745317291000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13587964.287999999,
+    "geometry_y": 4565495.0020999983
   }
 ]
