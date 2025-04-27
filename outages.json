@@ -79,32 +79,5 @@
     "fts_flag": "N",
     "geometry_x": -13392920.295,
     "geometry_y": 4353776.6948999986
-  },
-  {
-    "F_OUTAGE_ID": 2769724,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "013761113-2100470561",
-    "OUTAGE_CIRCUIT_ID": 13761113,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 37.621679999999998,
-    "OUTAGE_LONGITUDE": -122.11202,
-    "CITY": "Hayward",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1745683020000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1745698762000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1745709300000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1745709300000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13593447.8861,
-    "geometry_y": 4526118.8796000034
   }
 ]
