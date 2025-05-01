@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13633505.091699999,
     "geometry_y": 4544018.5046999976
-  },
-  {
-    "F_OUTAGE_ID": 2772963,
-    "OUTAGE_EXTENT": "DEVICETAP LINE",
-    "OUTAGE_DEVICE_ID": "Line Cut-188971",
-    "OUTAGE_CIRCUIT_ID": 102931103,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 40.352559999999997,
-    "OUTAGE_LONGITUDE": -122.2021,
-    "CITY": "Lake California",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1746088200000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1746088357000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1746113400000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1746113400000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13603475.5459,
-    "geometry_y": 4917308.3850999996
   }
 ]
