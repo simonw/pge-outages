@@ -52,32 +52,5 @@
     "fts_flag": "N",
     "geometry_x": -13355398.9474,
     "geometry_y": 4269819.6050999984
-  },
-  {
-    "F_OUTAGE_ID": 2773770,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "LineCut - 189030",
-    "OUTAGE_CIRCUIT_ID": 43182105,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 38.364400000000003,
-    "OUTAGE_LONGITUDE": -122.70252000000001,
-    "CITY": "Rohnert Park",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1746174120000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1746178043000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1746201600000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1746201600000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13659182.045499999,
-    "geometry_y": 4631031.9807000011
   }
 ]
