@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13298718.4023,
     "geometry_y": 4254850.7110000029
+  },
+  {
+    "F_OUTAGE_ID": 2789250,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "517446362835",
+    "OUTAGE_CIRCUIT_ID": 252971103,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 35.223570000000002,
+    "OUTAGE_LONGITUDE": -118.85593,
+    "CITY": "Arvin",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1747820525000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1747820526000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13230981.6054,
+    "geometry_y": 4194305.0728999972
   }
 ]
