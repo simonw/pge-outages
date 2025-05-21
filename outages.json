@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13329931.2743,
     "geometry_y": 4345237.3147
+  },
+  {
+    "F_OUTAGE_ID": 2789036,
+    "OUTAGE_EXTENT": "DEVICETAP LINE",
+    "OUTAGE_DEVICE_ID": "253551106-2101606979",
+    "OUTAGE_CIRCUIT_ID": 253551106,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 35.66666,
+    "OUTAGE_LONGITUDE": -119.46442,
+    "CITY": "Wasco",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1747814580000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1747814720000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1747834200000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1747834200000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13298718.4023,
+    "geometry_y": 4254850.7110000029
   }
 ]
