@@ -79,5 +79,32 @@
     "fts_flag": "N",
     "geometry_x": -13351440.4263,
     "geometry_y": 4508752.1696999967
+  },
+  {
+    "F_OUTAGE_ID": 2794192,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "LineCut - 190095",
+    "OUTAGE_CIRCUIT_ID": 43501102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 38.54222,
+    "OUTAGE_LONGITUDE": -122.80027,
+    "CITY": "Windsor",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1748419198000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1748419534000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1748446200000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1748446200000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13670063.525699999,
+    "geometry_y": 4656309.0412999988
   }
 ]
