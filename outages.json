@@ -52,32 +52,5 @@
     "fts_flag": "N",
     "geometry_x": -13670063.525699999,
     "geometry_y": 4656309.0412999988
-  },
-  {
-    "F_OUTAGE_ID": 2794346,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "153701101-2101027011",
-    "OUTAGE_CIRCUIT_ID": 153701101,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 38.902659999999997,
-    "OUTAGE_LONGITUDE": -121.21969,
-    "CITY": "Lincoln",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1748421642000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1748422507000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1748448000000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1748448000000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13494114.164900001,
-    "geometry_y": 4707738.0283999965
   }
 ]
