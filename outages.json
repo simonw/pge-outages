@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13244895.4285,
     "geometry_y": 4166360.1635999978
-  },
-  {
-    "F_OUTAGE_ID": 2795484,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "Line Cut-190140",
-    "OUTAGE_CIRCUIT_ID": 152282101,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 38.911679999999997,
-    "OUTAGE_LONGITUDE": -120.91622,
-    "CITY": "Greenwood",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1748505720000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1748506156000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1748520000000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1748520000000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13460332.039000001,
-    "geometry_y": 4709028.3747999966
   }
 ]
