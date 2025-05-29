@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13244895.4285,
     "geometry_y": 4166360.1635999978
+  },
+  {
+    "F_OUTAGE_ID": 2795512,
+    "OUTAGE_EXTENT": "DEVICETAP LINE",
+    "OUTAGE_DEVICE_ID": "Line Cut-190146",
+    "OUTAGE_CIRCUIT_ID": 153701104,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 4,
+    "OUTAGE_LATITUDE": 38.97345,
+    "OUTAGE_LONGITUDE": -121.25037,
+    "CITY": "Lincoln",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1748506860000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1748506991000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1748538000000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1748538000000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13497529.446899999,
+    "geometry_y": 4717869.2260999978
   }
 ]
