@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13244895.4285,
     "geometry_y": 4166360.1635999978
-  },
-  {
-    "F_OUTAGE_ID": 2795533,
-    "OUTAGE_EXTENT": "DEVICETAP LINE",
-    "OUTAGE_DEVICE_ID": "042601101-2100940579",
-    "OUTAGE_CIRCUIT_ID": 42601101,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 38.985759999999999,
-    "OUTAGE_LONGITUDE": -123.35160999999999,
-    "CITY": "Boonville",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1748507460000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1748520265000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1748536200000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1748536200000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13731438.413699999,
-    "geometry_y": 4719632.0200000033
   }
 ]
