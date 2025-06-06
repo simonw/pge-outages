@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13554805.5513,
     "geometry_y": 4535052.8969999999
+  },
+  {
+    "F_OUTAGE_ID": 2802275,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "02280-2101809425",
+    "OUTAGE_CIRCUIT_ID": 2280,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 37.784039999999997,
+    "OUTAGE_LONGITUDE": -122.41479,
+    "CITY": "San Francisco",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1749179760000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1749185088000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1749191400000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1749191400000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13627152.088399999,
+    "geometry_y": 4548962.6682000011
   }
 ]
