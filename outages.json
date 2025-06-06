@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13627152.088399999,
     "geometry_y": 4548962.6682000011
+  },
+  {
+    "F_OUTAGE_ID": 2802381,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "162091103-2100459861",
+    "OUTAGE_CIRCUIT_ID": 162091103,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "BRKN POLE EQUIPMNT",
+    "EST_CUSTOMERS": 2,
+    "OUTAGE_LATITUDE": 37.888289999999998,
+    "OUTAGE_LONGITUDE": -121.45744999999999,
+    "CITY": "Stockton",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1749197979000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1749198350000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1749234600000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1749234600000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13520581.487,
+    "geometry_y": 4563656.933600001
   }
 ]
