@@ -79,32 +79,5 @@
     "fts_flag": "N",
     "geometry_x": -13539270.9164,
     "geometry_y": 4391153.0824000016
-  },
-  {
-    "F_OUTAGE_ID": 2824989,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "152561107-2101105663",
-    "OUTAGE_CIRCUIT_ID": 152561107,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 75,
-    "OUTAGE_LATITUDE": 38.825949999999999,
-    "OUTAGE_LONGITUDE": -121.12475999999999,
-    "CITY": "Loomis",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1751448120000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1751457033000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1751464800000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1751464800000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13483546.605700001,
-    "geometry_y": 4696770.9794000015
   }
 ]
