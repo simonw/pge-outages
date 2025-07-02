@@ -79,32 +79,5 @@
     "fts_flag": "N",
     "geometry_x": -13539270.9164,
     "geometry_y": 4391153.0824000016
-  },
-  {
-    "F_OUTAGE_ID": 2825017,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "220978234133",
-    "OUTAGE_CIRCUIT_ID": 62041106,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 38.603960000000001,
-    "OUTAGE_LONGITUDE": -121.65902,
-    "CITY": "Woodland",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1751449948000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1751455716000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1751476500000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1751476500000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13543020.1568,
-    "geometry_y": 4665099.9702999964
   }
 ]
