@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13539270.9164,
     "geometry_y": 4391153.0824000016
+  },
+  {
+    "F_OUTAGE_ID": 2824885,
+    "OUTAGE_EXTENT": "DEVICETAP LINE",
+    "OUTAGE_DEVICE_ID": "Line Cut-191861",
+    "OUTAGE_CIRCUIT_ID": 43321103,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting Crew",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 4,
+    "OUTAGE_LATITUDE": 38.539999999999999,
+    "OUTAGE_LONGITUDE": -122.63592,
+    "CITY": "Santa Rosa",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1751445000000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1751445306000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1751463000000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1751463000000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13651768.167399999,
+    "geometry_y": 4655993.0843999982
   }
 ]
