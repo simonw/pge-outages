@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13617937.060899999,
     "geometry_y": 4519181.0954999998
-  },
-  {
-    "F_OUTAGE_ID": 2832882,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "319868431248",
-    "OUTAGE_CIRCUIT_ID": 253881104,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 37.358829999999998,
-    "OUTAGE_LONGITUDE": -120.54589,
-    "CITY": "Atwater",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1752327360000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1752329170000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1752345000000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1752345000000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13419107.092,
-    "geometry_y": 4489241.7849999964
   }
 ]
