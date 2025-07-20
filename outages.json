@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13625168.375,
     "geometry_y": 4550665.7163999975
+  },
+  {
+    "F_OUTAGE_ID": 2838946,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "LineCut - 193365",
+    "OUTAGE_CIRCUIT_ID": 252451104,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "EMERG REPAIRS",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.171599999999998,
+    "OUTAGE_LONGITUDE": -120.68329,
+    "CITY": "Dos Palos",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1753001954000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1753002051000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13434402.3901,
+    "geometry_y": 4463052.6818000004
   }
 ]
