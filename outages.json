@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13293781.3829,
     "geometry_y": 4275755.5301000029
-  },
-  {
-    "F_OUTAGE_ID": 2843625,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "219922360562",
-    "OUTAGE_CIRCUIT_ID": 62831104,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 39.32978,
-    "OUTAGE_LONGITUDE": -122.02878,
-    "CITY": "Colusa",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1753432949000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1753436840000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1753446600000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1753446600000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13584181.651700001,
-    "geometry_y": 4769020.4200000018
   }
 ]
