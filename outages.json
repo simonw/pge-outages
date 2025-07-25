@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13293781.3829,
     "geometry_y": 4275755.5301000029
+  },
+  {
+    "F_OUTAGE_ID": 2843460,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "063681103-2101084770",
+    "OUTAGE_CIRCUIT_ID": 63681103,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting Crew",
+    "OUTAGE_CAUSE": "PATROLLING",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 38.508589999999998,
+    "OUTAGE_LONGITUDE": -121.97251,
+    "CITY": "Winters",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1753423500000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1753427058000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1753460100000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1753460100000,
+    "SPID": null,
+    "fts_flag": "Y",
+    "geometry_x": -13577917.704,
+    "geometry_y": 4651523.7655000016
   }
 ]
