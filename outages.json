@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13568605.828600001,
     "geometry_y": 4485741.0980999991
-  },
-  {
-    "F_OUTAGE_ID": 2850782,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "119652325336",
-    "OUTAGE_CIRCUIT_ID": 103481102,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting Crew",
-    "OUTAGE_CAUSE": "EMERG REPAIRS",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 40.028530000000003,
-    "OUTAGE_LONGITUDE": -122.12506,
-    "CITY": "Tehama",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1754304011000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1754306849000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1754315100000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1754315100000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13594899.4923,
-    "geometry_y": 4870089.0478999987
   }
 ]
