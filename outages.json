@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13535865.653099999,
     "geometry_y": 4687545.8588000014
+  },
+  {
+    "F_OUTAGE_ID": 2854829,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "163801702-2100039460",
+    "OUTAGE_CIRCUIT_ID": 163801702,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "EMERG REPAIRS",
+    "EST_CUSTOMERS": 33,
+    "OUTAGE_LATITUDE": 37.741199999999999,
+    "OUTAGE_LONGITUDE": -121.11654,
+    "CITY": "Ripon",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1754661491000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1754661926000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1754671500000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1754671500000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13482631.5594,
+    "geometry_y": 4542930.2871999964
   }
 ]
