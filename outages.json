@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13625903.083700001,
     "geometry_y": 4962973.3925999999
-  },
-  {
-    "F_OUTAGE_ID": 2855569,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "043251104-2101090586",
-    "OUTAGE_CIRCUIT_ID": 43251104,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 4,
-    "OUTAGE_LATITUDE": 38.08222,
-    "OUTAGE_LONGITUDE": -122.13663,
-    "CITY": "Benicia",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1754730720000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1754730901000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1754758800000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1754758800000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13596187.458799999,
-    "geometry_y": 4591047.2612999976
   }
 ]
