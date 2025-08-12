@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13626110.1379,
     "geometry_y": 4963032.0948999971
-  },
-  {
-    "F_OUTAGE_ID": 2857789,
-    "OUTAGE_EXTENT": "DEVICETAP LINE",
-    "OUTAGE_DEVICE_ID": "042571102-2101825470",
-    "OUTAGE_CIRCUIT_ID": 42571102,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 42,
-    "OUTAGE_LATITUDE": 38.432079999999999,
-    "OUTAGE_LONGITUDE": -122.93344,
-    "CITY": "Sebastopol",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1754986620000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1754993578000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1755014400000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1755014400000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13684887.942299999,
-    "geometry_y": 4640645.3322999999
   }
 ]
