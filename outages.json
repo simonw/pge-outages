@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13544046.522500001,
     "geometry_y": 4560354.0239999965
-  },
-  {
-    "F_OUTAGE_ID": 2859787,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "252301104-2100884676",
-    "OUTAGE_CIRCUIT_ID": 252301104,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 36.44511,
-    "OUTAGE_LONGITUDE": -119.88423,
-    "CITY": "Riverdale",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1755162780000,
-    "OUTAGE_START_TEXT": null,
-    "LAST_UPDATE": 1755165743000,
-    "LAST_UPDATE_TEXT": null,
-    "CURRENT_ETOR": 1755184500000,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": 1755184500000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13345451.4377,
-    "geometry_y": 4362041.9400999993
   }
 ]
