@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13697096.3508,
     "geometry_y": 4701799.1127000004
-  },
-  {
-    "F_OUTAGE_ID": 5389,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "122937522438",
-    "OUTAGE_CIRCUIT_ID": 103021101,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": "STORM",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 39.944099999999999,
-    "OUTAGE_LONGITUDE": -120.95390999999999,
-    "CITY": "Quincy",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1756230564000,
-    "OUTAGE_START_TEXT": "2025-08-26T17:49:24Z",
-    "LAST_UPDATE": 1756230568000,
-    "LAST_UPDATE_TEXT": "2025-08-26T17:49:28Z",
-    "CURRENT_ETOR": null,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13464527.670699999,
-    "geometry_y": 4857822.3658000007
   }
 ]
