@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13440504.9245,
     "geometry_y": 4691642.5001000017
-  },
-  {
-    "F_OUTAGE_ID": 7002,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "100000034082",
-    "OUTAGE_CIRCUIT_ID": 253881103,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "REPLCE TXFMR",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 37.403129999999997,
-    "OUTAGE_LONGITUDE": -120.53991000000001,
-    "CITY": "Merced",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1756314812000,
-    "OUTAGE_START_TEXT": "2025-08-27T17:13:32Z",
-    "LAST_UPDATE": 1756327229000,
-    "LAST_UPDATE_TEXT": "2025-08-27T20:40:29Z",
-    "CURRENT_ETOR": 1756338300000,
-    "CURRENT_ETOR_TEXT": "2025-08-27T23:45:00Z",
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13418441.4015,
-    "geometry_y": 4495447.8674999997
   }
 ]
