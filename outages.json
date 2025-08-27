@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13418441.4015,
     "geometry_y": 4495447.8674999997
+  },
+  {
+    "F_OUTAGE_ID": 7288,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "LineCut - 194474",
+    "OUTAGE_CIRCUIT_ID": 152481106,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 39.169750000000001,
+    "OUTAGE_LONGITUDE": -121.02535,
+    "CITY": "Grass Valley",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1756330002000,
+    "OUTAGE_START_TEXT": "2025-08-27T21:26:42Z",
+    "LAST_UPDATE": 1756330057000,
+    "LAST_UPDATE_TEXT": "2025-08-27T21:27:37Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13472480.335099999,
+    "geometry_y": 4746016.0539000034
   }
 ]
