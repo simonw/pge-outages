@@ -79,32 +79,5 @@
     "fts_flag": "N",
     "geometry_x": -13627216.6537,
     "geometry_y": 4551309.5383000001
-  },
-  {
-    "F_OUTAGE_ID": 7196,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "420963853090",
-    "OUTAGE_CIRCUIT_ID": 254061102,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 36.790889999999997,
-    "OUTAGE_LONGITUDE": -118.67106,
-    "CITY": "Kings Canyon National Pk",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1756324712000,
-    "OUTAGE_START_TEXT": "2025-08-27T19:58:32Z",
-    "LAST_UPDATE": 1756324717000,
-    "LAST_UPDATE_TEXT": "2025-08-27T19:58:37Z",
-    "CURRENT_ETOR": null,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13210401.971099999,
-    "geometry_y": 4409999.4927000031
   }
 ]
