@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13463393.324999999,
     "geometry_y": 4614859.5756999999
+  },
+  {
+    "F_OUTAGE_ID": 8807,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "153661104-2100903433",
+    "OUTAGE_CIRCUIT_ID": 153661104,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 38.768239999999999,
+    "OUTAGE_LONGITUDE": -120.61700999999999,
+    "CITY": "Pollock Pines",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1756473360000,
+    "OUTAGE_START_TEXT": "2025-08-29T13:16:00Z",
+    "LAST_UPDATE": 1756480352000,
+    "LAST_UPDATE_TEXT": "2025-08-29T15:12:32Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13427024.134199999,
+    "geometry_y": 4688528.1028999984
   }
 ]
