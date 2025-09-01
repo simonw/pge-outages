@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13586711.943799999,
     "geometry_y": 4613588.1403999999
-  },
-  {
-    "F_OUTAGE_ID": 10815,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "162991101-2100004470",
-    "OUTAGE_CIRCUIT_ID": 162991101,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 443,
-    "OUTAGE_LATITUDE": 38.178379999999997,
-    "OUTAGE_LONGITUDE": -120.92522,
-    "CITY": "Valley Springs",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1756741115000,
-    "OUTAGE_START_TEXT": "2025-09-01T15:38:35Z",
-    "LAST_UPDATE": 1756741222000,
-    "LAST_UPDATE_TEXT": "2025-09-01T15:40:22Z",
-    "CURRENT_ETOR": null,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "Y",
-    "geometry_x": -13461333.9145,
-    "geometry_y": 4604655.6618999988
   }
 ]
