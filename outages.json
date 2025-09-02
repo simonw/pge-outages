@@ -52,32 +52,5 @@
     "fts_flag": "N",
     "geometry_x": -13293781.3829,
     "geometry_y": 4275755.5301000029
-  },
-  {
-    "F_OUTAGE_ID": 12049,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "06360-2101019835",
-    "OUTAGE_CIRCUIT_ID": 6360,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 38.356349999999999,
-    "OUTAGE_LONGITUDE": -121.97991,
-    "CITY": "Vacaville",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1756825620000,
-    "OUTAGE_START_TEXT": "2025-09-02T15:07:00Z",
-    "LAST_UPDATE": 1756827386000,
-    "LAST_UPDATE_TEXT": "2025-09-02T15:36:26Z",
-    "CURRENT_ETOR": 1756840500000,
-    "CURRENT_ETOR_TEXT": "2025-09-02T19:15:00Z",
-    "AUTO_ETOR": 1756840500000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13578741.4682,
-    "geometry_y": 4629889.1472000033
   }
 ]
