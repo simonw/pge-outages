@@ -79,32 +79,5 @@
     "fts_flag": "N",
     "geometry_x": -13635665.802999999,
     "geometry_y": 4530738.192900002
-  },
-  {
-    "F_OUTAGE_ID": 12602,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "083611110-2100542908",
-    "OUTAGE_CIRCUIT_ID": 83611110,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 157,
-    "OUTAGE_LATITUDE": 37.360939999999999,
-    "OUTAGE_LONGITUDE": -122.00534,
-    "CITY": "Sunnyvale",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1756842728000,
-    "OUTAGE_START_TEXT": "2025-09-02T19:52:08Z",
-    "LAST_UPDATE": 1756842874000,
-    "LAST_UPDATE_TEXT": "2025-09-02T19:54:34Z",
-    "CURRENT_ETOR": null,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13581572.322900001,
-    "geometry_y": 4489537.2963000014
   }
 ]
