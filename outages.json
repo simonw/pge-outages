@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13629003.331500001,
     "geometry_y": 4646075.2859999985
+  },
+  {
+    "F_OUTAGE_ID": 12862,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "319885414705",
+    "OUTAGE_CIRCUIT_ID": 255371108,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 36.903239999999997,
+    "OUTAGE_LONGITUDE": -120.5411,
+    "CITY": "Firebaugh",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1756853201000,
+    "OUTAGE_START_TEXT": "2025-09-02T22:46:41Z",
+    "LAST_UPDATE": 1756853203000,
+    "LAST_UPDATE_TEXT": "2025-09-02T22:46:43Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13418573.8717,
+    "geometry_y": 4425628.2591999993
   }
 ]
