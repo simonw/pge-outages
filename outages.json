@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13531350.534600001,
     "geometry_y": 4722033.9799000025
-  },
-  {
-    "F_OUTAGE_ID": 15294,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "153662102-2101929681",
-    "OUTAGE_CIRCUIT_ID": 153662102,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 46,
-    "OUTAGE_LATITUDE": 38.635779999999997,
-    "OUTAGE_LONGITUDE": -120.63581000000001,
-    "CITY": "Somerset",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1757002894000,
-    "OUTAGE_START_TEXT": "2025-09-04T16:21:34Z",
-    "LAST_UPDATE": 1757003220000,
-    "LAST_UPDATE_TEXT": "2025-09-04T16:27:00Z",
-    "CURRENT_ETOR": null,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "Y",
-    "geometry_x": -13429116.9406,
-    "geometry_y": 4669633.6550000012
   }
 ]
