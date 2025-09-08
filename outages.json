@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13397176.039099999,
     "geometry_y": 4484815.7111999989
+  },
+  {
+    "F_OUTAGE_ID": 19252,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "LineCut - 195992",
+    "OUTAGE_CIRCUIT_ID": 163751102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 38.401910000000001,
+    "OUTAGE_LONGITUDE": -120.65987,
+    "CITY": "Pine Grove",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1757368501000,
+    "OUTAGE_START_TEXT": "2025-09-08T21:55:01Z",
+    "LAST_UPDATE": 1757370404000,
+    "LAST_UPDATE_TEXT": "2025-09-08T22:26:44Z",
+    "CURRENT_ETOR": 1757372400000,
+    "CURRENT_ETOR_TEXT": "2025-09-08T23:00:00Z",
+    "AUTO_ETOR": 1757372400000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13431795.287599999,
+    "geometry_y": 4636358.8360999972
   }
 ]
