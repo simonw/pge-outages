@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13588098.9846,
     "geometry_y": 4571229.9488999993
+  },
+  {
+    "F_OUTAGE_ID": 22930,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "317404558955",
+    "OUTAGE_CIRCUIT_ID": 163912101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 2,
+    "OUTAGE_LATITUDE": 38.115580000000001,
+    "OUTAGE_LONGITUDE": -121.40318000000001,
+    "CITY": "Lodi",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1757624190000,
+    "OUTAGE_START_TEXT": "2025-09-11T20:56:30Z",
+    "LAST_UPDATE": 1757624205000,
+    "LAST_UPDATE_TEXT": "2025-09-11T20:56:45Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13514540.178300001,
+    "geometry_y": 4595766.2817000002
   }
 ]
