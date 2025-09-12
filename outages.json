@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13625088.225,
     "geometry_y": 4637400.1039000005
-  },
-  {
-    "F_OUTAGE_ID": 23619,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "314537042876",
-    "OUTAGE_CIRCUIT_ID": 22571102,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 37.662089999999999,
-    "OUTAGE_LONGITUDE": -122.38882,
-    "CITY": "South San Francisco",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1757696889000,
-    "OUTAGE_START_TEXT": "2025-09-12T17:08:09Z",
-    "LAST_UPDATE": 1757697120000,
-    "LAST_UPDATE_TEXT": "2025-09-12T17:12:00Z",
-    "CURRENT_ETOR": 1757707200000,
-    "CURRENT_ETOR_TEXT": "2025-09-12T20:00:00Z",
-    "AUTO_ETOR": 1757707200000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13624261.121199999,
-    "geometry_y": 4531799.827200003
   }
 ]
