@@ -52,32 +52,5 @@
     "fts_flag": "N",
     "geometry_x": -13388977.3586,
     "geometry_y": 4571560.2563999966
-  },
-  {
-    "F_OUTAGE_ID": 24440,
-    "OUTAGE_EXTENT": "DEVICETAP LINE",
-    "OUTAGE_DEVICE_ID": "Line Cut-196328",
-    "OUTAGE_CIRCUIT_ID": 163201102,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 38.443980000000003,
-    "OUTAGE_LONGITUDE": -120.42829,
-    "CITY": "West Point",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1757778000000,
-    "OUTAGE_START_TEXT": "2025-09-13T15:40:00Z",
-    "LAST_UPDATE": 1757794150000,
-    "LAST_UPDATE_TEXT": "2025-09-13T20:09:10Z",
-    "CURRENT_ETOR": null,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13406015.9199,
-    "geometry_y": 4642336.5540999994
   }
 ]
