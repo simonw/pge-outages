@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13618653.9584,
     "geometry_y": 4573439.257100001
-  },
-  {
-    "F_OUTAGE_ID": 27587,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "LineCut - 196500",
-    "OUTAGE_CIRCUIT_ID": 253951104,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 14,
-    "OUTAGE_LATITUDE": 35.383540000000004,
-    "OUTAGE_LONGITUDE": -118.95853,
-    "CITY": "Bakersfield",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1758122754000,
-    "OUTAGE_START_TEXT": "2025-09-17T15:25:54Z",
-    "LAST_UPDATE": 1758142902000,
-    "LAST_UPDATE_TEXT": "2025-09-17T21:01:42Z",
-    "CURRENT_ETOR": 1758150000000,
-    "CURRENT_ETOR_TEXT": "2025-09-17T23:00:00Z",
-    "AUTO_ETOR": 1758142800000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13242402.985100001,
-    "geometry_y": 4216125.6251000017
   }
 ]
