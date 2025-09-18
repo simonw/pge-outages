@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13445513.1884,
     "geometry_y": 4671288.3382999972
+  },
+  {
+    "F_OUTAGE_ID": 29215,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "315868134007",
+    "OUTAGE_CIRCUIT_ID": 14722103,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.425339999999998,
+    "OUTAGE_LONGITUDE": -121.92406,
+    "CITY": "Milpitas",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1758229128000,
+    "OUTAGE_START_TEXT": "2025-09-18T20:58:48Z",
+    "LAST_UPDATE": 1758229133000,
+    "LAST_UPDATE_TEXT": "2025-09-18T20:58:53Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13572524.274599999,
+    "geometry_y": 4498560.6950000003
   }
 ]
