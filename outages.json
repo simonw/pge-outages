@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13584227.2927,
     "geometry_y": 4615978.0583000034
+  },
+  {
+    "F_OUTAGE_ID": 31022,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "042491101-2101062659",
+    "OUTAGE_CIRCUIT_ID": 42491101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "EMERG REPAIRS",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.866300000000003,
+    "OUTAGE_LONGITUDE": -122.49945,
+    "CITY": "Sausalito",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1758389854000,
+    "OUTAGE_START_TEXT": "2025-09-20T17:37:34Z",
+    "LAST_UPDATE": 1758403538000,
+    "LAST_UPDATE_TEXT": "2025-09-20T21:25:38Z",
+    "CURRENT_ETOR": 1758416400000,
+    "CURRENT_ETOR_TEXT": "2025-09-21T01:00:00Z",
+    "AUTO_ETOR": 1758404700000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13636576.396499999,
+    "geometry_y": 4560555.6660000011
   }
 ]
