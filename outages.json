@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13584227.2927,
     "geometry_y": 4615978.0583000034
-  },
-  {
-    "F_OUTAGE_ID": 31144,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "25526-2100020493",
-    "OUTAGE_CIRCUIT_ID": 25526,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting Crew",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 35.378549999999997,
-    "OUTAGE_LONGITUDE": -119.09853,
-    "CITY": "Bakersfield",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1758398100000,
-    "OUTAGE_START_TEXT": "2025-09-20T19:55:00Z",
-    "LAST_UPDATE": 1758402769000,
-    "LAST_UPDATE_TEXT": "2025-09-20T21:12:49Z",
-    "CURRENT_ETOR": 1758409200000,
-    "CURRENT_ETOR_TEXT": "2025-09-20T23:00:00Z",
-    "AUTO_ETOR": 1758409200000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13257987.7138,
-    "geometry_y": 4215444.3162999973
   }
 ]
