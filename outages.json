@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13572653.405299999,
     "geometry_y": 4381006.1925000027
+  },
+  {
+    "F_OUTAGE_ID": 40741,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "417030144030",
+    "OUTAGE_CIRCUIT_ID": 254411105,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 36.538490000000003,
+    "OUTAGE_LONGITUDE": -120.01206999999999,
+    "CITY": "Riverdale",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1759184988000,
+    "OUTAGE_START_TEXT": "2025-09-29T22:29:48Z",
+    "LAST_UPDATE": 1759184989000,
+    "LAST_UPDATE_TEXT": "2025-09-29T22:29:49Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13359682.521400001,
+    "geometry_y": 4374971.9981999993
   }
 ]
