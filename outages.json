@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13695038.053399999,
     "geometry_y": 4921818.7299999967
+  },
+  {
+    "F_OUTAGE_ID": 47606,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "LineCut - 197503",
+    "OUTAGE_CIRCUIT_ID": 252311102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 36.734259999999999,
+    "OUTAGE_LONGITUDE": -120.31471000000001,
+    "CITY": "Tranquillity",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1759773230000,
+    "OUTAGE_START_TEXT": "2025-10-06T17:53:50Z",
+    "LAST_UPDATE": 1759773308000,
+    "LAST_UPDATE_TEXT": "2025-10-06T17:55:08Z",
+    "CURRENT_ETOR": 1759788000000,
+    "CURRENT_ETOR_TEXT": "2025-10-06T22:00:00Z",
+    "AUTO_ETOR": 1759788000000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13393372.2521,
+    "geometry_y": 4402130.5045000017
   }
 ]
