@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13393372.2521,
     "geometry_y": 4402130.5045000017
-  },
-  {
-    "F_OUTAGE_ID": 47811,
-    "OUTAGE_EXTENT": "DEVICETAP LINE",
-    "OUTAGE_DEVICE_ID": "153082106-2100935326",
-    "OUTAGE_CIRCUIT_ID": 153082106,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 16,
-    "OUTAGE_LATITUDE": 38.913209999999999,
-    "OUTAGE_LONGITUDE": -120.81943,
-    "CITY": "Georgetown",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1759779900000,
-    "OUTAGE_START_TEXT": "2025-10-06T19:45:00Z",
-    "LAST_UPDATE": 1759785687000,
-    "LAST_UPDATE_TEXT": "2025-10-06T21:21:27Z",
-    "CURRENT_ETOR": 1759791600000,
-    "CURRENT_ETOR_TEXT": "2025-10-06T23:00:00Z",
-    "AUTO_ETOR": 1759791600000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13449557.4255,
-    "geometry_y": 4709247.2634999976
   }
 ]
