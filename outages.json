@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13622389.840500001,
     "geometry_y": 4571921.6305000037
-  },
-  {
-    "F_OUTAGE_ID": 51568,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "511584767512",
-    "OUTAGE_CIRCUIT_ID": 183011102,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 35.322560000000003,
-    "OUTAGE_LONGITUDE": -120.82231,
-    "CITY": "Los Osos",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1760121862000,
-    "OUTAGE_START_TEXT": "2025-10-10T18:44:22Z",
-    "LAST_UPDATE": 1760122176000,
-    "LAST_UPDATE_TEXT": "2025-10-10T18:49:36Z",
-    "CURRENT_ETOR": 1760144400000,
-    "CURRENT_ETOR_TEXT": "2025-10-11T01:00:00Z",
-    "AUTO_ETOR": 1760144400000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13449878.025699999,
-    "geometry_y": 4207802.6177000031
   }
 ]
