@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13622389.840500001,
     "geometry_y": 4571921.6305000037
+  },
+  {
+    "F_OUTAGE_ID": 51447,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "LineCut - 197842",
+    "OUTAGE_CIRCUIT_ID": 83252109,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 29,
+    "OUTAGE_LATITUDE": 36.977429999999998,
+    "OUTAGE_LONGITUDE": -121.94297,
+    "CITY": "Capitola",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1760115323000,
+    "OUTAGE_START_TEXT": "2025-10-10T16:55:23Z",
+    "LAST_UPDATE": 1760154478000,
+    "LAST_UPDATE_TEXT": "2025-10-11T03:47:58Z",
+    "CURRENT_ETOR": 1760158800000,
+    "CURRENT_ETOR_TEXT": "2025-10-11T05:00:00Z",
+    "AUTO_ETOR": 1760148000000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13574629.326200001,
+    "geometry_y": 4435961.2871000022
   }
 ]
