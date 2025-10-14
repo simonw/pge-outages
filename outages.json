@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13554178.8226,
     "geometry_y": 4571834.1090999991
+  },
+  {
+    "F_OUTAGE_ID": 53803,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "08203-2100617391",
+    "OUTAGE_CIRCUIT_ID": 8203,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "LGHTNING",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 37.38261,
+    "OUTAGE_LONGITUDE": -122.06963,
+    "CITY": "Mountain View",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1760397600000,
+    "OUTAGE_START_TEXT": "2025-10-13T23:20:00Z",
+    "LAST_UPDATE": 1760402091000,
+    "LAST_UPDATE_TEXT": "2025-10-14T00:34:51Z",
+    "CURRENT_ETOR": 1760411700000,
+    "CURRENT_ETOR_TEXT": "2025-10-14T03:15:00Z",
+    "AUTO_ETOR": 1760411700000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13588729.0529,
+    "geometry_y": 4492572.7206000015
   }
 ]
