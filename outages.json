@@ -52,32 +52,5 @@
     "fts_flag": "N",
     "geometry_x": -13330897.5275,
     "geometry_y": 4363129.6911000013
-  },
-  {
-    "F_OUTAGE_ID": 54489,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "182731102-2100623214",
-    "OUTAGE_CIRCUIT_ID": 182731102,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 10,
-    "OUTAGE_LATITUDE": 36.598149999999997,
-    "OUTAGE_LONGITUDE": -121.64163000000001,
-    "CITY": "Salinas",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1760445352000,
-    "OUTAGE_START_TEXT": "2025-10-14T12:35:52Z",
-    "LAST_UPDATE": 1760445384000,
-    "LAST_UPDATE_TEXT": "2025-10-14T12:36:24Z",
-    "CURRENT_ETOR": null,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13541084.310899999,
-    "geometry_y": 4383241.121100001
   }
 ]
