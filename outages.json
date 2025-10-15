@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13429318.4289,
     "geometry_y": 4182326.6675999984
+  },
+  {
+    "F_OUTAGE_ID": 55921,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "418551041094",
+    "OUTAGE_CIRCUIT_ID": 252241113,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "CAR POLE",
+    "EST_CUSTOMERS": 2,
+    "OUTAGE_LATITUDE": 36.459380000000003,
+    "OUTAGE_LONGITUDE": -119.49361,
+    "CITY": "Kingsburg",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1760491800000,
+    "OUTAGE_START_TEXT": "2025-10-15T01:30:00Z",
+    "LAST_UPDATE": 1760497597000,
+    "LAST_UPDATE_TEXT": "2025-10-15T03:06:37Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13301967.818300001,
+    "geometry_y": 4364016.8571999967
   }
 ]
