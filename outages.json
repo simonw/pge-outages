@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13624344.6108,
     "geometry_y": 4995703.1749000028
+  },
+  {
+    "F_OUTAGE_ID": 60696,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "315492553148",
+    "OUTAGE_CIRCUIT_ID": 14302108,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.949390000000001,
+    "OUTAGE_LONGITUDE": -122.06435,
+    "CITY": "Pleasant Hill",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1761061734000,
+    "OUTAGE_START_TEXT": "2025-10-21T15:48:54Z",
+    "LAST_UPDATE": 1761061740000,
+    "LAST_UPDATE_TEXT": "2025-10-21T15:49:00Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13588141.286,
+    "geometry_y": 4572278.7822000012
   }
 ]
