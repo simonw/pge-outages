@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13547535.2754,
     "geometry_y": 4594676.8681000024
+  },
+  {
+    "F_OUTAGE_ID": 61475,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "LineCut - 198397",
+    "OUTAGE_CIRCUIT_ID": 163011101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 38.384230000000002,
+    "OUTAGE_LONGITUDE": -120.78761,
+    "CITY": "Sutter Creek",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1761143272000,
+    "OUTAGE_START_TEXT": "2025-10-22T14:27:52Z",
+    "LAST_UPDATE": 1761145844000,
+    "LAST_UPDATE_TEXT": "2025-10-22T15:10:44Z",
+    "CURRENT_ETOR": 1761166800000,
+    "CURRENT_ETOR_TEXT": "2025-10-22T21:00:00Z",
+    "AUTO_ETOR": 1761159600000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13446015.2393,
+    "geometry_y": 4633847.7267000005
   }
 ]
