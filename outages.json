@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13446015.2393,
     "geometry_y": 4633847.7267000005
+  },
+  {
+    "F_OUTAGE_ID": 61815,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "LineCut - 198435",
+    "OUTAGE_CIRCUIT_ID": 83622104,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "STORM",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.047699999999999,
+    "OUTAGE_LONGITUDE": -122.03301,
+    "CITY": "Scotts Valley",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1761152571000,
+    "OUTAGE_START_TEXT": "2025-10-22T17:02:51Z",
+    "LAST_UPDATE": 1761152607000,
+    "LAST_UPDATE_TEXT": "2025-10-22T17:03:27Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13584652.533199999,
+    "geometry_y": 4445757.6393000036
   }
 ]
