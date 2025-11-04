@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13633378.1875,
     "geometry_y": 4534652.0099999979
+  },
+  {
+    "F_OUTAGE_ID": 72515,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "LineCut - 199274",
+    "OUTAGE_CIRCUIT_ID": 83692104,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 32,
+    "OUTAGE_LATITUDE": 36.969589999999997,
+    "OUTAGE_LONGITUDE": -121.85731,
+    "CITY": "Aptos Hills-Larkin Valley",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1762281100000,
+    "OUTAGE_START_TEXT": "2025-11-04T18:31:40Z",
+    "LAST_UPDATE": 1762293351000,
+    "LAST_UPDATE_TEXT": "2025-11-04T21:55:51Z",
+    "CURRENT_ETOR": 1762293600000,
+    "CURRENT_ETOR_TEXT": "2025-11-04T22:00:00Z",
+    "AUTO_ETOR": 1762293600000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13565093.6986,
+    "geometry_y": 4434868.8725999966
   }
 ]
