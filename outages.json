@@ -52,32 +52,5 @@
     "fts_flag": "N",
     "geometry_x": -13789522.6976,
     "geometry_y": 5064224.5785000026
-  },
-  {
-    "F_OUTAGE_ID": 74202,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "042450414-2100913417",
-    "OUTAGE_CIRCUIT_ID": 42450414,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting Crew",
-    "OUTAGE_CAUSE": "Awaiting Investigation",
-    "EST_CUSTOMERS": 193,
-    "OUTAGE_LATITUDE": 38.101460000000003,
-    "OUTAGE_LONGITUDE": -122.24365,
-    "CITY": "Vallejo",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1762371247000,
-    "OUTAGE_START_TEXT": "2025-11-05T19:34:07Z",
-    "LAST_UPDATE": 1762374977000,
-    "LAST_UPDATE_TEXT": "2025-11-05T20:36:17Z",
-    "CURRENT_ETOR": null,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13608100.8707,
-    "geometry_y": 4593768.6396000013
   }
 ]
