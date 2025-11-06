@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13430836.8268,
     "geometry_y": 4676573.4337000027
+  },
+  {
+    "F_OUTAGE_ID": 75111,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "252941107-2100141340",
+    "OUTAGE_CIRCUIT_ID": 254601103,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "Awaiting Investigation",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 36.723709999999997,
+    "OUTAGE_LONGITUDE": -119.25845,
+    "CITY": "Squaw Valley",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1762448445000,
+    "OUTAGE_START_TEXT": "2025-11-06T17:00:45Z",
+    "LAST_UPDATE": 1762457288000,
+    "LAST_UPDATE_TEXT": "2025-11-06T19:28:08Z",
+    "CURRENT_ETOR": 1762466400000,
+    "CURRENT_ETOR_TEXT": "2025-11-06T22:00:00Z",
+    "AUTO_ETOR": 1762466400000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13275789.9268,
+    "geometry_y": 4400665.177199997
   }
 ]
