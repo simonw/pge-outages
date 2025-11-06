@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13430836.8268,
     "geometry_y": 4676573.4337000027
-  },
-  {
-    "F_OUTAGE_ID": 75314,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "152921101-2101594388",
-    "OUTAGE_CIRCUIT_ID": 152921101,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting Crew",
-    "OUTAGE_CAUSE": "Awaiting Investigation",
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 39.269599999999997,
-    "OUTAGE_LONGITUDE": -121.36904,
-    "CITY": "Browns Valley",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1762455372000,
-    "OUTAGE_START_TEXT": "2025-11-06T18:56:12Z",
-    "LAST_UPDATE": 1762459322000,
-    "LAST_UPDATE_TEXT": "2025-11-06T20:02:02Z",
-    "CURRENT_ETOR": 1762470900000,
-    "CURRENT_ETOR_TEXT": "2025-11-06T23:15:00Z",
-    "AUTO_ETOR": 1762470900000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13510739.730900001,
-    "geometry_y": 4760363.3640000001
   }
 ]
