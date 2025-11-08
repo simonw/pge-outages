@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13463146.195799999,
     "geometry_y": 4267639.5643000007
-  },
-  {
-    "F_OUTAGE_ID": 76599,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "LineCut - 246408",
-    "OUTAGE_CIRCUIT_ID": 82021106,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "EMERG REPAIRS",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 37.177059999999997,
-    "OUTAGE_LONGITUDE": -122.06176000000001,
-    "CITY": "Boulder Creek",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1762557353000,
-    "OUTAGE_START_TEXT": "2025-11-07T23:15:53Z",
-    "LAST_UPDATE": 1762571015000,
-    "LAST_UPDATE_TEXT": "2025-11-08T03:03:35Z",
-    "CURRENT_ETOR": 1762596120000,
-    "CURRENT_ETOR_TEXT": "2025-11-08T10:02:00Z",
-    "AUTO_ETOR": 1762572600000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13587852.968499999,
-    "geometry_y": 4463815.4878999963
   }
 ]
