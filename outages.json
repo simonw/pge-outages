@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13292936.468,
     "geometry_y": 4370111.3589000031
+  },
+  {
+    "F_OUTAGE_ID": 81472,
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "514858053932",
+    "OUTAGE_CIRCUIT_ID": 253141103,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 34.966239999999999,
+    "OUTAGE_LONGITUDE": -119.71696,
+    "CITY": "New Cuyama",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1763056977000,
+    "OUTAGE_START_TEXT": "2025-11-13T18:02:57Z",
+    "LAST_UPDATE": 1763057032000,
+    "LAST_UPDATE_TEXT": "2025-11-13T18:03:52Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13326831.0265,
+    "geometry_y": 4159294.2408000007
   }
 ]
