@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13532367.9947,
     "geometry_y": 4777741.1046999991
-  },
-  {
-    "F_OUTAGE_ID": 86710,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "103271101-2101570967",
-    "OUTAGE_CIRCUIT_ID": 103271101,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 40.886499999999998,
-    "OUTAGE_LONGITUDE": -122.38312999999999,
-    "CITY": "Lakehead",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1763395200000,
-    "OUTAGE_START_TEXT": "2025-11-17T16:00:00Z",
-    "LAST_UPDATE": 1763479963000,
-    "LAST_UPDATE_TEXT": "2025-11-18T15:32:43Z",
-    "CURRENT_ETOR": null,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13623627.713300001,
-    "geometry_y": 4995614.8266000003
   }
 ]
