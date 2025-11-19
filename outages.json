@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13694062.8947,
     "geometry_y": 4693363.6096000001
+  },
+  {
+    "F_OUTAGE_ID": 88090,
+    "OUTAGE_EXTENT": "DEVICETAP LINE",
+    "OUTAGE_DEVICE_ID": "Line Cut-200049",
+    "OUTAGE_CIRCUIT_ID": 254121101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 36.652819999999998,
+    "OUTAGE_LONGITUDE": -119.61046,
+    "CITY": "Del Rey",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1763573523000,
+    "OUTAGE_START_TEXT": "2025-11-19T17:32:03Z",
+    "LAST_UPDATE": 1763573962000,
+    "LAST_UPDATE_TEXT": "2025-11-19T17:39:22Z",
+    "CURRENT_ETOR": 1763589600000,
+    "CURRENT_ETOR_TEXT": "2025-11-19T22:00:00Z",
+    "AUTO_ETOR": 1763589600000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13314975.500700001,
+    "geometry_y": 4390824.2255000025
   }
 ]
