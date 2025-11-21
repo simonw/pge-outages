@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13464823.7805,
     "geometry_y": 4748220.3476999998
-  },
-  {
-    "F_OUTAGE_ID": 90022,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "100000129757",
-    "OUTAGE_CIRCUIT_ID": 107050001,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 39.916080000000001,
-    "OUTAGE_LONGITUDE": -122.50874,
-    "CITY": "Red Bluff",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1763749214000,
-    "OUTAGE_START_TEXT": "2025-11-21T18:20:14Z",
-    "LAST_UPDATE": 1763749531000,
-    "LAST_UPDATE_TEXT": "2025-11-21T18:25:31Z",
-    "CURRENT_ETOR": 1763759700000,
-    "CURRENT_ETOR_TEXT": "2025-11-21T21:15:00Z",
-    "AUTO_ETOR": 1763759700000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13637610.554499999,
-    "geometry_y": 4853754.7371999994
   }
 ]
