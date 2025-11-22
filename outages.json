@@ -52,32 +52,5 @@
     "fts_flag": "N",
     "geometry_x": -13443500.532,
     "geometry_y": 4677728.6207000017
-  },
-  {
-    "F_OUTAGE_ID": 90224,
-    "OUTAGE_EXTENT": "CUSTOMER",
-    "OUTAGE_DEVICE_ID": "223893026842",
-    "OUTAGE_CIRCUIT_ID": 163751102,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 38.39564,
-    "OUTAGE_LONGITUDE": -120.64241,
-    "CITY": "Pine Grove",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1763763261000,
-    "OUTAGE_START_TEXT": "2025-11-21T22:14:21Z",
-    "LAST_UPDATE": 1763764520000,
-    "LAST_UPDATE_TEXT": "2025-11-21T22:35:20Z",
-    "CURRENT_ETOR": 1763780400000,
-    "CURRENT_ETOR_TEXT": "2025-11-22T03:00:00Z",
-    "AUTO_ETOR": 1763780400000,
-    "SPID": "1143761173",
-    "fts_flag": "N",
-    "geometry_x": -13429851.6493,
-    "geometry_y": 4635468.2309999987
   }
 ]
