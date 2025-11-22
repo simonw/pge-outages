@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13443500.532,
     "geometry_y": 4677728.6207000017
+  },
+  {
+    "F_OUTAGE_ID": 90214,
+    "OUTAGE_EXTENT": "DEVICETAP LINE",
+    "OUTAGE_DEVICE_ID": "Line Cut-199198",
+    "OUTAGE_CIRCUIT_ID": 153651103,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 2,
+    "OUTAGE_LATITUDE": 38.64622,
+    "OUTAGE_LONGITUDE": -120.97561,
+    "CITY": "Cameron Park",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1763762580000,
+    "OUTAGE_START_TEXT": "2025-11-21T22:03:00Z",
+    "LAST_UPDATE": 1763772058000,
+    "LAST_UPDATE_TEXT": "2025-11-22T00:40:58Z",
+    "CURRENT_ETOR": 1763776800000,
+    "CURRENT_ETOR_TEXT": "2025-11-22T02:00:00Z",
+    "AUTO_ETOR": 1763776800000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13466943.3036,
+    "geometry_y": 4671121.5750999972
   }
 ]
