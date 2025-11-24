@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13608995.8794,
     "geometry_y": 4555903.3850999996
+  },
+  {
+    "F_OUTAGE_ID": 91678,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "042771115-2100945753",
+    "OUTAGE_CIRCUIT_ID": 42771115,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 6,
+    "OUTAGE_LATITUDE": 39.179340000000003,
+    "OUTAGE_LONGITUDE": -123.18123,
+    "CITY": "Ukiah",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1764004920000,
+    "OUTAGE_START_TEXT": "2025-11-24T17:22:00Z",
+    "LAST_UPDATE": 1764005687000,
+    "LAST_UPDATE_TEXT": "2025-11-24T17:34:47Z",
+    "CURRENT_ETOR": 1764028800000,
+    "CURRENT_ETOR_TEXT": "2025-11-25T00:00:00Z",
+    "AUTO_ETOR": 1764028800000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13712471.798900001,
+    "geometry_y": 4747393.1425999999
   }
 ]
