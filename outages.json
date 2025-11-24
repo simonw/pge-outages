@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13608995.8794,
     "geometry_y": 4555903.3850999996
-  },
-  {
-    "F_OUTAGE_ID": 91877,
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "01214-2100533695",
-    "OUTAGE_CIRCUIT_ID": 1214,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "THRD PARTY",
-    "EST_CUSTOMERS": 932,
-    "OUTAGE_LATITUDE": 37.679949999999998,
-    "OUTAGE_LONGITUDE": -121.78089,
-    "CITY": "Livermore",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1764019330000,
-    "OUTAGE_START_TEXT": "2025-11-24T21:22:10Z",
-    "LAST_UPDATE": 1764025754000,
-    "LAST_UPDATE_TEXT": "2025-11-24T23:09:14Z",
-    "CURRENT_ETOR": 1764030600000,
-    "CURRENT_ETOR_TEXT": "2025-11-25T00:30:00Z",
-    "AUTO_ETOR": 1764030600000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13556586.6632,
-    "geometry_y": 4534311.6198000014
   }
 ]
