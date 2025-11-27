@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13648657.900800001,
     "geometry_y": 4613250.8181999996
+  },
+  {
+    "F_OUTAGE_ID": 93740,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "043371105-2100914150",
+    "OUTAGE_CIRCUIT_ID": 43371105,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 38.239330000000002,
+    "OUTAGE_LONGITUDE": -122.60075999999999,
+    "CITY": "Petaluma",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1764216080000,
+    "OUTAGE_START_TEXT": "2025-11-27T04:01:20Z",
+    "LAST_UPDATE": 1764218530000,
+    "LAST_UPDATE_TEXT": "2025-11-27T04:42:10Z",
+    "CURRENT_ETOR": 1764233100000,
+    "CURRENT_ETOR_TEXT": "2025-11-27T08:45:00Z",
+    "AUTO_ETOR": 1764233100000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13647854.1741,
+    "geometry_y": 4613290.5025999993
   }
 ]
