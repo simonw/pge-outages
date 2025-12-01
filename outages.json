@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13271795.783500001,
     "geometry_y": 4173313.6106000021
-  },
-  {
-    "F_OUTAGE_ID": 95678,
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "219438567484",
-    "OUTAGE_CIRCUIT_ID": 102741104,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 39.519359999999999,
-    "OUTAGE_LONGITUDE": -122.20008,
-    "CITY": "Willows",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1764612036000,
-    "OUTAGE_START_TEXT": "2025-12-01T18:00:36Z",
-    "LAST_UPDATE": 1764612039000,
-    "LAST_UPDATE_TEXT": "2025-12-01T18:00:39Z",
-    "CURRENT_ETOR": null,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13603250.680500001,
-    "geometry_y": 4796340.8454999998
   }
 ]
