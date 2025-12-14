@@ -52,32 +52,5 @@
     "fts_flag": "N",
     "geometry_x": -13282528.0956,
     "geometry_y": 4387179.7247999981
-  },
-  {
-    "F_OUTAGE_ID": "106467",
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "516796870671",
-    "OUTAGE_CIRCUIT_ID": 252721107,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 35.437049999999999,
-    "OUTAGE_LONGITUDE": -119.07588,
-    "CITY": "Bakersfield",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1765685161000,
-    "OUTAGE_START_TEXT": "2025-12-14T04:06:01Z",
-    "LAST_UPDATE": 1765685471000,
-    "LAST_UPDATE_TEXT": "2025-12-14T04:11:11Z",
-    "CURRENT_ETOR": 1765706400000,
-    "CURRENT_ETOR_TEXT": "2025-12-14T10:00:00Z",
-    "AUTO_ETOR": 1765706400000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13255466.327399999,
-    "geometry_y": 4223434.2547999993
   }
 ]
