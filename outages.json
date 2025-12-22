@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13627087.5231,
     "geometry_y": 4548188.0072999969
-  },
-  {
-    "F_OUTAGE_ID": "113268",
-    "OUTAGE_EXTENT": "CUSTOMER",
-    "OUTAGE_DEVICE_ID": "100000127892",
-    "OUTAGE_CIRCUIT_ID": 42661104,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "STORM",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 39.441290000000002,
-    "OUTAGE_LONGITUDE": -123.38396,
-    "CITY": "Brooktrails",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1766364090000,
-    "OUTAGE_START_TEXT": "2025-12-22T00:41:30Z",
-    "LAST_UPDATE": 1766364093000,
-    "LAST_UPDATE_TEXT": "2025-12-22T00:41:33Z",
-    "CURRENT_ETOR": null,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": "4401291783",
-    "fts_flag": "N",
-    "geometry_x": -13735039.599300001,
-    "geometry_y": 4785081.1532000005
   }
 ]
