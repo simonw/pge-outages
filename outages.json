@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13627087.5231,
     "geometry_y": 4548188.0072999969
+  },
+  {
+    "F_OUTAGE_ID": "113550",
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "221040354102",
+    "OUTAGE_CIRCUIT_ID": 153751105,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "PATROLLING",
+    "EST_CUSTOMERS": 2,
+    "OUTAGE_LATITUDE": 39.151519999999998,
+    "OUTAGE_LONGITUDE": -121.63439,
+    "CITY": "Yuba City",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1766377424000,
+    "OUTAGE_START_TEXT": "2025-12-22T04:23:44Z",
+    "LAST_UPDATE": 1766378250000,
+    "LAST_UPDATE_TEXT": "2025-12-22T04:37:30Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13540278.357799999,
+    "geometry_y": 4743398.8105000034
   }
 ]
