@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13429345.1456,
     "geometry_y": 4677029.7883000001
+  },
+  {
+    "F_OUTAGE_ID": "114093",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "192181102-2101554443",
+    "OUTAGE_CIRCUIT_ID": 192181102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "EMERG REPAIRS",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 40.948480000000004,
+    "OUTAGE_LONGITUDE": -124.0312,
+    "CITY": "Fieldbrook",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1766429939000,
+    "OUTAGE_START_TEXT": "2025-12-22T18:58:59Z",
+    "LAST_UPDATE": 1766434562000,
+    "LAST_UPDATE_TEXT": "2025-12-22T20:16:02Z",
+    "CURRENT_ETOR": 1766437200000,
+    "CURRENT_ETOR_TEXT": "2025-12-22T21:00:00Z",
+    "AUTO_ETOR": 1766437200000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13807090.0265,
+    "geometry_y": 5004745.4430000037
   }
 ]
