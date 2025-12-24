@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13582551.9344,
     "geometry_y": 4476935.7211000025
+  },
+  {
+    "F_OUTAGE_ID": "118706",
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "315138633905",
+    "OUTAGE_CIRCUIT_ID": 24131103,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.419260000000001,
+    "OUTAGE_LONGITUDE": -122.17514,
+    "CITY": "Stanford",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1766583486000,
+    "OUTAGE_START_TEXT": "2025-12-24T13:38:06Z",
+    "LAST_UPDATE": 1766583490000,
+    "LAST_UPDATE_TEXT": "2025-12-24T13:38:10Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13600474.372400001,
+    "geometry_y": 4497708.4650000036
   }
 ]
