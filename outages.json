@@ -133,32 +133,5 @@
     "fts_flag": "N",
     "geometry_x": -13604694.4943,
     "geometry_y": 4542212.3791999966
-  },
-  {
-    "F_OUTAGE_ID": "125428",
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "254452101-2101913889",
-    "OUTAGE_CIRCUIT_ID": 254452101,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 170,
-    "OUTAGE_LATITUDE": 37.563690000000001,
-    "OUTAGE_LONGITUDE": -119.85441,
-    "CITY": "Mariposa",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1766674053000,
-    "OUTAGE_START_TEXT": "2025-12-25T14:47:33Z",
-    "LAST_UPDATE": 1766674079000,
-    "LAST_UPDATE_TEXT": "2025-12-25T14:47:59Z",
-    "CURRENT_ETOR": null,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13342131.8905,
-    "geometry_y": 4517971.8800999969
   }
 ]
