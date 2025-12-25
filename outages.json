@@ -160,5 +160,32 @@
     "fts_flag": "N",
     "geometry_x": -13624283.3851,
     "geometry_y": 4949747.9448999986
+  },
+  {
+    "F_OUTAGE_ID": "125869",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "152481106-2101087791",
+    "OUTAGE_CIRCUIT_ID": 152481106,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "STORM",
+    "EST_CUSTOMERS": 51,
+    "OUTAGE_LATITUDE": 39.199240000000003,
+    "OUTAGE_LONGITUDE": -121.02009,
+    "CITY": "Grass Valley",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1766680401000,
+    "OUTAGE_START_TEXT": "2025-12-25T16:33:21Z",
+    "LAST_UPDATE": 1766681401000,
+    "LAST_UPDATE_TEXT": "2025-12-25T16:50:01Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13471894.794599999,
+    "geometry_y": 4750251.3090000004
   }
 ]
