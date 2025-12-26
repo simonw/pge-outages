@@ -133,5 +133,32 @@
     "fts_flag": "N",
     "geometry_x": -13534386.2171,
     "geometry_y": 4386633.2261999995
+  },
+  {
+    "F_OUTAGE_ID": "129724",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "102361101-2100955120",
+    "OUTAGE_CIRCUIT_ID": 102361101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "STORM",
+    "EST_CUSTOMERS": 1426,
+    "OUTAGE_LATITUDE": 40.280479999999997,
+    "OUTAGE_LONGITUDE": -121.11320000000001,
+    "CITY": "Lake Almanor Peninsula",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1766771512000,
+    "OUTAGE_START_TEXT": "2025-12-26T17:51:52Z",
+    "LAST_UPDATE": 1766771547000,
+    "LAST_UPDATE_TEXT": "2025-12-26T17:52:27Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13482259.7523,
+    "geometry_y": 4906784.9732000008
   }
 ]
