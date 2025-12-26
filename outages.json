@@ -106,5 +106,32 @@
     "fts_flag": "N",
     "geometry_x": -13534386.2171,
     "geometry_y": 4386633.2261999995
+  },
+  {
+    "F_OUTAGE_ID": "129468",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "024101102-2101583988",
+    "OUTAGE_CIRCUIT_ID": 24101102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "OUTAGE_CAUSE": "STORM",
+    "EST_CUSTOMERS": 259,
+    "OUTAGE_LATITUDE": 37.528770000000002,
+    "OUTAGE_LONGITUDE": -122.51260000000001,
+    "CITY": "Moss Beach",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1766763232000,
+    "OUTAGE_START_TEXT": "2025-12-26T15:33:52Z",
+    "LAST_UPDATE": 1766774301000,
+    "LAST_UPDATE_TEXT": "2025-12-26T18:38:21Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13638040.2478,
+    "geometry_y": 4513069.0379000008
   }
 ]
