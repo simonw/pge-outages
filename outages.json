@@ -79,5 +79,32 @@
     "fts_flag": "N",
     "geometry_x": -13698873.0099,
     "geometry_y": 4648172.7001999989
+  },
+  {
+    "F_OUTAGE_ID": "131445",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "163111102-2100464990",
+    "OUTAGE_CIRCUIT_ID": 163111102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 33,
+    "OUTAGE_LATITUDE": 37.254689999999997,
+    "OUTAGE_LONGITUDE": -121.0013,
+    "CITY": "Gustine",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1766856076000,
+    "OUTAGE_START_TEXT": "2025-12-27T17:21:16Z",
+    "LAST_UPDATE": 1766856077000,
+    "LAST_UPDATE_TEXT": "2025-12-27T17:21:17Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13469803.101300001,
+    "geometry_y": 4474666.9970000014
   }
 ]
