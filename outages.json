@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13640526.012,
     "geometry_y": 4585063.8790000007
-  },
-  {
-    "F_OUTAGE_ID": "140674",
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "220402259054",
-    "OUTAGE_CIRCUIT_ID": 153771104,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 39.287990000000001,
-    "OUTAGE_LONGITUDE": -121.85905,
-    "CITY": "Sutter",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1767721260000,
-    "OUTAGE_START_TEXT": "2026-01-06T17:41:00Z",
-    "LAST_UPDATE": 1767734496000,
-    "LAST_UPDATE_TEXT": "2026-01-06T21:21:36Z",
-    "CURRENT_ETOR": 1767738600000,
-    "CURRENT_ETOR_TEXT": "2026-01-06T22:30:00Z",
-    "AUTO_ETOR": 1767738600000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13565287.3946,
-    "geometry_y": 4763008.0258999988
   }
 ]
