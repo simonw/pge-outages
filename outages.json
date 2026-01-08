@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13565547.882199999,
     "geometry_y": 4434009.2327999994
+  },
+  {
+    "F_OUTAGE_ID": "142216",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "042841111-2100987846",
+    "OUTAGE_CIRCUIT_ID": 42841111,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "PATROLLING",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 38.700580000000002,
+    "OUTAGE_LONGITUDE": -123.43695,
+    "CITY": "Sea Ranch",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1767881450000,
+    "OUTAGE_START_TEXT": "2026-01-08T14:10:50Z",
+    "LAST_UPDATE": 1767900736000,
+    "LAST_UPDATE_TEXT": "2026-01-08T19:32:16Z",
+    "CURRENT_ETOR": 1767902820000,
+    "CURRENT_ETOR_TEXT": "2026-01-08T20:07:00Z",
+    "AUTO_ETOR": 1767896100000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13740938.4191,
+    "geometry_y": 4678872.5273000002
   }
 ]
