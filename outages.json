@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13565547.882199999,
     "geometry_y": 4434009.2327999994
+  },
+  {
+    "F_OUTAGE_ID": "142410",
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "100000125973",
+    "OUTAGE_CIRCUIT_ID": 257020001,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 2,
+    "OUTAGE_LATITUDE": 37.498010000000001,
+    "OUTAGE_LONGITUDE": -119.93803,
+    "CITY": "Mariposa",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1767893126000,
+    "OUTAGE_START_TEXT": "2026-01-08T17:25:26Z",
+    "LAST_UPDATE": 1767893128000,
+    "LAST_UPDATE_TEXT": "2026-01-08T17:25:28Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13351440.4263,
+    "geometry_y": 4508752.1696999967
   }
 ]
