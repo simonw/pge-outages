@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13561820.9056,
     "geometry_y": 4580180.2031999975
-  },
-  {
-    "F_OUTAGE_ID": "143456",
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "215023663064",
-    "OUTAGE_CIRCUIT_ID": 42661104,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 39.389890000000001,
-    "OUTAGE_LONGITUDE": -123.40867,
-    "CITY": "Willits",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1767984731000,
-    "OUTAGE_START_TEXT": "2026-01-09T18:52:11Z",
-    "LAST_UPDATE": 1767984792000,
-    "LAST_UPDATE_TEXT": "2026-01-09T18:53:12Z",
-    "CURRENT_ETOR": 1768006800000,
-    "CURRENT_ETOR_TEXT": "2026-01-10T01:00:00Z",
-    "AUTO_ETOR": 1768006800000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13737790.3039,
-    "geometry_y": 4777674.8467999995
   }
 ]
