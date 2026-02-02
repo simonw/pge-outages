@@ -79,5 +79,32 @@
     "fts_flag": "N",
     "geometry_x": -13373913.6051,
     "geometry_y": 4348871.7356000021
+  },
+  {
+    "F_OUTAGE_ID": "159379",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "043061101-2100941867",
+    "OUTAGE_CIRCUIT_ID": 43061101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "EMERG REPAIRS",
+    "EST_CUSTOMERS": 57,
+    "OUTAGE_LATITUDE": 39.795090000000002,
+    "OUTAGE_LONGITUDE": -123.24593,
+    "CITY": "Covelo",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1770053820000,
+    "OUTAGE_START_TEXT": "2026-02-02T17:37:00Z",
+    "LAST_UPDATE": 1770055628000,
+    "LAST_UPDATE_TEXT": "2026-02-02T18:07:08Z",
+    "CURRENT_ETOR": 1770075000000,
+    "CURRENT_ETOR_TEXT": "2026-02-02T23:30:00Z",
+    "AUTO_ETOR": 1770075000000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13719674.1699,
+    "geometry_y": 4836209.8434000015
   }
 ]
