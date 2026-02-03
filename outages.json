@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13561360.0429,
     "geometry_y": 4533599.9306999967
-  },
-  {
-    "F_OUTAGE_ID": "160272",
-    "OUTAGE_EXTENT": "DEVICETAP LINE",
-    "OUTAGE_DEVICE_ID": "Line Cut-203329",
-    "OUTAGE_CIRCUIT_ID": 253531102,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting Crew",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 36.583269999999999,
-    "OUTAGE_LONGITUDE": -119.72977,
-    "CITY": "Fresno",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1770140990000,
-    "OUTAGE_START_TEXT": "2026-02-03T17:49:50Z",
-    "LAST_UPDATE": 1770150344000,
-    "LAST_UPDATE_TEXT": "2026-02-03T20:25:44Z",
-    "CURRENT_ETOR": 1770152400000,
-    "CURRENT_ETOR_TEXT": "2026-02-03T21:00:00Z",
-    "AUTO_ETOR": 1770152400000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13328257.029199999,
-    "geometry_y": 4381178.0935000032
   }
 ]
