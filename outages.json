@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13315464.193300001,
     "geometry_y": 4381714.6088000014
+  },
+  {
+    "F_OUTAGE_ID": "166168",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "252891114-2100032723",
+    "OUTAGE_CIRCUIT_ID": 252891114,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 3,
+    "OUTAGE_LATITUDE": 36.357250000000001,
+    "OUTAGE_LONGITUDE": -120.10312999999999,
+    "CITY": "Huron",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1770913257000,
+    "OUTAGE_START_TEXT": "2026-02-12T16:20:57Z",
+    "LAST_UPDATE": 1770913279000,
+    "LAST_UPDATE_TEXT": "2026-02-12T16:21:19Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13369819.2743,
+    "geometry_y": 4349890.422799997
   }
 ]
