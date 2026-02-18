@@ -52,32 +52,5 @@
     "fts_flag": "N",
     "geometry_x": -13399199.827500001,
     "geometry_y": 4613211.1339000016
-  },
-  {
-    "F_OUTAGE_ID": "173930",
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "182492105-2101747947",
-    "OUTAGE_CIRCUIT_ID": 182492105,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting Crew",
-    "OUTAGE_CAUSE": "STORM",
-    "EST_CUSTOMERS": 146,
-    "OUTAGE_LATITUDE": 36.843859999999999,
-    "OUTAGE_LONGITUDE": -121.36049,
-    "CITY": "Hollister",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1771421177000,
-    "OUTAGE_START_TEXT": "2026-02-18T13:26:17Z",
-    "LAST_UPDATE": 1771423494000,
-    "LAST_UPDATE_TEXT": "2026-02-18T14:04:54Z",
-    "CURRENT_ETOR": null,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13509787.949200001,
-    "geometry_y": 4417365.1740999967
   }
 ]
