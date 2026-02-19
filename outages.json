@@ -106,5 +106,32 @@
     "fts_flag": "N",
     "geometry_x": -13372426.376800001,
     "geometry_y": 4592598.8117000014
+  },
+  {
+    "F_OUTAGE_ID": "177826",
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "317762950708",
+    "OUTAGE_CIRCUIT_ID": 163481111,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "STORM",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.890099999999997,
+    "OUTAGE_LONGITUDE": -121.27625,
+    "CITY": "French Camp",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1771528742000,
+    "OUTAGE_START_TEXT": "2026-02-19T19:19:02Z",
+    "LAST_UPDATE": 1771528744000,
+    "LAST_UPDATE_TEXT": "2026-02-19T19:19:04Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": "3636894006",
+    "fts_flag": "N",
+    "geometry_x": -13500410.395300001,
+    "geometry_y": 4563912.2405999973
   }
 ]
