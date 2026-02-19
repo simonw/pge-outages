@@ -79,5 +79,32 @@
     "fts_flag": "N",
     "geometry_x": -13417250.2829,
     "geometry_y": 4642320.9196999967
+  },
+  {
+    "F_OUTAGE_ID": "175350",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "042091102-2101105107",
+    "OUTAGE_CIRCUIT_ID": 42091102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "EMERG REPAIRS",
+    "EST_CUSTOMERS": 6,
+    "OUTAGE_LATITUDE": 38.486710000000002,
+    "OUTAGE_LONGITUDE": -122.85975999999999,
+    "CITY": "Forestville",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1771465262000,
+    "OUTAGE_START_TEXT": "2026-02-19T01:41:02Z",
+    "LAST_UPDATE": 1771484831000,
+    "LAST_UPDATE_TEXT": "2026-02-19T07:07:11Z",
+    "CURRENT_ETOR": 1771498800000,
+    "CURRENT_ETOR_TEXT": "2026-02-19T11:00:00Z",
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13676685.9222,
+    "geometry_y": 4648411.6193000004
   }
 ]
