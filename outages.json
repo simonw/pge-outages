@@ -106,32 +106,5 @@
     "fts_flag": "N",
     "geometry_x": -13372426.376800001,
     "geometry_y": 4592598.8117000014
-  },
-  {
-    "F_OUTAGE_ID": "178174",
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "014351104-2100491192",
-    "OUTAGE_CIRCUIT_ID": 14351104,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "STORM",
-    "EST_CUSTOMERS": 1256,
-    "OUTAGE_LATITUDE": 37.546320000000001,
-    "OUTAGE_LONGITUDE": -121.93423,
-    "CITY": "Fremont",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1771536498000,
-    "OUTAGE_START_TEXT": "2026-02-19T21:28:18Z",
-    "LAST_UPDATE": 1771538472000,
-    "LAST_UPDATE_TEXT": "2026-02-19T22:01:12Z",
-    "CURRENT_ETOR": null,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13573656.3939,
-    "geometry_y": 4515532.8081
   }
 ]
