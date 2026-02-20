@@ -268,5 +268,32 @@
     "fts_flag": "N",
     "geometry_x": -13398766.7947,
     "geometry_y": 4613230.9760000035
+  },
+  {
+    "F_OUTAGE_ID": "179705",
+    "OUTAGE_EXTENT": "DEVICETAP LINE",
+    "OUTAGE_DEVICE_ID": "Line Cut-204223",
+    "OUTAGE_CIRCUIT_ID": 182721101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 2,
+    "OUTAGE_LATITUDE": 34.569760000000002,
+    "OUTAGE_LONGITUDE": -119.95085,
+    "CITY": "Santa Barbara",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1771607197000,
+    "OUTAGE_START_TEXT": "2026-02-20T17:06:37Z",
+    "LAST_UPDATE": 1771607575000,
+    "LAST_UPDATE_TEXT": "2026-02-20T17:12:55Z",
+    "CURRENT_ETOR": 1771617600000,
+    "CURRENT_ETOR_TEXT": "2026-02-20T20:00:00Z",
+    "AUTO_ETOR": 1771617600000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13352867.542199999,
+    "geometry_y": 4105565.8742000014
   }
 ]
