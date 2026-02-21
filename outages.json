@@ -349,5 +349,32 @@
     "fts_flag": "N",
     "geometry_x": -13459891.2139,
     "geometry_y": 4759540.9135999978
+  },
+  {
+    "F_OUTAGE_ID": "180840",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "LineCut - 203071",
+    "OUTAGE_CIRCUIT_ID": 102041104,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 5,
+    "OUTAGE_LATITUDE": 39.864240000000002,
+    "OUTAGE_LONGITUDE": -121.69157,
+    "CITY": "Forest Ranch",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1771696745000,
+    "OUTAGE_START_TEXT": "2026-02-21T17:59:05Z",
+    "LAST_UPDATE": 1771703117000,
+    "LAST_UPDATE_TEXT": "2026-02-21T19:45:17Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13546643.6062,
+    "geometry_y": 4846233.5738999993
   }
 ]
