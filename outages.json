@@ -411,7 +411,7 @@
     "OUTAGE_CIRCUIT_ID": 43051101,
     "CREW_ETA": null,
     "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
+    "OUTAGE_CAUSE": "Awaiting Investigation",
     "EST_CUSTOMERS": 4,
     "OUTAGE_LATITUDE": 38.625810000000001,
     "OUTAGE_LONGITUDE": -122.29066,
