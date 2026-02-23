@@ -349,32 +349,5 @@
     "fts_flag": "N",
     "geometry_x": -13425270.8522,
     "geometry_y": 4686736.4351999983
-  },
-  {
-    "F_OUTAGE_ID": "182132",
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "152481105-2101002550",
-    "OUTAGE_CIRCUIT_ID": 152481105,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": "TREE CONTACT",
-    "EST_CUSTOMERS": 2,
-    "OUTAGE_LATITUDE": 39.311579999999999,
-    "OUTAGE_LONGITUDE": -120.97453,
-    "CITY": "Nevada City",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1771471272000,
-    "OUTAGE_START_TEXT": "2026-02-19T03:21:12Z",
-    "LAST_UPDATE": 1771876452000,
-    "LAST_UPDATE_TEXT": "2026-02-23T19:54:12Z",
-    "CURRENT_ETOR": 1771956000000,
-    "CURRENT_ETOR_TEXT": "2026-02-24T18:00:00Z",
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13466823.078600001,
-    "geometry_y": 4766401.5155000016
   }
 ]
