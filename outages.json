@@ -349,5 +349,32 @@
     "fts_flag": "N",
     "geometry_x": -13425270.8522,
     "geometry_y": 4686736.4351999983
+  },
+  {
+    "F_OUTAGE_ID": "182341",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "162821702-2100017810",
+    "OUTAGE_CIRCUIT_ID": 162821702,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "STORM",
+    "EST_CUSTOMERS": 5,
+    "OUTAGE_LATITUDE": 38.248260000000002,
+    "OUTAGE_LONGITUDE": -120.35834,
+    "CITY": "Arnold",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1771823897000,
+    "OUTAGE_START_TEXT": "2026-02-23T05:18:17Z",
+    "LAST_UPDATE": 1771827932000,
+    "LAST_UPDATE_TEXT": "2026-02-23T06:25:32Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13398229.1215,
+    "geometry_y": 4614556.2312999964
   }
 ]
