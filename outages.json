@@ -214,5 +214,32 @@
     "fts_flag": "N",
     "geometry_x": -13411117.692200001,
     "geometry_y": 4689913.1137999967
+  },
+  {
+    "F_OUTAGE_ID": "184401",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "152762101-2101047358",
+    "OUTAGE_CIRCUIT_ID": 152762101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "Awaiting Investigation",
+    "EST_CUSTOMERS": 37,
+    "OUTAGE_LATITUDE": 38.69811,
+    "OUTAGE_LONGITUDE": -120.60387,
+    "CITY": "Placerville",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1772038260000,
+    "OUTAGE_START_TEXT": "2026-02-25T16:51:00Z",
+    "LAST_UPDATE": 1772049667000,
+    "LAST_UPDATE_TEXT": "2026-02-25T20:01:07Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13425561.3961,
+    "geometry_y": 4678520.2132999972
   }
 ]
