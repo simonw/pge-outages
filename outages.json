@@ -160,5 +160,32 @@
     "fts_flag": "N",
     "geometry_x": -13411117.692200001,
     "geometry_y": 4689913.1137999967
+  },
+  {
+    "F_OUTAGE_ID": "185243",
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "316705922680",
+    "OUTAGE_CIRCUIT_ID": 83242106,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.117429999999999,
+    "OUTAGE_LONGITUDE": -121.63070999999999,
+    "CITY": "Morgan Hill",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1772126404000,
+    "OUTAGE_START_TEXT": "2026-02-26T17:20:04Z",
+    "LAST_UPDATE": 1772126413000,
+    "LAST_UPDATE_TEXT": "2026-02-26T17:20:13Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13539868.702,
+    "geometry_y": 4455487.6792000011
   }
 ]
