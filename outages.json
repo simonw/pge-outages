@@ -52,32 +52,5 @@
     "fts_flag": "N",
     "geometry_x": -13416160.4651,
     "geometry_y": 4117357.8394000009
-  },
-  {
-    "F_OUTAGE_ID": "191143",
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "043051101-2101586642",
-    "OUTAGE_CIRCUIT_ID": 43051101,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 4,
-    "OUTAGE_LATITUDE": 38.625810000000001,
-    "OUTAGE_LONGITUDE": -122.29066,
-    "CITY": "Pope Valley",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1772822229000,
-    "OUTAGE_START_TEXT": "2026-03-06T18:37:09Z",
-    "LAST_UPDATE": 1772822277000,
-    "LAST_UPDATE_TEXT": "2026-03-06T18:37:57Z",
-    "CURRENT_ETOR": 1772858700000,
-    "CURRENT_ETOR_TEXT": "2026-03-07T04:45:00Z",
-    "AUTO_ETOR": 1772858700000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13613334,
-    "geometry_y": 4668212.9219999984
   }
 ]
