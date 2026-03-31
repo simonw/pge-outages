@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13357785.6373,
     "geometry_y": 4332868.7456
+  },
+  {
+    "F_OUTAGE_ID": "209920",
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "515409969948",
+    "OUTAGE_CIRCUIT_ID": 252611104,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 35.412399999999998,
+    "OUTAGE_LONGITUDE": -119.53984,
+    "CITY": "Buttonwillow",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1774995946000,
+    "OUTAGE_START_TEXT": "2026-03-31T22:25:46Z",
+    "LAST_UPDATE": 1774995950000,
+    "LAST_UPDATE_TEXT": "2026-03-31T22:25:50Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13307114.1183,
+    "geometry_y": 4220066.8471999988
   }
 ]
