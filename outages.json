@@ -52,32 +52,5 @@
     "fts_flag": "N",
     "geometry_x": -13342417.9816,
     "geometry_y": 4378404.447300002
-  },
-  {
-    "F_OUTAGE_ID": "210643",
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "LineCut - 253177",
-    "OUTAGE_CIRCUIT_ID": 83182101,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 11,
-    "OUTAGE_LATITUDE": 37.019359999999999,
-    "OUTAGE_LONGITUDE": -121.50111,
-    "CITY": "Gilroy",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1775062293000,
-    "OUTAGE_START_TEXT": "2026-04-01T16:51:33Z",
-    "LAST_UPDATE": 1775062376000,
-    "LAST_UPDATE_TEXT": "2026-04-01T16:52:56Z",
-    "CURRENT_ETOR": null,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13525441.696,
-    "geometry_y": 4441805.6652000025
   }
 ]
