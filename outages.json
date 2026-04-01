@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13345154.2147,
     "geometry_y": 4404146.1794999987
+  },
+  {
+    "F_OUTAGE_ID": "210481",
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "417485344884",
+    "OUTAGE_CIRCUIT_ID": 252371104,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 36.56326,
+    "OUTAGE_LONGITUDE": -119.85697999999999,
+    "CITY": "Caruthers",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1775056114000,
+    "OUTAGE_START_TEXT": "2026-04-01T15:08:34Z",
+    "LAST_UPDATE": 1775056476000,
+    "LAST_UPDATE_TEXT": "2026-04-01T15:14:36Z",
+    "CURRENT_ETOR": 1775080800000,
+    "CURRENT_ETOR_TEXT": "2026-04-01T22:00:00Z",
+    "AUTO_ETOR": 1775080800000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13342417.9816,
+    "geometry_y": 4378404.447300002
   }
 ]
