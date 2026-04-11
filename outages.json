@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13467281.7149,
     "geometry_y": 4583920.4741000012
-  },
-  {
-    "F_OUTAGE_ID": "219332",
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "316551150726",
-    "OUTAGE_CIRCUIT_ID": 14592105,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 37.887,
-    "OUTAGE_LONGITUDE": -121.69629999999999,
-    "CITY": "Brentwood",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1775862275000,
-    "OUTAGE_START_TEXT": "2026-04-10T23:04:35Z",
-    "LAST_UPDATE": 1775868352000,
-    "LAST_UPDATE_TEXT": "2026-04-11T00:45:52Z",
-    "CURRENT_ETOR": 1775883600000,
-    "CURRENT_ETOR_TEXT": "2026-04-11T05:00:00Z",
-    "AUTO_ETOR": 1775883600000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13547170.147399999,
-    "geometry_y": 4563474.9782999977
   }
 ]
