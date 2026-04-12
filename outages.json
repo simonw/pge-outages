@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13752221.762699999,
     "geometry_y": 4689503.3022999987
+  },
+  {
+    "F_OUTAGE_ID": "222841",
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "114147058872",
+    "OUTAGE_CIRCUIT_ID": 192021105,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "STORM",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 40.929789999999997,
+    "OUTAGE_LONGITUDE": -124.11968,
+    "CITY": "McKinleyville",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1776033530000,
+    "OUTAGE_START_TEXT": "2026-04-12T22:38:50Z",
+    "LAST_UPDATE": 1776033533000,
+    "LAST_UPDATE_TEXT": "2026-04-12T22:38:53Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13816939.574999999,
+    "geometry_y": 5001991.2141000032
   }
 ]
