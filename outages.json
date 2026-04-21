@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13383330.120900001,
     "geometry_y": 4556908.3834000006
+  },
+  {
+    "F_OUTAGE_ID": "230272",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "LineCut - 206927",
+    "OUTAGE_CIRCUIT_ID": 25446,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "STORM",
+    "EST_CUSTOMERS": 399,
+    "OUTAGE_LATITUDE": 36.867249999999999,
+    "OUTAGE_LONGITUDE": -120.32932,
+    "CITY": "Firebaugh",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1776810900000,
+    "OUTAGE_START_TEXT": "2026-04-21T22:35:00Z",
+    "LAST_UPDATE": 1776812133000,
+    "LAST_UPDATE_TEXT": "2026-04-21T22:55:33Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13394998.629900001,
+    "geometry_y": 4420619.266900003
   }
 ]
