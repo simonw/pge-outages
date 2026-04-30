@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13384621.427000001,
     "geometry_y": 4345508.1265999973
-  },
-  {
-    "F_OUTAGE_ID": "237177",
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "100000029177",
-    "OUTAGE_CIRCUIT_ID": 253451102,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 35.78886,
-    "OUTAGE_LONGITUDE": -120.05864,
-    "CITY": "Avenal",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1777576919000,
-    "OUTAGE_START_TEXT": "2026-04-30T19:21:59Z",
-    "LAST_UPDATE": 1777580490000,
-    "LAST_UPDATE_TEXT": "2026-04-30T20:21:30Z",
-    "CURRENT_ETOR": 1777611600000,
-    "CURRENT_ETOR_TEXT": "2026-05-01T05:00:00Z",
-    "AUTO_ETOR": 1777611600000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13364866.6701,
-    "geometry_y": 4271607.5910999998
   }
 ]
