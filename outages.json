@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13241037.094999999,
     "geometry_y": 4161750.498800002
-  },
-  {
-    "F_OUTAGE_ID": "242149",
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "LineCut - 254930",
-    "OUTAGE_CIRCUIT_ID": 12090409,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 70,
-    "OUTAGE_LATITUDE": 37.767069999999997,
-    "OUTAGE_LONGITUDE": -122.19664,
-    "CITY": "Oakland",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1778170140000,
-    "OUTAGE_START_TEXT": "2026-05-07T16:09:00Z",
-    "LAST_UPDATE": 1778173123000,
-    "LAST_UPDATE_TEXT": "2026-05-07T16:58:43Z",
-    "CURRENT_ETOR": 1778194800000,
-    "CURRENT_ETOR_TEXT": "2026-05-07T23:00:00Z",
-    "AUTO_ETOR": 1778194800000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13602867.7414,
-    "geometry_y": 4546572.6726000011
   }
 ]
