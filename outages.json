@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13241037.094999999,
     "geometry_y": 4161750.498800002
+  },
+  {
+    "F_OUTAGE_ID": "242090",
+    "OUTAGE_EXTENT": "DEVICETAP LINE",
+    "OUTAGE_DEVICE_ID": "Line Cut-207652",
+    "OUTAGE_CIRCUIT_ID": 253701108,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 29,
+    "OUTAGE_LATITUDE": 35.34357,
+    "OUTAGE_LONGITUDE": -119.01964,
+    "CITY": "Bakersfield",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1778170680000,
+    "OUTAGE_START_TEXT": "2026-05-07T16:18:00Z",
+    "LAST_UPDATE": 1778172055000,
+    "LAST_UPDATE_TEXT": "2026-05-07T16:40:55Z",
+    "CURRENT_ETOR": 1778193000000,
+    "CURRENT_ETOR_TEXT": "2026-05-07T22:30:00Z",
+    "AUTO_ETOR": 1778193000000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13249205.7192,
+    "geometry_y": 4210669.5104999989
   }
 ]
