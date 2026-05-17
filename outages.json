@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13631667.206900001,
     "geometry_y": 4536001.0209000036
+  },
+  {
+    "F_OUTAGE_ID": "251106",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "10291-2100942921",
+    "OUTAGE_CIRCUIT_ID": 10291,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting Crew",
+    "OUTAGE_CAUSE": "THRD PARTY",
+    "EST_CUSTOMERS": 1785,
+    "OUTAGE_LATITUDE": 39.491930000000004,
+    "OUTAGE_LONGITUDE": -121.54058000000001,
+    "CITY": "South Oroville",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1779037500000,
+    "OUTAGE_START_TEXT": "2026-05-17T17:05:00Z",
+    "LAST_UPDATE": 1779047466000,
+    "LAST_UPDATE_TEXT": "2026-05-17T19:51:06Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "Y",
+    "geometry_x": -13529835.476300001,
+    "geometry_y": 4792383.2968999967
   }
 ]
