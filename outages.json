@@ -25,5 +25,32 @@
     "fts_flag": "Y",
     "geometry_x": -13317256.437100001,
     "geometry_y": 4436238.5886999965
+  },
+  {
+    "F_OUTAGE_ID": "250408",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "02264-2100564384",
+    "OUTAGE_CIRCUIT_ID": 2264,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "TREE CONTACT",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.691960000000002,
+    "OUTAGE_LONGITUDE": -122.45535,
+    "CITY": "Daly City",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1778991360000,
+    "OUTAGE_START_TEXT": "2026-05-17T04:16:00Z",
+    "LAST_UPDATE": 1778996838000,
+    "LAST_UPDATE_TEXT": "2026-05-17T05:47:18Z",
+    "CURRENT_ETOR": 1779003900000,
+    "CURRENT_ETOR_TEXT": "2026-05-17T07:45:00Z",
+    "AUTO_ETOR": 1779003900000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13631667.206900001,
+    "geometry_y": 4536001.0209000036
   }
 ]
