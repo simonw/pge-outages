@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13287765.6776,
     "geometry_y": 4234039.1028999984
+  },
+  {
+    "F_OUTAGE_ID": "259849",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "LineCut - 206539",
+    "OUTAGE_CIRCUIT_ID": 152481102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 39.206569999999999,
+    "OUTAGE_LONGITUDE": -120.95453000000001,
+    "CITY": "Grass Valley",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1779467339000,
+    "OUTAGE_START_TEXT": "2026-05-22T16:28:59Z",
+    "LAST_UPDATE": 1779467877000,
+    "LAST_UPDATE_TEXT": "2026-05-22T16:37:57Z",
+    "CURRENT_ETOR": 1779487200000,
+    "CURRENT_ETOR_TEXT": "2026-05-22T22:00:00Z",
+    "AUTO_ETOR": 1779487200000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13464596.6887,
+    "geometry_y": 4751304.2949000001
   }
 ]
