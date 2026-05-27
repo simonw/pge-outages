@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13552106.0536,
     "geometry_y": 4575483.8158999979
-  },
-  {
-    "F_OUTAGE_ID": "264219",
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "317426054936",
-    "OUTAGE_CIRCUIT_ID": 162422104,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 38.005240000000001,
-    "OUTAGE_LONGITUDE": -121.39352,
-    "CITY": "Stockton",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1779904604000,
-    "OUTAGE_START_TEXT": "2026-05-27T17:56:44Z",
-    "LAST_UPDATE": 1779918046000,
-    "LAST_UPDATE_TEXT": "2026-05-27T21:40:46Z",
-    "CURRENT_ETOR": 1779931800000,
-    "CURRENT_ETOR_TEXT": "2026-05-28T01:30:00Z",
-    "AUTO_ETOR": 1779931800000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13513464.832,
-    "geometry_y": 4580166.0755999982
   }
 ]
