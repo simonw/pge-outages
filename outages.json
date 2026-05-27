@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13394882.8576,
     "geometry_y": 4322460.9743999988
+  },
+  {
+    "F_OUTAGE_ID": "264123",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "013232101-2101725007",
+    "OUTAGE_CIRCUIT_ID": 13232101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.972090000000001,
+    "OUTAGE_LONGITUDE": -121.74064,
+    "CITY": "Antioch",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1779898920000,
+    "OUTAGE_START_TEXT": "2026-05-27T16:22:00Z",
+    "LAST_UPDATE": 1779899474000,
+    "LAST_UPDATE_TEXT": "2026-05-27T16:31:14Z",
+    "CURRENT_ETOR": 1779922800000,
+    "CURRENT_ETOR_TEXT": "2026-05-27T23:00:00Z",
+    "AUTO_ETOR": 1779922800000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13552106.0536,
+    "geometry_y": 4575483.8158999979
   }
 ]
