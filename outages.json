@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13745400.1043,
     "geometry_y": 4820263.690200001
-  },
-  {
-    "F_OUTAGE_ID": "289382",
-    "OUTAGE_EXTENT": "CUSTOMER",
-    "OUTAGE_DEVICE_ID": "317812460465",
-    "OUTAGE_CIRCUIT_ID": 162111101,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 38.158110000000001,
-    "OUTAGE_LONGITUDE": -121.26188999999999,
-    "CITY": "Acampo",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1782321215000,
-    "OUTAGE_START_TEXT": "2026-06-24T17:13:35Z",
-    "LAST_UPDATE": 1782321218000,
-    "LAST_UPDATE_TEXT": "2026-06-24T17:13:38Z",
-    "CURRENT_ETOR": null,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": "404163417",
-    "fts_flag": "N",
-    "geometry_x": -13498811.8474,
-    "geometry_y": 4601785.5939000025
   }
 ]
