@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13575788.1621,
     "geometry_y": 4497576.7119000033
+  },
+  {
+    "F_OUTAGE_ID": "302438",
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "100000060604",
+    "OUTAGE_CIRCUIT_ID": 24131103,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.367400000000004,
+    "OUTAGE_LONGITUDE": -122.16672,
+    "CITY": "Los Altos Hills",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1783893675000,
+    "OUTAGE_START_TEXT": "2026-07-12T22:01:15Z",
+    "LAST_UPDATE": 1783893996000,
+    "LAST_UPDATE_TEXT": "2026-07-12T22:06:36Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": "8002068501",
+    "fts_flag": "N",
+    "geometry_x": -13599537.0623,
+    "geometry_y": 4490442.0887999982
   }
 ]
