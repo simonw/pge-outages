@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13630220.0535,
     "geometry_y": 4661481.0200000033
+  },
+  {
+    "F_OUTAGE_ID": "307164",
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "315143026530",
+    "OUTAGE_CIRCUIT_ID": 82841102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 37.216329999999999,
+    "OUTAGE_LONGITUDE": -122.17043,
+    "CITY": "La Honda",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1784259341000,
+    "OUTAGE_START_TEXT": "2026-07-17T03:35:41Z",
+    "LAST_UPDATE": 1784259348000,
+    "LAST_UPDATE_TEXT": "2026-07-17T03:35:48Z",
+    "CURRENT_ETOR": 1784295900000,
+    "CURRENT_ETOR_TEXT": "2026-07-17T13:45:00Z",
+    "AUTO_ETOR": 1784295900000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13599950.057599999,
+    "geometry_y": 4469303.449000001
   }
 ]
