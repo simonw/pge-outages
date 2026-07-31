@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13400031.384100001,
     "geometry_y": 4405621.7118000016
+  },
+  {
+    "F_OUTAGE_ID": "319454",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "152061102-2102081117",
+    "OUTAGE_CIRCUIT_ID": 152061102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 3,
+    "OUTAGE_LATITUDE": 38.750109999999999,
+    "OUTAGE_LONGITUDE": -121.31458000000001,
+    "CITY": "Roseville",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1785510013000,
+    "OUTAGE_START_TEXT": "2026-07-31T15:00:13Z",
+    "LAST_UPDATE": 1785510017000,
+    "LAST_UPDATE_TEXT": "2026-07-31T15:00:17Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13504677.271400001,
+    "geometry_y": 4685939.9223999977
   }
 ]
