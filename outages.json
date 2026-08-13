@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13435940.8254,
     "geometry_y": 4244654.2039000019
-  },
-  {
-    "F_OUTAGE_ID": "330780",
-    "OUTAGE_EXTENT": "DEVICETAP LINE",
-    "OUTAGE_DEVICE_ID": "Line Cut-211849",
-    "OUTAGE_CIRCUIT_ID": 163541102,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 38.545009999999998,
-    "OUTAGE_LONGITUDE": -120.73926,
-    "CITY": "River Pines",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1786633860000,
-    "OUTAGE_START_TEXT": "2026-08-13T15:11:00Z",
-    "LAST_UPDATE": 1786647240000,
-    "LAST_UPDATE_TEXT": "2026-08-13T18:54:00Z",
-    "CURRENT_ETOR": 1786647600000,
-    "CURRENT_ETOR_TEXT": "2026-08-13T19:00:00Z",
-    "AUTO_ETOR": 1786647600000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13440632.942,
-    "geometry_y": 4656706.1361000016
   }
 ]
