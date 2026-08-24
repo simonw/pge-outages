@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13603453.282,
     "geometry_y": 4549466.9329999983
+  },
+  {
+    "F_OUTAGE_ID": "338508",
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "516010182568",
+    "OUTAGE_CIRCUIT_ID": 253551105,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 35.761249999999997,
+    "OUTAGE_LONGITUDE": -119.34563,
+    "CITY": "Delano",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1787540365000,
+    "OUTAGE_START_TEXT": "2026-08-24T02:59:25Z",
+    "LAST_UPDATE": 1787540702000,
+    "LAST_UPDATE_TEXT": "2026-08-24T03:05:02Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13285494.76,
+    "geometry_y": 4267819.2743000016
   }
 ]
