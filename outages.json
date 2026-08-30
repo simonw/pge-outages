@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13580483.6182,
     "geometry_y": 4495537.5533000007
+  },
+  {
+    "F_OUTAGE_ID": "343900",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "024011106-2100512117",
+    "OUTAGE_CIRCUIT_ID": 24011106,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 37.55838,
+    "OUTAGE_LONGITUDE": -122.24794,
+    "CITY": "Foster City",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1788110160000,
+    "OUTAGE_START_TEXT": "2026-08-30T17:16:00Z",
+    "LAST_UPDATE": 1788114819000,
+    "LAST_UPDATE_TEXT": "2026-08-30T18:33:39Z",
+    "CURRENT_ETOR": 1788120900000,
+    "CURRENT_ETOR_TEXT": "2026-08-30T20:15:00Z",
+    "AUTO_ETOR": 1788120900000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13608578.431299999,
+    "geometry_y": 4517226.196800001
   }
 ]
