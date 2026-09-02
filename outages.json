@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13354592.9943,
     "geometry_y": 4523654.0199000016
-  },
-  {
-    "F_OUTAGE_ID": "346505",
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "014161106-2101735113",
-    "OUTAGE_CIRCUIT_ID": 14161106,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 37.887250000000002,
-    "OUTAGE_LONGITUDE": -122.12291,
-    "CITY": "Lafayette",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1788385260000,
-    "OUTAGE_START_TEXT": "2026-09-02T21:41:00Z",
-    "LAST_UPDATE": 1788386237000,
-    "LAST_UPDATE_TEXT": "2026-09-02T21:57:17Z",
-    "CURRENT_ETOR": 1788396300000,
-    "CURRENT_ETOR_TEXT": "2026-09-03T00:45:00Z",
-    "AUTO_ETOR": 1788396300000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13594660.155400001,
-    "geometry_y": 4563510.240699999
   }
 ]
