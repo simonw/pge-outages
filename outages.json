@@ -25,5 +25,32 @@
     "fts_flag": "Y",
     "geometry_x": -13580790.859999999,
     "geometry_y": 4466083.2753999978
+  },
+  {
+    "F_OUTAGE_ID": "349366",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "083182106-2100566226",
+    "OUTAGE_CIRCUIT_ID": 83182106,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 36.988059999999997,
+    "OUTAGE_LONGITUDE": -121.53570999999999,
+    "CITY": "Gilroy",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1788811140000,
+    "OUTAGE_START_TEXT": "2026-09-07T19:59:00Z",
+    "LAST_UPDATE": 1788812433000,
+    "LAST_UPDATE_TEXT": "2026-09-07T20:20:33Z",
+    "CURRENT_ETOR": 1788837300000,
+    "CURRENT_ETOR_TEXT": "2026-09-08T03:15:00Z",
+    "AUTO_ETOR": 1788837300000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13529293.350400001,
+    "geometry_y": 4437442.6358999982
   }
 ]
