@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13467213.809999999,
     "geometry_y": 4678426.0746999979
-  },
-  {
-    "F_OUTAGE_ID": "350737",
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "083182101-2100506575",
-    "OUTAGE_CIRCUIT_ID": 83182101,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "THRD PARTY",
-    "EST_CUSTOMERS": 0,
-    "OUTAGE_LATITUDE": 37.016330000000004,
-    "OUTAGE_LONGITUDE": -121.54463,
-    "CITY": "Gilroy",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1788972240000,
-    "OUTAGE_START_TEXT": "2026-09-09T16:44:00Z",
-    "LAST_UPDATE": 1788975188000,
-    "LAST_UPDATE_TEXT": "2026-09-09T17:33:08Z",
-    "CURRENT_ETOR": 1788986700000,
-    "CURRENT_ETOR_TEXT": "2026-09-09T20:45:00Z",
-    "AUTO_ETOR": 1788986700000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13530286.3203,
-    "geometry_y": 4441383.2232000008
   }
 ]
