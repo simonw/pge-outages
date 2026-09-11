@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13574061.596799999,
     "geometry_y": 4630185.8457999974
+  },
+  {
+    "F_OUTAGE_ID": "353340",
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "512360059635",
+    "OUTAGE_CIRCUIT_ID": 182601104,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 35.111960000000003,
+    "OUTAGE_LONGITUDE": -120.5557,
+    "CITY": "Arroyo Grande",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1789146431000,
+    "OUTAGE_START_TEXT": "2026-09-11T17:07:11Z",
+    "LAST_UPDATE": 1789146435000,
+    "LAST_UPDATE_TEXT": "2026-09-11T17:07:15Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13420199.1362,
+    "geometry_y": 4179106.4890000001
   }
 ]
