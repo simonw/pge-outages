@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13665683.103700001,
     "geometry_y": 4706771.0913999975
+  },
+  {
+    "F_OUTAGE_ID": "357229",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "153761105-2100965914",
+    "OUTAGE_CIRCUIT_ID": 153761105,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 4,
+    "OUTAGE_LATITUDE": 38.750399999999999,
+    "OUTAGE_LONGITUDE": -121.53487,
+    "CITY": "Pleasant Grove",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1789576780000,
+    "OUTAGE_START_TEXT": "2026-09-16T16:39:40Z",
+    "LAST_UPDATE": 1789576797000,
+    "LAST_UPDATE_TEXT": "2026-09-16T16:39:57Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13529199.842,
+    "geometry_y": 4685981.3166999966
   }
 ]
