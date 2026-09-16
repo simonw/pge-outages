@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13610205.9223,
     "geometry_y": 4949322.9381999969
+  },
+  {
+    "F_OUTAGE_ID": "357156",
+    "OUTAGE_EXTENT": "DEVICETAP LINE",
+    "OUTAGE_DEVICE_ID": "Line Cut-211676",
+    "OUTAGE_CIRCUIT_ID": 43311102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 38.895899999999997,
+    "OUTAGE_LONGITUDE": -122.76092,
+    "CITY": "Kelseyville",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1789574700000,
+    "OUTAGE_START_TEXT": "2026-09-16T16:05:00Z",
+    "LAST_UPDATE": 1789574800000,
+    "LAST_UPDATE_TEXT": "2026-09-16T16:06:40Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13665683.103700001,
+    "geometry_y": 4706771.0913999975
   }
 ]
