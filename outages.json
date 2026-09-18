@@ -25,5 +25,32 @@
     "fts_flag": "Y",
     "geometry_x": -13633928.105799999,
     "geometry_y": 4656703.2894999981
+  },
+  {
+    "F_OUTAGE_ID": "358704",
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "316296914798",
+    "OUTAGE_CIRCUIT_ID": 83192104,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 2,
+    "OUTAGE_LATITUDE": 36.899569999999997,
+    "OUTAGE_LONGITUDE": -121.76742,
+    "CITY": "Watsonville",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1789749180000,
+    "OUTAGE_START_TEXT": "2026-09-18T16:33:00Z",
+    "LAST_UPDATE": 1789749646000,
+    "LAST_UPDATE_TEXT": "2026-09-18T16:40:46Z",
+    "CURRENT_ETOR": 1789776000000,
+    "CURRENT_ETOR_TEXT": "2026-09-19T00:00:00Z",
+    "AUTO_ETOR": 1789776000000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13555087.1896,
+    "geometry_y": 4425117.3702000007
   }
 ]
