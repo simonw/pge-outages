@@ -25,5 +25,32 @@
     "fts_flag": "Y",
     "geometry_x": -13633928.105799999,
     "geometry_y": 4656703.2894999981
+  },
+  {
+    "F_OUTAGE_ID": "358715",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "253401102-2101598330",
+    "OUTAGE_CIRCUIT_ID": 253401102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "THRD PARTY",
+    "EST_CUSTOMERS": 18,
+    "OUTAGE_LATITUDE": 36.73789,
+    "OUTAGE_LONGITUDE": -120.69336,
+    "CITY": "Firebaugh",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1789750200000,
+    "OUTAGE_START_TEXT": "2026-09-18T16:50:00Z",
+    "LAST_UPDATE": 1789773172000,
+    "LAST_UPDATE_TEXT": "2026-09-18T23:12:52Z",
+    "CURRENT_ETOR": 1789779600000,
+    "CURRENT_ETOR_TEXT": "2026-09-19T01:00:00Z",
+    "AUTO_ETOR": 1789779600000,
+    "SPID": null,
+    "fts_flag": "Y",
+    "geometry_x": -13435523.3773,
+    "geometry_y": 4402634.7348000035
   }
 ]
