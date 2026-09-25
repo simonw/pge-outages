@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13613262.7555,
     "geometry_y": 4563627.3127999976
-  },
-  {
-    "F_OUTAGE_ID": "364004",
-    "OUTAGE_EXTENT": "DEVICETAP LINE",
-    "OUTAGE_DEVICE_ID": "Line Cut-213968",
-    "OUTAGE_CIRCUIT_ID": 182541103,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting Crew",
-    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 35.457569999999997,
-    "OUTAGE_LONGITUDE": -120.72281,
-    "CITY": "Atascadero",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1790352452000,
-    "OUTAGE_START_TEXT": "2026-09-25T16:07:32Z",
-    "LAST_UPDATE": 1790368705000,
-    "LAST_UPDATE_TEXT": "2026-09-25T20:38:25Z",
-    "CURRENT_ETOR": 1790372280000,
-    "CURRENT_ETOR_TEXT": "2026-09-25T21:38:00Z",
-    "AUTO_ETOR": 1790366400000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13438801.736299999,
-    "geometry_y": 4226238.2542999983
   }
 ]
