@@ -52,32 +52,5 @@
     "fts_flag": "N",
     "geometry_x": -13452723.3519,
     "geometry_y": 4215034.7321000025
-  },
-  {
-    "F_OUTAGE_ID": "367253",
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "LineCut - 212431",
-    "OUTAGE_CIRCUIT_ID": 43141101,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 38.731819999999999,
-    "OUTAGE_LONGITUDE": -122.62251999999999,
-    "CITY": "Middletown",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1790786092000,
-    "OUTAGE_START_TEXT": "2026-09-30T16:34:52Z",
-    "LAST_UPDATE": 1790786415000,
-    "LAST_UPDATE_TEXT": "2026-09-30T16:40:15Z",
-    "CURRENT_ETOR": 1790816400000,
-    "CURRENT_ETOR_TEXT": "2026-10-01T01:00:00Z",
-    "AUTO_ETOR": 1790816400000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13650276.486200001,
-    "geometry_y": 4683329.5666999966
   }
 ]
