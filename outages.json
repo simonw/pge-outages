@@ -25,32 +25,5 @@
     "fts_flag": "Y",
     "geometry_x": -13632547.7441,
     "geometry_y": 4508752.169699997
-  },
-  {
-    "F_OUTAGE_ID": "375390",
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "192021122-2101875539",
-    "OUTAGE_CIRCUIT_ID": 192021122,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man Enroute",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 421,
-    "OUTAGE_LATITUDE": 40.79224,
-    "OUTAGE_LONGITUDE": -124.02195,
-    "CITY": "Kneeland",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1791692251000,
-    "OUTAGE_START_TEXT": "2026-10-11T04:17:31Z",
-    "LAST_UPDATE": 1791693144000,
-    "LAST_UPDATE_TEXT": "2026-10-11T04:32:24Z",
-    "CURRENT_ETOR": 1791720000000,
-    "CURRENT_ETOR_TEXT": "2026-10-11T12:00:00Z",
-    "AUTO_ETOR": 1791720000000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13806060.3212,
-    "geometry_y": 4981745.240699999
   }
 ]
