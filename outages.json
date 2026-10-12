@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "F_OUTAGE_ID": "376046",
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "100000151651",
+    "OUTAGE_CIRCUIT_ID": 152301101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 39.18233,
+    "OUTAGE_LONGITUDE": -120.85675,
+    "CITY": "Dutch Flat",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1791817866000,
+    "OUTAGE_START_TEXT": "2026-10-12T15:11:06Z",
+    "LAST_UPDATE": 1791817870000,
+    "LAST_UPDATE_TEXT": "2026-10-12T15:11:10Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13453711.868900001,
+    "geometry_y": 4747822.534000002
+  }
+]
