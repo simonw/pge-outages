@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13637701.8365,
     "geometry_y": 4581225.704000004
+  },
+  {
+    "F_OUTAGE_ID": "376829",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "024101102-2101779595",
+    "OUTAGE_CIRCUIT_ID": 24101102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "PATROLLING",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 37.47998,
+    "OUTAGE_LONGITUDE": -122.44371,
+    "CITY": "Half Moon Bay",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1791866070000,
+    "OUTAGE_START_TEXT": "2026-10-13T04:34:30Z",
+    "LAST_UPDATE": 1791884643000,
+    "LAST_UPDATE_TEXT": "2026-10-13T09:44:03Z",
+    "CURRENT_ETOR": 1791902700000,
+    "CURRENT_ETOR_TEXT": "2026-10-13T14:45:00Z",
+    "AUTO_ETOR": 1791902700000,
+    "SPID": null,
+    "fts_flag": "Y",
+    "geometry_x": -13630371.447999999,
+    "geometry_y": 4506222.6603000015
   }
 ]
