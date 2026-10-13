@@ -25,5 +25,32 @@
     "fts_flag": "Y",
     "geometry_x": -13630371.447999999,
     "geometry_y": 4506222.6603000015
+  },
+  {
+    "F_OUTAGE_ID": "376789",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "042011109-2100951297",
+    "OUTAGE_CIRCUIT_ID": 42011109,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting Crew",
+    "OUTAGE_CAUSE": "EMERG REPAIRS",
+    "EST_CUSTOMERS": 12,
+    "OUTAGE_LATITUDE": 38.01274,
+    "OUTAGE_LONGITUDE": -122.50956,
+    "CITY": "Santa Venetia",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1791866340000,
+    "OUTAGE_START_TEXT": "2026-10-13T04:39:00Z",
+    "LAST_UPDATE": 1791882712000,
+    "LAST_UPDATE_TEXT": "2026-10-13T09:11:52Z",
+    "CURRENT_ETOR": 1791891900000,
+    "CURRENT_ETOR_TEXT": "2026-10-13T11:45:00Z",
+    "AUTO_ETOR": 1791882900000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13637701.8365,
+    "geometry_y": 4581225.704000004
   }
 ]
