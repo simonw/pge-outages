@@ -52,5 +52,32 @@
     "fts_flag": "Y",
     "geometry_x": -13630371.447999999,
     "geometry_y": 4506222.6603000015
+  },
+  {
+    "F_OUTAGE_ID": "377373",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "02286-2100636216",
+    "OUTAGE_CIRCUIT_ID": 2286,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "BRKN UG EQUIPMNT",
+    "EST_CUSTOMERS": 70,
+    "OUTAGE_LATITUDE": 37.6508,
+    "OUTAGE_LONGITUDE": -122.45418,
+    "CITY": "Daly City",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1791920546000,
+    "OUTAGE_START_TEXT": "2026-10-13T19:42:26Z",
+    "LAST_UPDATE": 1792002809000,
+    "LAST_UPDATE_TEXT": "2026-10-14T18:33:29Z",
+    "CURRENT_ETOR": 1792040400000,
+    "CURRENT_ETOR_TEXT": "2026-10-15T05:00:00Z",
+    "AUTO_ETOR": 1791933300000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13631536.963100001,
+    "geometry_y": 4530212.337200001
   }
 ]
