@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "F_OUTAGE_ID": "381328",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "16324-2101689476",
+    "OUTAGE_CIRCUIT_ID": 16324,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 37.98473,
+    "OUTAGE_LONGITUDE": -120.37984,
+    "CITY": "Sonora",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1792349580000,
+    "OUTAGE_START_TEXT": "2026-10-18T18:53:00Z",
+    "LAST_UPDATE": 1792355538000,
+    "LAST_UPDATE_TEXT": "2026-10-18T20:32:18Z",
+    "CURRENT_ETOR": 1792360800000,
+    "CURRENT_ETOR_TEXT": "2026-10-18T22:00:00Z",
+    "AUTO_ETOR": 1792360800000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13400622.490600001,
+    "geometry_y": 4577268.898500003
+  }
+]
