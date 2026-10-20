@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "F_OUTAGE_ID": "382165",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "042891102-2101772085",
+    "OUTAGE_CIRCUIT_ID": 42891102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 38.6936,
+    "OUTAGE_LONGITUDE": -122.83307,
+    "CITY": "Geyserville",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1792468200000,
+    "OUTAGE_START_TEXT": "2026-10-20T03:50:00Z",
+    "LAST_UPDATE": 1792501057000,
+    "LAST_UPDATE_TEXT": "2026-10-20T12:57:37Z",
+    "CURRENT_ETOR": 1792479600000,
+    "CURRENT_ETOR_TEXT": "2026-10-20T07:00:00Z",
+    "AUTO_ETOR": 1792479600000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13673714.805,
+    "geometry_y": 4677876.950499997
+  }
+]
