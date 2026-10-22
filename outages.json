@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13345237.704300001,
     "geometry_y": 4374071.456900001
+  },
+  {
+    "F_OUTAGE_ID": "385844",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "252681104-2100004481",
+    "OUTAGE_CIRCUIT_ID": 252681104,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man Enroute",
+    "OUTAGE_CAUSE": "STORM",
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 36.16579,
+    "OUTAGE_LONGITUDE": -119.87832,
+    "CITY": "Stratford",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1792703700000,
+    "OUTAGE_START_TEXT": "2026-10-22T21:15:00Z",
+    "LAST_UPDATE": 1792705156000,
+    "LAST_UPDATE_TEXT": "2026-10-22T21:39:16Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "Y",
+    "geometry_x": -13344793.5396,
+    "geometry_y": 4323457.865400001
   }
 ]
