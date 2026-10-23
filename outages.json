@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13345237.704300001,
     "geometry_y": 4374071.456900001
+  },
+  {
+    "F_OUTAGE_ID": "386331",
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "100000252812",
+    "OUTAGE_CIRCUIT_ID": 152201101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "PLNND SHUTDOWN",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 39.45215,
+    "OUTAGE_LONGITUDE": -121.04885,
+    "CITY": "Camptonville",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1792769797000,
+    "OUTAGE_START_TEXT": "2026-10-23T15:36:37Z",
+    "LAST_UPDATE": 1792769952000,
+    "LAST_UPDATE_TEXT": "2026-10-23T15:39:12Z",
+    "CURRENT_ETOR": 1792798200000,
+    "CURRENT_ETOR_TEXT": "2026-10-23T23:30:00Z",
+    "AUTO_ETOR": 1792798200000,
+    "SPID": "1088710105",
+    "fts_flag": "N",
+    "geometry_x": -13475096.3431,
+    "geometry_y": 4786646.686800003
   }
 ]
