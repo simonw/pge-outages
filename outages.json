@@ -25,5 +25,32 @@
     "fts_flag": "Y",
     "geometry_x": -13291318.9958,
     "geometry_y": 4407902.1027000025
+  },
+  {
+    "F_OUTAGE_ID": "386860",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "024131102-2100553400",
+    "OUTAGE_CIRCUIT_ID": 24131102,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 23,
+    "OUTAGE_LATITUDE": 37.40077,
+    "OUTAGE_LONGITUDE": -122.20399,
+    "CITY": "Ladera",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1792802370000,
+    "OUTAGE_START_TEXT": "2026-10-24T00:39:30Z",
+    "LAST_UPDATE": 1792803769000,
+    "LAST_UPDATE_TEXT": "2026-10-24T01:02:49Z",
+    "CURRENT_ETOR": 1792822500000,
+    "CURRENT_ETOR_TEXT": "2026-10-24T06:15:00Z",
+    "AUTO_ETOR": 1792822500000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13603685.9397,
+    "geometry_y": 4495117.157499999
   }
 ]
