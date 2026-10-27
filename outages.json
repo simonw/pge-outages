@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13608077.4936,
     "geometry_y": 4508921.947800003
-  },
-  {
-    "F_OUTAGE_ID": "388141",
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "412064748768",
-    "OUTAGE_CIRCUIT_ID": 182731102,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Crew On Site",
-    "OUTAGE_CAUSE": "REPLCE SRVC",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 36.64245,
-    "OUTAGE_LONGITUDE": -121.70595,
-    "CITY": "Salinas",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1793039150000,
-    "OUTAGE_START_TEXT": "2026-10-26T18:25:50Z",
-    "LAST_UPDATE": 1793063600000,
-    "LAST_UPDATE_TEXT": "2026-10-27T01:13:20Z",
-    "CURRENT_ETOR": 1793073600000,
-    "CURRENT_ETOR_TEXT": "2026-10-27T04:00:00Z",
-    "AUTO_ETOR": 1793055600000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13548244.3805,
-    "geometry_y": 4389385.421800002
   }
 ]
