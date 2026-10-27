@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13608077.4936,
     "geometry_y": 4508921.947800003
+  },
+  {
+    "F_OUTAGE_ID": "388633",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "152331105-2101077900",
+    "OUTAGE_CIRCUIT_ID": 152331105,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting Crew",
+    "OUTAGE_CAUSE": "Awaiting Investigation",
+    "EST_CUSTOMERS": 6,
+    "OUTAGE_LATITUDE": 39.1855,
+    "OUTAGE_LONGITUDE": -121.5955,
+    "CITY": "Marysville",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1793113463000,
+    "OUTAGE_START_TEXT": "2026-10-27T15:04:23Z",
+    "LAST_UPDATE": 1793123807000,
+    "LAST_UPDATE_TEXT": "2026-10-27T17:56:47Z",
+    "CURRENT_ETOR": 1793127600000,
+    "CURRENT_ETOR_TEXT": "2026-10-27T19:00:00Z",
+    "AUTO_ETOR": 1793127600000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13535949.1428,
+    "geometry_y": 4748277.7951000035
   }
 ]
