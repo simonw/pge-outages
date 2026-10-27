@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13608077.4936,
     "geometry_y": 4508921.947800003
-  },
-  {
-    "F_OUTAGE_ID": "389168",
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "219828645284",
-    "OUTAGE_CIRCUIT_ID": 63811103,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man Enroute",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 38.91009,
-    "OUTAGE_LONGITUDE": -122.06127,
-    "CITY": "Dunnigan",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1793136636000,
-    "OUTAGE_START_TEXT": "2026-10-27T21:30:36Z",
-    "LAST_UPDATE": 1793136639000,
-    "LAST_UPDATE_TEXT": "2026-10-27T21:30:39Z",
-    "CURRENT_ETOR": 1793149200000,
-    "CURRENT_ETOR_TEXT": "2026-10-28T01:00:00Z",
-    "AUTO_ETOR": 1793149200000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13587798.422,
-    "geometry_y": 4708800.9070999995
   }
 ]
