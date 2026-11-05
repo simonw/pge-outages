@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "F_OUTAGE_ID": "394340",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "014502106-2100640266",
+    "OUTAGE_CIRCUIT_ID": 14502106,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 37.67269,
+    "OUTAGE_LONGITUDE": -121.90383,
+    "CITY": "Pleasanton",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1793843866000,
+    "OUTAGE_START_TEXT": "2026-11-05T01:57:46Z",
+    "LAST_UPDATE": 1793845247000,
+    "LAST_UPDATE_TEXT": "2026-11-05T02:20:47Z",
+    "CURRENT_ETOR": 1793874600000,
+    "CURRENT_ETOR_TEXT": "2026-11-05T10:30:00Z",
+    "AUTO_ETOR": 1793874600000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13570272.2813,
+    "geometry_y": 4533290.515799999
+  }
+]
