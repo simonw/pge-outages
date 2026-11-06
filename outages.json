@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "F_OUTAGE_ID": "395193",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "014592104-2100966989",
+    "OUTAGE_CIRCUIT_ID": 14592104,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 0,
+    "OUTAGE_LATITUDE": 37.93593,
+    "OUTAGE_LONGITUDE": -121.68723,
+    "CITY": "Brentwood",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1793967780000,
+    "OUTAGE_START_TEXT": "2026-11-06T12:23:00Z",
+    "LAST_UPDATE": 1793969724000,
+    "LAST_UPDATE_TEXT": "2026-11-06T12:55:24Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13546160.479600001,
+    "geometry_y": 4570378.820200004
+  }
+]
