@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "F_OUTAGE_ID": "396088",
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "418144441947",
+    "OUTAGE_CIRCUIT_ID": 252241116,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 36.48389,
+    "OUTAGE_LONGITUDE": -119.63206,
+    "CITY": "Selma",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1794074104000,
+    "OUTAGE_START_TEXT": "2026-11-07T17:55:04Z",
+    "LAST_UPDATE": 1794074107000,
+    "LAST_UPDATE_TEXT": "2026-11-07T17:55:07Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13317380.0018,
+    "geometry_y": 4367409.802000001
+  }
+]
