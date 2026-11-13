@@ -52,32 +52,5 @@
     "fts_flag": "N",
     "geometry_x": -13528849.185600001,
     "geometry_y": 4542509.390000001
-  },
-  {
-    "F_OUTAGE_ID": "399980",
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "024131103-2100486068",
-    "OUTAGE_CIRCUIT_ID": 24131103,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting Crew",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 22,
-    "OUTAGE_LATITUDE": 37.42016,
-    "OUTAGE_LONGITUDE": -122.1664,
-    "CITY": "Stanford",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1794594367000,
-    "OUTAGE_START_TEXT": "2026-11-13T18:26:07Z",
-    "LAST_UPDATE": 1794598516000,
-    "LAST_UPDATE_TEXT": "2026-11-13T19:35:16Z",
-    "CURRENT_ETOR": 1794630600000,
-    "CURRENT_ETOR_TEXT": "2026-11-14T04:30:00Z",
-    "AUTO_ETOR": 1794630600000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13599501.440000001,
-    "geometry_y": 4497834.6131
   }
 ]
