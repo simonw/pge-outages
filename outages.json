@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13644653.738699999,
     "geometry_y": 4576535.904100001
+  },
+  {
+    "F_OUTAGE_ID": "399434",
+    "OUTAGE_EXTENT": "CUSTOMER",
+    "OUTAGE_DEVICE_ID": "100000173409",
+    "OUTAGE_CIRCUIT_ID": 254582101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 35.44307,
+    "OUTAGE_LONGITUDE": -119.12499,
+    "CITY": "Shafter",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1794562017000,
+    "OUTAGE_START_TEXT": "2026-11-13T09:26:57Z",
+    "LAST_UPDATE": 1794562021000,
+    "LAST_UPDATE_TEXT": "2026-11-13T09:27:01Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": "5655386954",
+    "fts_flag": "N",
+    "geometry_x": -13260933.2276,
+    "geometry_y": 4224256.796599999
   }
 ]
