@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "F_OUTAGE_ID": "400897",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "063601104-2100900109",
+    "OUTAGE_CIRCUIT_ID": 63601104,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 493,
+    "OUTAGE_LATITUDE": 38.3432,
+    "OUTAGE_LONGITUDE": -121.9958,
+    "CITY": "Vacaville",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1794628017000,
+    "OUTAGE_START_TEXT": "2026-11-14T03:46:57Z",
+    "LAST_UPDATE": 1794628687000,
+    "LAST_UPDATE_TEXT": "2026-11-14T03:58:07Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13580510.3349,
+    "geometry_y": 4628022.555699997
+  }
+]
