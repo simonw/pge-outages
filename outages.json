@@ -52,5 +52,32 @@
     "fts_flag": "N",
     "geometry_x": -13433019.802000001,
     "geometry_y": 4421344.234700002
+  },
+  {
+    "F_OUTAGE_ID": "403555",
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "100000217079",
+    "OUTAGE_CIRCUIT_ID": 257050001,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 2,
+    "OUTAGE_LATITUDE": 36.70306,
+    "OUTAGE_LONGITUDE": -118.93306,
+    "CITY": "Woodlake",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1794949820000,
+    "OUTAGE_START_TEXT": "2026-11-17T21:10:20Z",
+    "LAST_UPDATE": 1794949825000,
+    "LAST_UPDATE_TEXT": "2026-11-17T21:10:25Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13239567.6777,
+    "geometry_y": 4397797.607000001
   }
 ]
