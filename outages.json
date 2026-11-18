@@ -79,32 +79,5 @@
     "fts_flag": "N",
     "geometry_x": -13239567.6777,
     "geometry_y": 4397797.607000001
-  },
-  {
-    "F_OUTAGE_ID": "406891",
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "083622105-2101797245",
-    "OUTAGE_CIRCUIT_ID": 83622105,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 430,
-    "OUTAGE_LATITUDE": 37.09927,
-    "OUTAGE_LONGITUDE": -122.05308,
-    "CITY": "Lompico",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1795034267000,
-    "OUTAGE_START_TEXT": "2026-11-18T20:37:47Z",
-    "LAST_UPDATE": 1795034870000,
-    "LAST_UPDATE_TEXT": "2026-11-18T20:47:50Z",
-    "CURRENT_ETOR": null,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13586886.7154,
-    "geometry_y": 4452952.792599998
   }
 ]
