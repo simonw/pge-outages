@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "F_OUTAGE_ID": "407757",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "254441105-2100158065",
+    "OUTAGE_CIRCUIT_ID": 254441105,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Crew On Site",
+    "OUTAGE_CAUSE": "EMERG REPAIRS",
+    "EST_CUSTOMERS": 18,
+    "OUTAGE_LATITUDE": 36.70793,
+    "OUTAGE_LONGITUDE": -119.51102,
+    "CITY": "Sanger",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1795046221000,
+    "OUTAGE_START_TEXT": "2026-11-18T23:57:01Z",
+    "LAST_UPDATE": 1795076647000,
+    "LAST_UPDATE_TEXT": "2026-11-19T08:24:07Z",
+    "CURRENT_ETOR": 1795086000000,
+    "CURRENT_ETOR_TEXT": "2026-11-19T11:00:00Z",
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13303905.8906,
+    "geometry_y": 4398473.811999999
+  }
+]
