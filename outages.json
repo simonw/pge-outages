@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13610930.6122,
     "geometry_y": 4552001.303900003
-  },
-  {
-    "F_OUTAGE_ID": "408642",
-    "OUTAGE_EXTENT": "DEVICE",
-    "OUTAGE_DEVICE_ID": "012111108-2101034153",
-    "OUTAGE_CIRCUIT_ID": 12111108,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "Awaiting T-Man",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 279,
-    "OUTAGE_LATITUDE": 37.8098,
-    "OUTAGE_LONGITUDE": -122.26989,
-    "CITY": "Oakland",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1795065389000,
-    "OUTAGE_START_TEXT": "2026-11-19T05:16:29Z",
-    "LAST_UPDATE": 1795065393000,
-    "LAST_UPDATE_TEXT": "2026-11-19T05:16:33Z",
-    "CURRENT_ETOR": null,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13611021.8941,
-    "geometry_y": 4552591.6657000035
   }
 ]
