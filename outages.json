@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13394433.126899999,
     "geometry_y": 4245847.984999999
+  },
+  {
+    "F_OUTAGE_ID": "409534",
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "514981879282",
+    "OUTAGE_CIRCUIT_ID": 254402105,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": null,
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 35.66651,
+    "OUTAGE_LONGITUDE": -119.69014,
+    "CITY": "Lost Hills",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1795108337000,
+    "OUTAGE_START_TEXT": "2026-11-19T17:12:17Z",
+    "LAST_UPDATE": 1795108340000,
+    "LAST_UPDATE_TEXT": "2026-11-19T17:12:20Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13323845.437800001,
+    "geometry_y": 4254830.157799996
   }
 ]
