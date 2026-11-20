@@ -79,32 +79,5 @@
     "fts_flag": "N",
     "geometry_x": -13323847.6642,
     "geometry_y": 4475212.453199998
-  },
-  {
-    "F_OUTAGE_ID": "411504",
-    "OUTAGE_EXTENT": "CUSTOMER",
-    "OUTAGE_DEVICE_ID": "314296141785",
-    "OUTAGE_CIRCUIT_ID": 22721110,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man Enroute",
-    "OUTAGE_CAUSE": null,
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 37.63166,
-    "OUTAGE_LONGITUDE": -122.47121,
-    "CITY": "San Bruno",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1795186326000,
-    "OUTAGE_START_TEXT": "2026-11-20T14:52:06Z",
-    "LAST_UPDATE": 1795186330000,
-    "LAST_UPDATE_TEXT": "2026-11-20T14:52:10Z",
-    "CURRENT_ETOR": null,
-    "CURRENT_ETOR_TEXT": null,
-    "AUTO_ETOR": null,
-    "SPID": "5457719005",
-    "fts_flag": "N",
-    "geometry_x": -13633432.734000001,
-    "geometry_y": 4527521.607799999
   }
 ]
