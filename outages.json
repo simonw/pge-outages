@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "F_OUTAGE_ID": "412625",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "022011124-2100998446",
+    "OUTAGE_CIRCUIT_ID": 22011124,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "Awaiting T-Man",
+    "OUTAGE_CAUSE": "EMERG REPAIRS",
+    "EST_CUSTOMERS": 92,
+    "OUTAGE_LATITUDE": 37.76927,
+    "OUTAGE_LONGITUDE": -122.42212,
+    "CITY": "San Francisco",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1795265760000,
+    "OUTAGE_START_TEXT": "2026-11-21T12:56:00Z",
+    "LAST_UPDATE": 1795266247000,
+    "LAST_UPDATE_TEXT": "2026-11-21T13:04:07Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13627968.0602,
+    "geometry_y": 4546882.482000001
+  }
+]
