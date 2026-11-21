@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "F_OUTAGE_ID": "412636",
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "182551101-2101590057",
+    "OUTAGE_CIRCUIT_ID": 182551101,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "Awaiting Investigation",
+    "EST_CUSTOMERS": 49,
+    "OUTAGE_LATITUDE": 35.47003,
+    "OUTAGE_LONGITUDE": -120.97622,
+    "CITY": "Cayucos",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1795271100000,
+    "OUTAGE_START_TEXT": "2026-11-21T14:25:00Z",
+    "LAST_UPDATE": 1795277424000,
+    "LAST_UPDATE_TEXT": "2026-11-21T16:10:24Z",
+    "CURRENT_ETOR": 1795287600000,
+    "CURRENT_ETOR_TEXT": "2026-11-21T19:00:00Z",
+    "AUTO_ETOR": 1795287600000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13467011.2085,
+    "geometry_y": 4227941.226800002
+  }
+]
