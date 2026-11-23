@@ -25,32 +25,5 @@
     "fts_flag": "N",
     "geometry_x": -13574453.441399999,
     "geometry_y": 4729775.115000002
-  },
-  {
-    "F_OUTAGE_ID": "414127",
-    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
-    "OUTAGE_DEVICE_ID": "100000133801",
-    "OUTAGE_CIRCUIT_ID": 254501103,
-    "CREW_ETA": null,
-    "CREW_CURRENT_STATUS": "T-Man On Site",
-    "OUTAGE_CAUSE": "PATROLLING",
-    "EST_CUSTOMERS": 1,
-    "OUTAGE_LATITUDE": 35.59532,
-    "OUTAGE_LONGITUDE": -119.24292,
-    "CITY": "Mc Farland",
-    "COUNTY": null,
-    "ZIP": null,
-    "DEVICE_COUNT": 0,
-    "OUTAGE_START": 1795457114000,
-    "OUTAGE_START_TEXT": "2026-11-23T18:05:14Z",
-    "LAST_UPDATE": 1795460923000,
-    "LAST_UPDATE_TEXT": "2026-11-23T19:08:43Z",
-    "CURRENT_ETOR": 1795489200000,
-    "CURRENT_ETOR_TEXT": "2026-11-24T03:00:00Z",
-    "AUTO_ETOR": 1795489200000,
-    "SPID": null,
-    "fts_flag": "N",
-    "geometry_x": -13274061.1351,
-    "geometry_y": 4245079.9526999965
   }
 ]
