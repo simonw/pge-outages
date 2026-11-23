@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13574453.441399999,
     "geometry_y": 4729775.115000002
+  },
+  {
+    "F_OUTAGE_ID": "414412",
+    "OUTAGE_EXTENT": "SERVICE TRANSFORMER",
+    "OUTAGE_DEVICE_ID": "100000017719",
+    "OUTAGE_CIRCUIT_ID": 62462227,
+    "CREW_ETA": null,
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "PATROLLING",
+    "EST_CUSTOMERS": 1,
+    "OUTAGE_LATITUDE": 38.42907,
+    "OUTAGE_LONGITUDE": -121.57781,
+    "CITY": "Clarksburg",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1795468886000,
+    "OUTAGE_START_TEXT": "2026-11-23T21:21:26Z",
+    "LAST_UPDATE": 1795469036000,
+    "LAST_UPDATE_TEXT": "2026-11-23T21:23:56Z",
+    "CURRENT_ETOR": null,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": null,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13533979.901,
+    "geometry_y": 4640217.5967999995
   }
 ]
